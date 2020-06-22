@@ -12,16 +12,23 @@ I am currently a fourth-year Ph.D. student in the Department of Computer Science
 
 My research interests include: (1) **Computer Vision**: 3D computer vision, 3D object detection, 3D semantic segmentation, 3D scene understanding. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
 
+<style>
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+}
+</style>
 
+_______________________________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
-            <table cellspacing="0">
+            <table cellspacing="0" cellpadding="0" class="noBorder">
                 <tbody>
 	          <tr>
-                    <td width="40%">
+                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/FS3DSS_framework.png" border="0">
                             </td>
                     <td>
@@ -31,7 +38,7 @@ My research interests include: (1) **Computer Vision**: 3D computer vision, 3D o
 	                    <br>
 	                    <em>Under revie.  </em>
 	                    <br>
-			 			<a>[Paper]</a>
+			 			         <a>[arXiv]</a>
                     </td>
                 </tr>
 	          <tr>
@@ -66,9 +73,10 @@ My research interests include: (1) **Computer Vision**: 3D computer vision, 3D o
             </table>
 </font>
 
+_______________________________________________________________________________________________________
 
 <h3>
-  <a name="intership"></a> Academic Experiences
+  <a name="intership"></a> Academic Experience
 </h3>
 <div class="intership">
       <ul>
@@ -77,6 +85,7 @@ My research interests include: (1) **Computer Vision**: 3D computer vision, 3D o
 </div>
 
 
+_______________________________________________________________________________________________________
 <h3>
   <a name="teaching"></a> Teaching Assistant
 </h3>
