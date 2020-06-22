@@ -36,9 +36,8 @@ ________________________________________________________________________________
 	                    <br>
 	                    <strong>Na Zhao</strong>,Tat-Seng Chua, Gim Hee Lee. 
 	                    <br>
-	                    <em>Under revie.  </em>
+	                    <em>Under review.  </em>
 	                    <br>
-			 			         <a>[arXiv]</a>
                     </td>
                 </tr>
 	          <tr>
