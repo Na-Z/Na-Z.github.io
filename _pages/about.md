@@ -38,6 +38,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>Under review.  </em>
 	                    <br>
+			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">arXiv</a>]
                     </td>
                 </tr>
 	          <tr>
@@ -51,7 +52,9 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
 	                    <br>
-			 <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf">[Paper]</a> <a href="http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zhao_SESS_Self-Ensembling_Semi-Supervised_CVPR_2020_supplemental.pdf">[Supplementary Material]</a> <a href="https://github.com/Na-Z/sess">[Code]</a> 
+			 [<a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf">Paper</a>]
+			    [<a href="http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zhao_SESS_Self-Ensembling_Semi-Supervised_CVPR_2020_supplemental.pdf">Supplementary Material</a>]
+			    [<a href="https://github.com/Na-Z/sess">Code</a>]
                     </td>
                 </tr>
 			  <tr>
@@ -65,7 +68,7 @@ ________________________________________________________________________________
                         <br>
                         <em>25th International Conference on Pattern Recognition (ICPR), 2020 </em>
                         <br>
-			 <a href="https://arxiv.org/pdf/1908.05425.pdf">[Paper]</a> [Code will be released soon]
+			 [<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] [Code will be released soon]
                     </td>
                </tr>  
             	</tbody>
