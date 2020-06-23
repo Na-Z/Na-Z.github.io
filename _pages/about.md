@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D. student in the Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/), supervised by [Prof. Tat-seng Chua](https://www.chuatatseng.com/) and [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 
-My research interests include: (1) **Computer Vision**: 3D computer vision, 3D object detection, 3D semantic segmentation, 3D scene understanding. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
+My research interests include: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
 
 <style>
 table, th, td {
