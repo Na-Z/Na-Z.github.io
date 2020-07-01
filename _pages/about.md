@@ -68,7 +68,8 @@ ________________________________________________________________________________
                         <br>
                         <em>25th International Conference on Pattern Recognition (ICPR), 2020 </em>
                         <br>
-			 [<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] [<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
+			 [<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] 
+			 [<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
                     </td>
                </tr>  
             	</tbody>
