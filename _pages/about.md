@@ -55,6 +55,7 @@ ________________________________________________________________________________
 			 [<a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf">Paper</a>]
 			    [<a href="http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zhao_SESS_Self-Ensembling_Semi-Supervised_CVPR_2020_supplemental.pdf">Supplementary Material</a>]
 			    [<a href="https://github.com/Na-Z/sess">Code</a>]
+			    [<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]
                     </td>
                 </tr>
 			  <tr>
@@ -70,6 +71,7 @@ ________________________________________________________________________________
                         <br>
 			 [<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] 
 			 [<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
+			 [<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]
                     </td>
                </tr>  
             	</tbody>
@@ -83,7 +85,7 @@ ________________________________________________________________________________
 </h3>
 <div class="intership">
       <ul>
-         <li>Research Assistant. <a href="https://nextcenter.org/">NExT++</a>, National University of Singapore. August 2015 - December 2016.</li>
+         <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. August 2015 - December 2016.</li>
       </ul>
 </div>
 <div class="intership">
