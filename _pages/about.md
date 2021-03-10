@@ -88,10 +88,9 @@ ________________________________________________________________________________
 </div>
 <div class="intership">
       <ul>
-         <li>Research Associate. <a href="https://nextcenter.org/">NExT++</a>, National University of Singapore. January 2021 - Present.</li>
+         <li>Research Associate. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. January 2021 - Present.</li>
       </ul>
 </div>
-
 
 
 _______________________________________________________________________________________________________
