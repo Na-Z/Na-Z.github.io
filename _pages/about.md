@@ -88,7 +88,7 @@ ________________________________________________________________________________
 </div>
 <div class="intership">
       <ul>
-         <li>Research Associate. <a href="https://nextcenter.org/">NExT++</a>, National University of Singapore. January 2015 - Present.</li>
+         <li>Research Associate. <a href="https://nextcenter.org/">NExT++</a>, National University of Singapore. January 2021 - Present.</li>
       </ul>
 </div>
 
