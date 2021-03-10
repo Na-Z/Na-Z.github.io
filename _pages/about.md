@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. student in the Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/), supervised by [Prof. Tat-seng Chua](https://www.chuatatseng.com/) and [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
+I am currently a Research Associate working with [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 
 My research interests include: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
 
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <strong>Na Zhao</strong>,Tat-Seng Chua, Gim Hee Lee. 
 	                    <br>
-	                    <em>Under review.  </em>
+	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2021 </em>
 	                    <br>
 			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">arXiv</a>]
                     </td>
@@ -86,6 +86,12 @@ ________________________________________________________________________________
          <li>Research Assistant. <a href="https://nextcenter.org/">NExT++</a>, National University of Singapore. August 2015 - December 2016.</li>
       </ul>
 </div>
+<div class="intership">
+      <ul>
+         <li>Research Associate. <a href="https://nextcenter.org/">NExT++</a>, National University of Singapore. January 2015 - Present.</li>
+      </ul>
+</div>
+
 
 
 _______________________________________________________________________________________________________
