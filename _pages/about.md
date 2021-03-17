@@ -38,7 +38,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2021 </em>
 	                    <br>
-			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">arXiv</a>]
+			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
                     </td>
                 </tr>
 	          <tr>
@@ -52,8 +52,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
 	                    <br>
-			 [<a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf">Paper</a>]
-			    [<a href="http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zhao_SESS_Self-Ensembling_Semi-Supervised_CVPR_2020_supplemental.pdf">Supplementary Material</a>]
+			 [<a href="https://arxiv.org/pdf/1912.11803.pdf">Paper</a>]
 			    [<a href="https://github.com/Na-Z/sess">Code</a>]
 			    [<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]
                     </td>
