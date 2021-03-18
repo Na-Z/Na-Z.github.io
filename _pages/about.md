@@ -39,6 +39,7 @@ ________________________________________________________________________________
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2021 </em>
 	                    <br>
 			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
+			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
                     </td>
                 </tr>
 	          <tr>
