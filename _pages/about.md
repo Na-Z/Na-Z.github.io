@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Associate working with [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
+I am currently a Research Fellow working with [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 
 My research interests include: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
 
@@ -90,7 +90,12 @@ ________________________________________________________________________________
 </div>
 <div class="intership">
       <ul>
-         <li>Research Associate. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. January 2021 - Present.</li>
+         <li>Research Associate. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. January 2021 - March 2021.</li>
+      </ul>
+</div>
+<div class="intership">
+      <ul>
+         <li>Research Fellow. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. April 2021 - Present.</li>
       </ul>
 </div>
 
