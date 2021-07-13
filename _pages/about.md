@@ -40,6 +40,7 @@ ________________________________________________________________________________
 	                    <br>
 			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
 			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
+			    [<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]
                     </td>
                 </tr>
 	          <tr>
