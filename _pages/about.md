@@ -25,8 +25,21 @@ ________________________________________________________________________________
 </h3>
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
-            <table cellspacing="0" cellpadding="0" class="noBorder">
-                <tbody>
+        <table cellspacing="0" cellpadding="0" class="noBorder">
+           <tbody>
+            <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/SDCoT_teaser.png" border="0">
+                            </td>
+                    <td>
+                      <b>Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection </b>
+                      <br>
+                      <strong>Na Zhao</strong>, Gim Hee Lee. 
+                      <br>
+                      <em>Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022 </em>
+                      <br>
+                    </td>
+           </tr>
 	          <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/FS3DSS_framework.png" border="0">
@@ -98,6 +111,18 @@ ________________________________________________________________________________
       <ul>
          <li>Research Fellow. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. April 2021 - Present.</li>
       </ul>
+</div>
+
+
+_______________________________________________________________________________________________________
+<h3>
+  <a name="services"></a> Academic Services
+</h3>
+<div class="services">
+  <ul>
+  <li> Conference Reviewer:  CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, IJCAI 2021, MM 2019-2020, PCM 2018</li>
+  <li> Journal Reviewer: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
+  </ul>
 </div>
 
 
