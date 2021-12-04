@@ -12,6 +12,25 @@ I am currently a Research Fellow working with [Assistant Professor Gim Hee Lee](
 
 My research interests include: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
 
+
+_______________________________________________________________________________________________________
+<h3>
+  <a name="news"></a> News
+</h3>
+<div class="news">
+  <font face="helvetica, ariel, &#39;sans serif&#39;">
+  <ul>
+  <li> **[Dec 2021]** Our paper about <em>class-incremental 3D object detection</em> is accepted by AAAI 2022!</li>
+  <li> **[Jun 2021]** I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
+  <li> **[May 2021]** I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
+  <li> **[Mar 2021]** I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
+  <li> **[Mar 2021]** Our paper about <em>few-shot 3D semantic segmentation</em> is accepted by CVPR 2021!</li>
+  <li> **[Aug 2020]** I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
+  <li> **[Feb 2020]** Our paper about <em>semi-supervised 3D object detection</em> is accepted by CVPR 2020 as an oral paper!</li>
+  </ul>
+</div>
+
+
 <style>
 table, th, td {
   border: none;
@@ -120,8 +139,8 @@ ________________________________________________________________________________
 </h3>
 <div class="services">
   <ul>
-  <li> Conference Reviewer:  CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, IJCAI 2021, MM 2019-2020, PCM 2018</li>
-  <li> Journal Reviewer: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
+  <li> <strong>Conference Reviewer</strong>:  CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, IJCAI 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Journal Reviewer</strong>: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
 
