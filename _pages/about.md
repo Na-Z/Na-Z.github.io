@@ -115,19 +115,11 @@ ________________________________________________________________________________
 <h3>
   <a name="intership"></a> Academic Experience
 </h3>
-<div class="intership">
+<div class="mini">
       <ul>
-         <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. August 2015 - December 2016.</li>
-      </ul>
-</div>
-<div class="intership">
-      <ul>
-         <li>Research Associate. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. January 2021 - March 2021.</li>
-      </ul>
-</div>
-<div class="intership">
-      <ul>
-         <li>Research Fellow. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. April 2021 - Present.</li>
+       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. August 2015 - December 2016.</li>
+       <li>Research Associate. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. January 2021 - March 2021.</li>
+       <li>Research Fellow. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. April 2021 - Present.</li>
       </ul>
 </div>
 
@@ -136,7 +128,7 @@ ________________________________________________________________________________
 <h3>
   <a name="services"></a> Academic Services
 </h3>
-<div class="services">
+<div class="mini">
   <ul>
   <li> <strong>Conference Reviewer</strong>: CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, IJCAI 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
@@ -148,7 +140,7 @@ ________________________________________________________________________________
 <h3>
   <a name="teaching"></a> Teaching Assistant
 </h3>
-<div class="teaching">
+<div class="mini">
   <ul>
   <li> CG3002 Embedded Systems Design Project (2017 Fall) </li>
   <li> CS4242 Social Media Computing (2018 Spring, 2019 Spring) </li>
