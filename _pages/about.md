@@ -18,15 +18,14 @@ ________________________________________________________________________________
   <a name="news"></a> News
 </h3>
 <div class="news">
-  <font face="helvetica, ariel, &#39;sans serif&#39;">
   <ul>
-  <li> **[Dec 2021]** Our paper about <em>class-incremental 3D object detection</em> is accepted by AAAI 2022!</li>
-  <li> **[Jun 2021]** I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
-  <li> **[May 2021]** I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
-  <li> **[Mar 2021]** I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
-  <li> **[Mar 2021]** Our paper about <em>few-shot 3D semantic segmentation</em> is accepted by CVPR 2021!</li>
-  <li> **[Aug 2020]** I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
-  <li> **[Feb 2020]** Our paper about <em>semi-supervised 3D object detection</em> is accepted by CVPR 2020 as an oral paper!</li>
+  <li> <strong>[Dec 2021]</strong> Our paper about class-incremental 3D object detection is accepted by AAAI 2022!</li>
+  <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
+  <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
+  <li> <strong>[Mar 2021]</strong> I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
+  <li> <strong>[Mar 2021]</strong> Our paper about few-shot 3D semantic segmentation is accepted by CVPR 2021!</li>
+  <li> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
+  <li> <strong>[Feb 2020]</strong> Our paper about semi-supervised 3D object detection is accepted by CVPR 2020 as an oral paper!</li>
   </ul>
 </div>
 
