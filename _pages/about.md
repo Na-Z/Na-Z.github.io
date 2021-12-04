@@ -19,7 +19,7 @@ ________________________________________________________________________________
 </h3>
 <div class="news">
   <ul>
-  <li> <strong>[Dec 2021]</strong> Our paper about class-incremental 3D object detection is accepted by AAAI 2022!</li>
+  <li><div style="font-size:12px";> <strong>[Dec 2021]</strong> Our paper about class-incremental 3D object detection is accepted by AAAI 2022!</div></li>
   <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
   <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
   <li> <strong>[Mar 2021]</strong> I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
