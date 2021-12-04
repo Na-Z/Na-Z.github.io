@@ -19,13 +19,13 @@ ________________________________________________________________________________
 </h3>
 <div class="news">
   <ul>
-  <li> <strong>[Dec 2021]</strong> Our paper about class-incremental 3D object detection is accepted by AAAI 2022!</li>
-  <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
-  <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
-  <li> <strong>[Mar 2021]</strong> I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
-  <li> <strong>[Mar 2021]</strong> Our paper about few-shot 3D semantic segmentation is accepted by CVPR 2021!</li>
-  <li> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
-  <li> <strong>[Feb 2020]</strong> Our paper about semi-supervised 3D object detection is accepted by CVPR 2020 as an oral paper!</li>
+  <li style="font-size:10px";> <strong>[Dec 2021]</strong> Our paper about class-incremental 3D object detection is accepted by AAAI 2022!</li>
+  <li style="font-size:20px";> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
+  <li style="font-size:30px";> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
+  <li style="font-size:40px";> <strong>[Mar 2021]</strong> I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
+  <li style="font-size:50px";> <strong>[Mar 2021]</strong> Our paper about few-shot 3D semantic segmentation is accepted by CVPR 2021!</li>
+  <li style="font-size:40px";> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
+  <li style="font-size:40px";> <strong>[Feb 2020]</strong> Our paper about semi-supervised 3D object detection is accepted by CVPR 2020 as an oral paper!</li>
   </ul>
 </div>
 
@@ -138,7 +138,7 @@ ________________________________________________________________________________
 </h3>
 <div class="services">
   <ul>
-  <li> <strong>Conference Reviewer</strong>:  CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, IJCAI 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>: CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, IJCAI 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
