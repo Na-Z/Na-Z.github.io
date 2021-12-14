@@ -130,7 +130,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, IJCAI 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>: IJCAI 2021-2022, CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
