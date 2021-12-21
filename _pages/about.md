@@ -56,6 +56,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022 </em>
                       <br>
+                      [<a href="https://arxiv.org/pdf/2112.07241.pdf">Preprint</a>]
                     </td>
            </tr>
 	          <tr>
