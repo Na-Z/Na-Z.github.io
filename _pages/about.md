@@ -41,6 +41,7 @@ ________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
+[Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.]
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
