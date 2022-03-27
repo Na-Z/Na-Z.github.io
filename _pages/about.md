@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow working with [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Assistant Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
+I am currently a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 
 My research interests include: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
 
@@ -55,9 +55,10 @@ ________________________________________________________________________________
                       <br>
                       <strong>Na Zhao</strong>, Gim Hee Lee. 
                       <br>
-                      <em>Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022 </em>
+                      <em>Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022 </em><i style="color:#e74d3c">Oral Presentation</i>
                       <br>
                       [<a href="https://arxiv.org/pdf/2112.07241.pdf">Preprint</a>]
+                      [<a href="https://github.com/Na-Z/SDCoT">Code</a>]
                     </td>
            </tr>
 	          <tr>
@@ -132,7 +133,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: IJCAI 2021-2022, CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>: ECCV 2022, IJCAI 2021-2022, CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
