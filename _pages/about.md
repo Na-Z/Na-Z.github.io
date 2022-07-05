@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 
-My research interests include: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
+My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
 
 
 _______________________________________________________________________________________________________
@@ -19,13 +19,14 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Dec 2021]</strong> Our paper about class-incremental 3D object detection is accepted by AAAI 2022!</li>
+  <li> <strong>[Jul 2022]</strong> Three papers respectively about single-stage 3D object detection, domain generalized semantic segmentatio, and noisy label learning in facial expression are accepted by ECCV 2022!</li>
+  <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
   <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
   <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
   <li> <strong>[Mar 2021]</strong> I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
-  <li> <strong>[Mar 2021]</strong> Our paper about few-shot 3D semantic segmentation is accepted by CVPR 2021!</li>
+  <li> <strong>[Mar 2021]</strong> One paper about few-shot 3D semantic segmentation is accepted by CVPR 2021!</li>
   <li> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
-  <li> <strong>[Feb 2020]</strong> Our paper about semi-supervised 3D object detection is accepted by CVPR 2020 as an oral paper!</li>
+  <li> <strong>[Feb 2020]</strong> One paper about semi-supervised 3D object detection is accepted by CVPR 2020 as an oral paper!</li>
   </ul>
 </div>
 
@@ -134,7 +135,7 @@ ________________________________________________________________________________
 <div class="mini">
   <ul>
   <li> <strong>Conference Reviewer</strong>: ECCV 2022, IJCAI 2021-2022, CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
-  <li> <strong>Journal Reviewer</strong>: Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
+  <li> <strong>Journal Reviewer</strong>: Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
 
