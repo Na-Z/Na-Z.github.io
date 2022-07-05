@@ -19,7 +19,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Jul 2022]</strong> Three papers respectively about single-stage 3D object detection, domain generalized semantic segmentatio, and noisy label learning in facial expression are accepted by ECCV 2022!</li>
+  <li> <strong>[Jul 2022]</strong> Three papers respectively about single-stage 3D object detection, domain generalized semantic segmentation, and noisy label learning in facial expression are accepted by ECCV 2022!</li>
   <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
   <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
   <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
