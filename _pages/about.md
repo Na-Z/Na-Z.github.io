@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
+I am currently an Assistant Professor in the [Information Systems Technology and Design Pillar (ISTD)](https://istd.sutd.edu.sg) at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 
-My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  3D scene understanding, 3D object detection, 3D semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning.
+My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, unsupervised/self supervised learning, robust learning.
 
 
 _______________________________________________________________________________________________________
@@ -19,6 +19,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Aug 2022]</strong> I join the Singapore University of Technology and Design as an Assistant Professor!</li>
   <li> <strong>[Jul 2022]</strong> Three papers respectively about single-stage 3D object detection, domain generalized semantic segmentation, and noisy label learning in facial expression are accepted by ECCV 2022!</li>
   <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
   <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
@@ -121,9 +122,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
-       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. August 2015 - December 2016.</li>
+       <li>Research Fellow. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. April 2021 - July 2022.</li>
        <li>Research Associate. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. January 2021 - March 2021.</li>
-       <li>Research Fellow. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. April 2021 - Present.</li>
+       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. August 2015 - December 2016.</li>
       </ul>
 </div>
 
