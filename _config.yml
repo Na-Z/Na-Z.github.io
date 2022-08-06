@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Na ZHAO"
   avatar           : "profile.png"
-  bio              : "Research Fellow, National University of Singapore"
+  bio              : "Assistant Professor, Singapore University of Technology and Design"
   location         : "Singapore"
   employer         :
  # pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao"
-  email            : zhaona@nus.edu.sg
+  email            : na_zhao@sutd.edu.sg
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
