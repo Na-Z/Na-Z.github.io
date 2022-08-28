@@ -12,6 +12,17 @@ I am currently an Assistant Professor in the Information Systems Technology and 
 
 My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, transfer learning, robust learning.
 
+_______________________________________________________________________________________________________
+<h3>
+  <a name="positions"></a> Open Positions
+</h3>
+<div class="highlight"> 
+  <li><strong>I are looking for PhD applicants with strong backgrounds in computer science, fully-supported by [SUTD](https://sutd.edu.sg/Admissions/Graduate/Scholarships)/[AISG](https://aisingapore.org/research/aisg-phd-fellowship-programme/)/[SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) scholarship.<strong></strong>li>
+  <li><strong>I are looking for self-fund **MComp**/**BComp** students and **Visiting Scholars** with strong interests in the area of (3D) computer vision and machine learning.<strong></strong>li>  
+  <li><strong>I am recruiting motivated **Research Assistants** and **Research Interns** with related research experience. 
+
+  Please contact me via email if you are interested to work with me at SUTD.
+<div class="highlight">  
 
 _______________________________________________________________________________________________________
 <h3>
@@ -48,10 +59,55 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
-            <tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/RDIoU_pipeline.png" border="0">
+                    </td>
+                    <td>
+                      <b>Rethinking IoU-based Optimization for Single-stage 3D Object Detection </b>
+                      <br>
+                      Hualian Sheng, Sijia Cai, <strong>Na Zhao*</strong>, Bing Deng, Jianqiang Huang, Xian-Sheng Hua, Min-Jian Zhao, Gim Hee Lee <i style="color:#e74d3c">* corresponding author</i>
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2022 </em>
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2207.09332.pdf">Preprint</a>]
+                      [<a href="https://github.com/hlsheng1/RDIoU">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/SOFT_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Teaching with Soft Label Smoothing for Mitigating Noisy Labels in Facial Expressions </b>
+                      <br>
+                      Tohar Lukov, <strong>Na Zhao*</strong>, Gim Hee Lee, Ser-Nam Lim
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2022 </em>
+                      <br>
+                      [Preprint]
+                      [Code]
+                    </td>
+              </tr>  
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/SHADE_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation </b>
+                      <br>
+                      Yuyang Zhao, Zhun Zhong, <strong>Na Zhao*</strong>, Nicu Sebe, Gim Hee Lee
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2022 </em>
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2204.02548.pdf">Preprint</a>]
+                      [<a href="https://github.com/HeliosZhao/SHADE">Code</a>]
+                    </td>
+              </tr>
+              <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/SDCoT_teaser.png" border="0">
-                            </td>
+                    </td>
                     <td>
                       <b>Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection </b>
                       <br>
@@ -62,11 +118,11 @@ ________________________________________________________________________________
                       [<a href="https://arxiv.org/pdf/2112.07241.pdf">Preprint</a>]
                       [<a href="https://github.com/Na-Z/SDCoT">Code</a>]
                     </td>
-           </tr>
-	          <tr>
+              </tr>
+	            <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/FS3DSS_framework.png" border="0">
-                            </td>
+                    </td>
                     <td>
 	                    <b>Few-shot 3D Point Cloud Semantic Segmentation </b>
 	                    <br>
@@ -74,15 +130,15 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2021 </em>
 	                    <br>
-			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
-			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
-			    [<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]
+            			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
+            			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
+            			    [<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]
                     </td>
-                </tr>
-	          <tr>
+              </tr>
+	            <tr>
                     <td width="40%">
                         <img width="320" src="../images/SESS_teaser.png" border="0">
-                            </td>
+                    </td>
                     <td>
 	                    <b>SESS: Self-Ensembling Semi-Supervised 3D Object Detection </b>
 	                    <br>
@@ -90,15 +146,15 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
 	                    <br>
-			 [<a href="https://arxiv.org/pdf/1912.11803.pdf">Paper</a>]
-			    [<a href="https://github.com/Na-Z/sess">Code</a>]
-			    [<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]
+			                [<a href="https://arxiv.org/pdf/1912.11803.pdf">Paper</a>]
+            			    [<a href="https://github.com/Na-Z/sess">Code</a>]
+            			    [<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]
                     </td>
-                </tr>
-			  <tr>
+              </tr>
+			        <tr>
                     <td width="40%">
                         <img width="320" src="../images/PS2Net_teaser.png" border="0">
-                            </td>
+                    </td>
                     <td>
                         <b>PS^2-Net: A Locally and Globally Aware Network for Point-Based Semantic Segmentation</b>
                         <br>
@@ -106,9 +162,9 @@ ________________________________________________________________________________
                         <br>
                         <em>25th International Conference on Pattern Recognition (ICPR), 2020 </em>
                         <br>
-			 [<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] 
-			 [<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
-			 [<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]
+                  			[<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] 
+                  			[<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
+                  			[<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]
                     </td>
                </tr>  
             	</tbody>
@@ -135,7 +191,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: ECCV 2022, IJCAI 2021-2022, CVPR 2021-2022, AAAI 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>: AAAI 2021-2023, BMVC 2022, ECCV 2022, IJCAI 2021-2022, CVPR 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
