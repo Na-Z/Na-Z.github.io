@@ -17,12 +17,12 @@ ________________________________________________________________________________
   <a name="positions"></a> Open Positions
 </h3>
 <div class="highlight"> 
-  <li><strong>I are looking for PhD applicants with strong backgrounds in computer science, fully-supported by [SUTD](https://sutd.edu.sg/Admissions/Graduate/Scholarships)/[AISG](https://aisingapore.org/research/aisg-phd-fellowship-programme/)/[SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) scholarship.<strong></strong>li>
-  <li><strong>I are looking for self-fund **MComp**/**BComp** students and **Visiting Scholars** with strong interests in the area of (3D) computer vision and machine learning.<strong></strong>li>  
-  <li><strong>I am recruiting motivated **Research Assistants** and **Research Interns** with related research experience. 
+  <li>I are looking for PhD applicants with strong backgrounds in computer science, fully-supported by [SUTD](https://sutd.edu.sg/Admissions/Graduate/Scholarships)/[AISG](https://aisingapore.org/research/aisg-phd-fellowship-programme/)/[SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) scholarship.<li>
+  <li>I are looking for self-fund **MComp**/**BComp** students and **Visiting Scholars** with strong interests in the area of (3D) computer vision and machine learning.<li>  
+  <li>I am recruiting motivated **Research Assistants** and **Research Interns** with related research experience.</li>
 
   Please contact me via email if you are interested to work with me at SUTD.
-<div class="highlight">  
+</div>  
 
 _______________________________________________________________________________________________________
 <h3>
@@ -76,7 +76,7 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/SOFT_framework.png" border="0">
+                        <img width="280" src="../images/SOFT_framework.png" border="0">
                     </td>
                     <td>
                       <b>Teaching with Soft Label Smoothing for Mitigating Noisy Labels in Facial Expressions </b>
