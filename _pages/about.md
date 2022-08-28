@@ -20,7 +20,7 @@ ________________________________________________________________________________
   <ul>
   <li>I are looking for <strong>PhD applicants</strong> with strong backgrounds in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> scholarship.</li>
   <li>I are looking for self-fund <strong>MComp/BComp students</strong> and <strong>visiting scholars</strong> with strong interests in the area of (3D) computer vision and machine learning.</li>  
-  <li>I am recruiting <strong>research assistants</strong> and <strong>research interns</strong> with related research experience.</li>
+  <li>I am recruiting <strong>research assistants</strong> and <strong>research interns</strong> with relevant research experience.</li>
   </ul>
   <i>Please contact me via email if you are interested to work with me at SUTD.</i>
 </div>  
@@ -62,7 +62,7 @@ ________________________________________________________________________________
            <tbody>
               <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/RDIoU_pipeline.png" border="0">
+                        <img width="320" src="../images/RDIoU_framework.png" border="0">
                     </td>
                     <td>
                       <b>Rethinking IoU-based Optimization for Single-stage 3D Object Detection </b>
@@ -128,7 +128,7 @@ ________________________________________________________________________________
                     <td>
 	                    <b>Few-shot 3D Point Cloud Semantic Segmentation </b>
 	                    <br>
-	                    <strong>Na Zhao</strong>,Tat-Seng Chua, Gim Hee Lee. 
+	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee. 
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2021 </em>
 	                    <br>
@@ -144,7 +144,7 @@ ________________________________________________________________________________
                     <td>
 	                    <b>SESS: Self-Ensembling Semi-Supervised 3D Object Detection </b>
 	                    <br>
-	                    <strong>Na Zhao</strong>,Tat-Seng Chua, Gim Hee Lee. 
+	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee. 
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
 	                    <br>
@@ -160,7 +160,7 @@ ________________________________________________________________________________
                     <td>
                         <b>PS^2-Net: A Locally and Globally Aware Network for Point-Based Semantic Segmentation</b>
                         <br>
-                        <strong>Na Zhao</strong>,Tat-Seng Chua, Gim Hee Lee.
+                        <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee.
                         <br>
                         <em>25th International Conference on Pattern Recognition (ICPR), 2020 </em>
                         <br>
