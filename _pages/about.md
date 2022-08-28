@@ -87,8 +87,9 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
-                      [Preprint]
+                      [Paper]
                       [Code]
+                      <br>
                     </td>
               </tr>  
               <tr>
@@ -96,6 +97,7 @@ ________________________________________________________________________________
                         <img width="320" src="../images/SHADE_teaser.png" border="0">
                     </td>
                     <td>
+                      <br>
                       <b>Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation </b>
                       <br>
                       Yuyang Zhao, Zhun Zhong, <strong>Na Zhao</strong>, Nicu Sebe, Gim Hee Lee
@@ -104,6 +106,7 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://arxiv.org/pdf/2204.02548.pdf">Preprint</a>]
                       [<a href="https://github.com/HeliosZhao/SHADE">Code</a>]
+                      <br>
                     </td>
               </tr>
               <tr>
@@ -111,14 +114,16 @@ ________________________________________________________________________________
                         <img width="320" src="../images/SDCoT_teaser.png" border="0">
                     </td>
                     <td>
+                      <br>
                       <b>Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection </b>
                       <br>
-                      <strong>Na Zhao</strong>, Gim Hee Lee. 
+                      <strong>Na Zhao</strong>, Gim Hee Lee
                       <br>
                       <em>Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022 </em><i style="color:#e74d3c">Oral Presentation</i>
                       <br>
                       [<a href="https://arxiv.org/pdf/2112.07241.pdf">Preprint</a>]
                       [<a href="https://github.com/Na-Z/SDCoT">Code</a>]
+                      <br>
                     </td>
               </tr>
 	            <tr>
@@ -126,15 +131,17 @@ ________________________________________________________________________________
                         <img width="320" src="../images/FS3DSS_framework.png" border="0">
                     </td>
                     <td>
+                      <br>
 	                    <b>Few-shot 3D Point Cloud Semantic Segmentation </b>
 	                    <br>
-	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee. 
+	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2021 </em>
 	                    <br>
             			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
             			    [<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]
+                      <br>
                     </td>
               </tr>
 	            <tr>
@@ -142,15 +149,17 @@ ________________________________________________________________________________
                         <img width="320" src="../images/SESS_teaser.png" border="0">
                     </td>
                     <td>
+                      <br>
 	                    <b>SESS: Self-Ensembling Semi-Supervised 3D Object Detection </b>
 	                    <br>
-	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee. 
+	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
 	                    <br>
 			                [<a href="https://arxiv.org/pdf/1912.11803.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/sess">Code</a>]
             			    [<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]
+                      <br>
                     </td>
               </tr>
 			        <tr>
@@ -158,15 +167,17 @@ ________________________________________________________________________________
                         <img width="320" src="../images/PS2Net_teaser.png" border="0">
                     </td>
                     <td>
+                        <br>
                         <b>PS^2-Net: A Locally and Globally Aware Network for Point-Based Semantic Segmentation</b>
                         <br>
-                        <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee.
+                        <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
                         <br>
                         <em>25th International Conference on Pattern Recognition (ICPR), 2020 </em>
                         <br>
                   			[<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] 
                   			[<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
                   			[<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]
+                        <br>
                     </td>
                </tr>  
             	</tbody>
