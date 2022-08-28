@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by Associate Professor Gim Hee Lee. 
+I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by Associate Professor Gim Hee Lee. 
 
 My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, transfer learning, robust learning.
 
@@ -20,9 +20,9 @@ ________________________________________________________________________________
   <ul>
   <li>I are looking for <strong>PhD applicants</strong> with strong backgrounds in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> scholarship.</li>
   <li>I are looking for self-fund <strong>MComp/BComp students</strong> and <strong>visiting scholars</strong> with strong interests in the area of (3D) computer vision and machine learning.</li>  
-  <li>I am recruiting motivated <strong>research assistants</strong> and <strong>research interns</strong> with related research experience.</li>
+  <li>I am recruiting <strong>research assistants</strong> and <strong>research interns</strong> with related research experience.</li>
   </ul>
-  Please contact me via email if you are interested to work with me at SUTD.
+  <i>Please contact me via email if you are interested to work with me at SUTD.</i>
 </div>  
 
 _______________________________________________________________________________________________________
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 <div class="mini">
   <ul>
   <li> <strong>[Aug 2022]</strong> I join the Singapore University of Technology and Design as an Assistant Professor!</li>
-  <li> <strong>[Jul 2022]</strong> Three papers respectively about single-stage 3D object detection, domain generalized semantic segmentation, and noisy label learning in facial expression are accepted by ECCV 2022!</li>
+  <li> <strong>[Jul 2022]</strong> Three papers are accepted by ECCV 2022!</li>
   <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
   <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
   <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
@@ -55,7 +55,7 @@ ________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
-[Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.]
+<i>Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.</i>
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
@@ -67,7 +67,8 @@ ________________________________________________________________________________
                     <td>
                       <b>Rethinking IoU-based Optimization for Single-stage 3D Object Detection </b>
                       <br>
-                      Hualian Sheng, Sijia Cai, <strong>Na Zhao*</strong>, Bing Deng, Jianqiang Huang, Xian-Sheng Hua, Min-Jian Zhao, Gim Hee Lee <i style="color:#e74d3c">* corresponding author</i>
+                      Hualian Sheng, Sijia Cai, <strong>Na Zhao*</strong>, Bing Deng, Jianqiang Huang, Xian-Sheng Hua, Min-Jian Zhao, Gim Hee Lee 
+                      <i style="color:#e74d3c">* indicates corresponding author</i>
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
@@ -77,12 +78,12 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
-                        <img width="280" src="../images/SOFT_framework.png" border="0">
+                        <img width="320" src="../images/SOFT_framework.png" border="0">
                     </td>
                     <td>
                       <b>Teaching with Soft Label Smoothing for Mitigating Noisy Labels in Facial Expressions </b>
                       <br>
-                      Tohar Lukov, <strong>Na Zhao*</strong>, Gim Hee Lee, Ser-Nam Lim
+                      Tohar Lukov, <strong>Na Zhao</strong>, Gim Hee Lee, Ser-Nam Lim
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
@@ -97,7 +98,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Style-Hallucinated Dual Consistency Learning for Domain Generalized Semantic Segmentation </b>
                       <br>
-                      Yuyang Zhao, Zhun Zhong, <strong>Na Zhao*</strong>, Nicu Sebe, Gim Hee Lee
+                      Yuyang Zhao, Zhun Zhong, <strong>Na Zhao</strong>, Nicu Sebe, Gim Hee Lee
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
