@@ -18,8 +18,8 @@ ________________________________________________________________________________
 </h3>
 <div class="highlight"> 
   <ul>
-  <li>I are looking for <strong>PhD applicants</strong> with strong backgrounds in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> scholarship.</li>
-  <li>I are looking for self-fund <strong>MComp/BComp students</strong> and <strong>visiting scholars</strong> with strong interests in the area of (3D) computer vision and machine learning.</li>  
+  <li>I am looking for <strong>PhD applicants</strong> with strong backgrounds in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> scholarship.</li>
+  <li>I am looking for self-fund <strong>MComp/BComp students</strong> and <strong>visiting scholars</strong> with strong interests in the area of (3D) computer vision and machine learning.</li>  
   <li>I am recruiting <strong>research assistants</strong> and <strong>research interns</strong> with relevant research experience.</li>
   </ul>
   <i>Please contact me via email if you are interested to work with me at SUTD.</i>
