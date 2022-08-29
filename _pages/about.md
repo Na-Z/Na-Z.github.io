@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore (NUS)](http://www.nus.edu.sg/). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-seng Chua](https://www.chuatatseng.com/) and co-supervised by Associate Professor Gim Hee Lee. 
+I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/) and co-supervised by Associate Professor Gim Hee Lee. 
 
 My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, transfer learning, robust learning.
 
@@ -20,7 +20,7 @@ ________________________________________________________________________________
   <ul>
   <li>I am looking for <strong>PhD applicants</strong> with strong backgrounds in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> scholarship.</li>
   <li>I am looking for self-fund <strong>MComp/BComp students</strong> and <strong>visiting scholars</strong> with strong interests in the area of (3D) computer vision and machine learning.</li>  
-  <li>I am recruiting <strong>research assistants</strong> and <strong>research interns</strong> with relevant research experience.</li>
+  <li>I am recruiting <strong>research assistants</strong> and <strong>research interns</strong> with relevant research experience on computer vision.</li>
   </ul>
   <i>Please contact me via email if you are interested to work with me at SUTD.</i>
 </div>  
@@ -121,7 +121,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022 </em><i style="color:#e74d3c">Oral Presentation</i>
                       <br>
-                      [<a href="https://arxiv.org/pdf/2112.07241.pdf">Preprint</a>]
+                      [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20254">Paper</a>]
                       [<a href="https://github.com/Na-Z/SDCoT">Code</a>]
                       <br>
                     </td>
