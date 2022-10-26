@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/) and co-supervised by Associate Professor Gim Hee Lee. 
+I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception (CVRP) Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
 
-My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: semi-supervised learning, few-shot learning, incremental learning, transfer learning, robust learning.
+My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning such as semi-supervised learning and few-shot learning, continual/incremental learning, robust learning, out-of-distribution learning.
 
 _______________________________________________________________________________________________________
 <h3>
