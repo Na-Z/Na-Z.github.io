@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I did my Ph.D. from January 2017 to March 2021 at the Department of Computer Science, NUS, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/) and closely worked with Associate Professor Gim Hee Lee. 
+I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/) and worked closely with Associate Professor Gim Hee Lee. 
 
 My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning such as semi-supervised learning and few-shot learning, continual/incremental learning, robust learning, out-of-distribution learning.
 
@@ -19,8 +19,8 @@ ________________________________________________________________________________
 <div class="highlight"> 
   <ul>
   <li>I am looking for <strong>PhD applicants</strong> with strong backgrounds in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> scholarship.</li>
-  <li>I am looking for self-fund <strong>MComp/BComp students</strong> and <strong>visiting scholars</strong> with strong interests in the area of (3D) computer vision and machine learning.</li>  
-  <li>I am recruiting <strong>research assistants</strong> and <strong>research interns</strong> with relevant research experience on computer vision.</li>
+  <li>I am recruiting <strong>research fellow</strong> (with doctoral degree), <strong>research associate</strong> (with master degree) and <strong>research assistant</strong> (with bachelor/master degree) with relevant research experience on computer vision.</li>
+  <li>I am welcoming self-fund <strong>visiting PhD/Master/UnderGrad students</strong> and <strong>MComp/BComp students</strong> from local universities in Singapore with interests in the area of (3D) computer vision and machine learning.</li>  
   </ul>
   <i>Please contact me via email if you are interested to work with me at SUTD.</i>
 </div>  
@@ -72,7 +72,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
-                      [<a href="https://arxiv.org/pdf/2207.09332.pdf">Preprint</a>]
+                      [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690536.pdf">Paper</a>]
                       [<a href="https://github.com/hlsheng1/RDIoU">Code</a>]
                     </td>
               </tr>
@@ -87,8 +87,8 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
-                      [Paper]
-                      [Code]
+                      [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720639.pdf">Paper</a>]
+                      [<a href="https://github.com/toharl/soft">Code</a>]
                       <br>
                     </td>
               </tr>  
@@ -104,7 +104,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
-                      [<a href="https://arxiv.org/pdf/2204.02548.pdf">Preprint</a>]
+                      [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880530.pdf">Paper</a>]
                       [<a href="https://github.com/HeliosZhao/SHADE">Code</a>]
                       <br>
                     </td>
@@ -204,8 +204,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: AAAI 2021-2023, BMVC 2022, ECCV 2022, IJCAI 2021-2022, CVPR 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
-  <li> <strong>Journal Reviewer</strong>: Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
+  <li> <strong>Conference Reviewer</strong>: CVPR 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, IJCAI 2021-2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Journal Reviewer</strong>: Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
 
