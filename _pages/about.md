@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [Associate Professor Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/) and worked closely with Associate Professor Gim Hee Lee. 
 
-My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning such as semi-supervised learning and few-shot learning, continual/incremental learning, robust learning, out-of-distribution learning.
+My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning such as semi-supervised learning and few-shot learning, out-of-distribution learning, robust learning, continual/incremental learning.
 
 _______________________________________________________________________________________________________
 <h3>
@@ -18,9 +18,9 @@ ________________________________________________________________________________
 </h3>
 <div class="highlight"> 
   <ul>
-  <li>I am looking for <strong>PhD applicants</strong> with strong backgrounds in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a> scholarship.</li>
-  <li>I am recruiting <strong>research fellow</strong> (with doctoral degree), <strong>research associate</strong> (with master degree) and <strong>research assistant</strong> (with bachelor/master degree) with relevant research experience on computer vision.</li>
-  <li>I am welcoming self-fund <strong>visiting PhD/Master/UnderGrad students</strong> and <strong>MComp/BComp students</strong> from local universities in Singapore with interests in the area of (3D) computer vision and machine learning.</li>  
+  <li>I am looking for <strong>PhD applicants</strong> with strong background in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a>/industry scholarship.</li>
+  <li>I am recruiting <strong>research associate</strong> (holds a master degree) and <strong>research assistant</strong> (at least holds a bachelor degree) with relevant research experience on computer vision.</li>
+  <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master/UnderGrad students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>  
   </ul>
   <i>Please contact me via email if you are interested to work with me at SUTD.</i>
 </div>  
