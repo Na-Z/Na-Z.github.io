@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow working with [A/P Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/) and worked closely with A/P Gim Hee Lee. 
+I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
 
 My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning such as semi-supervised learning and few-shot learning, out-of-distribution learning, robust learning, continual/incremental learning.
 
@@ -212,12 +212,13 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________
 <h3>
-  <a name="teaching"></a> Teaching Assistant
+  <a name="teaching"></a> Teaching Experience
 </h3>
 <div class="mini">
   <ul>
-  <li> CG3002 Embedded Systems Design Project (2017 Fall) </li>
-  <li> CS4242 Social Media Computing (2018 Spring, 2019 Spring) </li>
-  <li> CS5340 Uncertainty Modeling in AI (2018 Fall)  </li>
+  <li> Instructor, 50.007 Machine Learning, Spring 2023. </li>
+  <li> Teaching Assistant, CS4242 Social Media Computing, Spring 2018 & Spring 2019.</li>
+  <li> Teaching Assistant, CS5340 Uncertainty Modeling in AI, Fall 2018.  </li>
+  <li> Teaching Assistant, CG3002 Embedded Systems Design Project, Fall 2017. </li>
   </ul>
 </div>
