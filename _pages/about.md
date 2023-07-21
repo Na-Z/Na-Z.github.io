@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
 
-I am heading Intelligent Machine Perception Lab (IMPL) at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning, out-of-distribution learning, multi-modal learning, robust learning, continual/incremental learning.
+I am heading <strong>Intelligent Machine Perception Lab (IMPL)</strong> at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning, out-of-distribution learning, multi-modal learning, robust learning, continual learning.
 
 _______________________________________________________________________________________________________
 <h3>
@@ -36,8 +36,8 @@ ________________________________________________________________________________
   <li> <strong>[May 2023]</strong> One paper about monocular 3D object detection is accepted by TCSVT 2023!</li>
   <li> <strong>[Mar 2023]</strong> I am invited to serve as Demo Chair at Sixth IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR 2023)!</li>
   <li> <strong>[Feb 2023]</strong> I am invited to join the Organising Committee of IEEE ICME 2023 Workshop on 3D Multimedia Analytics, Search and Generation!</li>
-  <li> <strong>[Oct 2022]</strong> I am awarded a grant titled "Multi-modal Joint Learning for Scene Understanding" from SUTD-ZJU IDEA as the sole Principal Investigator!</li>
-  <li> <strong>[Sep 2022]</strong> I am awarded a grant titled "Data-efficient 3D Object Detection for Robot Perception" from TL@SUTD as the sole Principal Investigator!</li>
+  <li> <strong>[Oct 2022]</strong> I am awarded a grant titled "*Multi-modal Joint Learning for Scene Understanding*" from SUTD-ZJU IDEA as the sole Principal Investigator!</li>
+  <li> <strong>[Sep 2022]</strong> I am awarded a grant titled "*Data-efficient 3D Object Detection for Robot Perception*" from TL@SUTD as the sole Principal Investigator!</li>
   <li> <strong>[Aug 2022]</strong> I join the Singapore University of Technology and Design as an Assistant Professor!</li>
   <li> <strong>[Jul 2022]</strong> Three papers are accepted by ECCV 2022!</li>
   <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
@@ -74,7 +74,7 @@ ________________________________________________________________________________
                     <td>
                       <b>PDR: Progressive Depth Regularization for Monocular 3D Object Detection </b>
                       <br>
-                      Hualian Sheng, Sijia Cai, <strong>Na Zhao#</strong>, Bing Deng, Min-Jian Zhao#, and Gim Hee Lee
+                      Hualian Sheng, Sijia Cai, <strong>Na Zhao</strong><sub>#</sub>, Bing Deng, Min-Jian Zhao<sub>#</sub>, Gim Hee Lee
                       <i style="color:#e74d3c"># indicates co-corresponding author</i>
                       <br>
                       <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023 </em>
