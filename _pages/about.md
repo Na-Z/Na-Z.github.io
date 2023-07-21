@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
 
-My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning such as semi-supervised learning and few-shot learning, out-of-distribution learning, robust learning, continual/incremental learning.
+I am heading Intelligent Machine Perception Lab (IMPL) at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision,  (3D) scene understanding such as object detection and semantic segmentation. (2) **Machine Learning**: data-efficient learning, out-of-distribution learning, multi-modal learning, robust learning, continual/incremental learning.
 
 _______________________________________________________________________________________________________
 <h3>
@@ -19,8 +19,8 @@ ________________________________________________________________________________
 <div class="highlight"> 
   <ul>
   <li>I am looking for <strong>PhD applicants</strong> with strong background in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a>/industry scholarship.</li>
-  <li>I am recruiting <strong>research associate</strong> (holds a master degree) and <strong>research assistant</strong> (at least holds a bachelor degree) with relevant research experience on computer vision.</li>
-  <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master/UnderGrad students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>  
+  <li>I am recruiting <strong>research fellow</strong> (holds a doctoral degree) and <strong>research associate/assistant</strong> (holds a master degree) with relevant research experience on computer vision.</li>
+  <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>  
   </ul>
   <i>Please contact me via email if you are interested to work with me at SUTD.</i>
 </div>  
@@ -31,6 +31,13 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Jul 2023]</strong> One paper about generalized few-shot point cloud segmentation is accepted by ICCV 2023!</li>
+  <li> <strong>[Jun 2023]</strong> One paper about 6-DoF grasps synthesis is accepted by IROS 2023!</li>
+  <li> <strong>[May 2023]</strong> One paper about monocular 3D object detection is accepted by TCSVT 2023!</li>
+  <li> <strong>[Mar 2023]</strong> I am invited to serve as Demo Chair at Sixth IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR 2023)!</li>
+  <li> <strong>[Feb 2023]</strong> I am invited to join the Organising Committee of IEEE ICME 2023 Workshop on 3D Multimedia Analytics, Search and Generation!</li>
+  <li> <strong>[Oct 2022]</strong> I am awarded a grant titled "Multi-modal Joint Learning for Scene Understanding" from SUTD-ZJU IDEA as the sole Principal Investigator!</li>
+  <li> <strong>[Sep 2022]</strong> I am awarded a grant titled "Data-efficient 3D Object Detection for Robot Perception" from TL@SUTD as the sole Principal Investigator!</li>
   <li> <strong>[Aug 2022]</strong> I join the Singapore University of Technology and Design as an Assistant Professor!</li>
   <li> <strong>[Jul 2022]</strong> Three papers are accepted by ECCV 2022!</li>
   <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
@@ -60,6 +67,21 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/PDR_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>PDR: Progressive Depth Regularization for Monocular 3D Object Detection </b>
+                      <br>
+                      Hualian Sheng, Sijia Cai, <strong>Na Zhao#</strong>, Bing Deng, Min-Jian Zhao#, and Gim Hee Lee
+                      <i style="color:#e74d3c"># indicates co-corresponding author</i>
+                      <br>
+                      <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023 </em>
+                      <br>
+                      [<a href="https://ieeexplore.ieee.org/abstract/document/10124735">Paper</a>]
+                    </td>
+              </tr>
               <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/RDIoU_framework.png" border="0">
@@ -204,8 +226,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: IJCAI 2021-2023, CVPR 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
-  <li> <strong>Journal Reviewer</strong>: Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
+  <li> <strong>Conference Reviewer</strong>: NeurIPS 2023, ICCV2023, IJCAI 2021-2023, CVPR 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Journal Reviewer</strong>: Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
 
