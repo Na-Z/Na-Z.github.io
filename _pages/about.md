@@ -36,8 +36,8 @@ ________________________________________________________________________________
   <li> <strong>[May 2023]</strong> One paper about monocular 3D object detection is accepted by TCSVT 2023!</li>
   <li> <strong>[Mar 2023]</strong> I am invited to serve as Demo Chair at Sixth IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR 2023)!</li>
   <li> <strong>[Feb 2023]</strong> I am invited to join the Organising Committee of IEEE ICME 2023 Workshop on 3D Multimedia Analytics, Search and Generation!</li>
-  <li> <strong>[Oct 2022]</strong> I am awarded a grant titled "*Multi-modal Joint Learning for Scene Understanding*" from SUTD-ZJU IDEA as the sole Principal Investigator!</li>
-  <li> <strong>[Sep 2022]</strong> I am awarded a grant titled "*Data-efficient 3D Object Detection for Robot Perception*" from TL@SUTD as the sole Principal Investigator!</li>
+  <li> <strong>[Oct 2022]</strong> I am awarded a grant titled "<i>Multi-modal Joint Learning for Scene Understanding</i>" from SUTD-ZJU IDEA as the sole Principal Investigator!</li>
+  <li> <strong>[Sep 2022]</strong> I am awarded a grant titled "<i>Data-efficient 3D Object Detection for Robot Perception</i>" from TL@SUTD as the sole Principal Investigator!</li>
   <li> <strong>[Aug 2022]</strong> I join the Singapore University of Technology and Design as an Assistant Professor!</li>
   <li> <strong>[Jul 2022]</strong> Three papers are accepted by ECCV 2022!</li>
   <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
@@ -74,7 +74,7 @@ ________________________________________________________________________________
                     <td>
                       <b>PDR: Progressive Depth Regularization for Monocular 3D Object Detection </b>
                       <br>
-                      Hualian Sheng, Sijia Cai, <strong>Na Zhao</strong><sub>#</sub>, Bing Deng, Min-Jian Zhao<sub>#</sub>, Gim Hee Lee
+                      Hualian Sheng, Sijia Cai, <strong>Na Zhao</strong><sup>#</sup>, Bing Deng, Min-Jian Zhao<sup>#</sup>, Gim Hee Lee
                       <i style="color:#e74d3c"># indicates co-corresponding author</i>
                       <br>
                       <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023 </em>
