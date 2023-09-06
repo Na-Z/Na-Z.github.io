@@ -31,6 +31,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Aug 2023]</strong> One paper about robust few-shot point cloud segmentation is accepted by BMVC 2023!</li>
+  <li> <strong>[Aug 2023]</strong> I am awarded a grant titled "<i>Towards Realistic Deep Learning for 3D Vision</i>" from A*STAR as the co-Investigator!</li>
   <li> <strong>[Jul 2023]</strong> One paper about generalized few-shot point cloud segmentation is accepted by ICCV 2023!</li>
   <li> <strong>[Jun 2023]</strong> One paper about 6-DoF grasps synthesis is accepted by IROS 2023!</li>
   <li> <strong>[May 2023]</strong> One paper about monocular 3D object detection is accepted by TCSVT 2023!</li>
@@ -226,7 +228,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: NeurIPS 2023, ICCV2023, IJCAI 2021-2023, CVPR 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>: ICLR 2024, NeurIPS 2023, ICCV 2023, IJCAI 2021-2023, CVPR 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation</li>
   </ul>
 </div>
@@ -238,6 +240,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> Mentor, 01.400 Capstone, Fall 2023. </li>
+  <li> Instructor, 10.020 Data Driven World, Fall 2023. </li>
   <li> Instructor, 50.007 Machine Learning, Spring 2023. </li>
   <li> Teaching Assistant, CS4242 Social Media Computing, Spring 2018 & Spring 2019.</li>
   <li> Teaching Assistant, CS5340 Uncertainty Modeling in AI, Fall 2018.  </li>
