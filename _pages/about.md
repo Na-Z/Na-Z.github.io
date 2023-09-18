@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Sep 2023]</strong> One paper about visual domain generalization is accepted by IJCV 2023!</li>
   <li> <strong>[Aug 2023]</strong> One paper about robust few-shot point cloud segmentation is accepted by BMVC 2023!</li>
   <li> <strong>[Aug 2023]</strong> I am awarded a grant titled "<i>Towards Realistic Deep Learning for 3D Vision</i>" from A*STAR as the co-Investigator!</li>
   <li> <strong>[Jul 2023]</strong> One paper about generalized few-shot point cloud segmentation is accepted by ICCV 2023!</li>
@@ -69,6 +70,34 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Shade2_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization</b>
+                      <br>
+                      Yuyang Zhao, Zhun Zhong, <strong>Na Zhao</strong>, Nicu Sebe, Gim Hee Lee
+                      <br>
+                      <em>International Journal on Computer Vision (IJCV), 2023 </em>
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2212.09068.pdf">Paper</a>] [<a href="https://github.com/HeliosZhao/SHADE-VisualDG">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GFS3DSeg_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Generalized Few-Shot Point Cloud Segmentation Via Geometric Words</b>
+                      <br>
+                      Yating Xu, Conghui Hu, <strong>Na Zhao</strong>, Gim Hee Lee
+                      <br>
+                      <em>International Conference on Computer Vision (ICCV), 2023 </em>
+                      <br>
+                      [<a href="">Paper</a>] [<a href="https://github.com/Pixie8888/GFS-3DSeg_GWs">Code</a>]
+                    </td>
+              </tr>
               <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/PDR_framework.png" border="0">
