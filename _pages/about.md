@@ -22,7 +22,7 @@ ________________________________________________________________________________
   <li>I am recruiting <strong>research fellow</strong> (holds a doctoral degree) and <strong>research associate/assistant</strong> (holds a master degree) with relevant research experience on computer vision.</li>
   <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>  
   </ul>
-  <i>Please contact me via email if you are interested to work with me at SUTD.</i>
+  <i>Please feel free to reach out to me via email if you are interested to work with me at SUTD.</i>
 </div>  
 
 _______________________________________________________________________________________________________
@@ -30,7 +30,8 @@ ________________________________________________________________________________
   <a name="news"></a> News
 </h3>
 <div class="mini">
-  <ul>
+  <ul> 
+  <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted by 3DV 2024 as an oral paper!</li>
   <li> <strong>[Sep 2023]</strong> One paper about visual domain generalization is accepted by IJCV 2023!</li>
   <li> <strong>[Aug 2023]</strong> One paper about robust few-shot point cloud segmentation is accepted by BMVC 2023!</li>
   <li> <strong>[Aug 2023]</strong> I am awarded a grant titled "<i>Towards Realistic Deep Learning for 3D Vision</i>" from A*STAR as the co-Investigator!</li>
@@ -86,6 +87,20 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
+                        <img width="320" src="../images/R3DFSSeg_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Towards Robust Few-shot Point Cloud Semantic Segmentation</b>
+                      <br>
+                      Yating Xu, <strong>Na Zhao</strong>, Gim Hee Lee
+                      <br>
+                      <em>The British Machine Vision Conference (BMVC), 2023 </em>
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2309.11228.pdf">Paper</a>] [<a href="https://github.com/Pixie8888/R3DFSSeg">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/GFS3DSeg_framework.png" border="0">
                     </td>
                     <td>
@@ -95,7 +110,21 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2023 </em>
                       <br>
-                      [<a href="">Paper</a>] [<a href="https://github.com/Pixie8888/GFS-3DSeg_GWs">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2309.11222.pdf">Paper</a>] [<a href="https://github.com/Pixie8888/GFS-3DSeg_GWs">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Graspflow_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Refining 6-DoF Grasps with Context-Specific Classifiers</b>
+                      <br>
+                      Tasbolat Taunyazov, Heng Zhang, John Patrick Eala, <strong>Na Zhao</strong>, Harold Soh
+                      <br>
+                      <em>International Conference on Intelligent Robots and Systems (IROS), 2023 </em>
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2308.06928.pdf">Paper</a>] [<a href="https://github.com/tasbolat1/graspflow">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -115,22 +144,6 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/RDIoU_framework.png" border="0">
-                    </td>
-                    <td>
-                      <b>Rethinking IoU-based Optimization for Single-stage 3D Object Detection </b>
-                      <br>
-                      Hualian Sheng, Sijia Cai, <strong>Na Zhao*</strong>, Bing Deng, Jianqiang Huang, Xian-Sheng Hua, Min-Jian Zhao, Gim Hee Lee 
-                      <i style="color:#e74d3c">* indicates corresponding author</i>
-                      <br>
-                      <em>European Conference on Computer Vision (ECCV), 2022 </em>
-                      <br>
-                      [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690536.pdf">Paper</a>]
-                      [<a href="https://github.com/hlsheng1/RDIoU">Code</a>]
-                    </td>
-              </tr>
-              <tr>
-                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/SOFT_framework.png" border="0">
                     </td>
                     <td>
@@ -145,6 +158,22 @@ ________________________________________________________________________________
                       <br>
                     </td>
               </tr>  
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/RDIoU_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Rethinking IoU-based Optimization for Single-stage 3D Object Detection </b>
+                      <br>
+                      Hualian Sheng, Sijia Cai, <strong>Na Zhao*</strong>, Bing Deng, Jianqiang Huang, Xian-Sheng Hua, Min-Jian Zhao, Gim Hee Lee 
+                      <i style="color:#e74d3c">* indicates corresponding author</i>
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2022 </em>
+                      <br>
+                      [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690536.pdf">Paper</a>]
+                      [<a href="https://github.com/hlsheng1/RDIoU">Code</a>]
+                    </td>
+              </tr>
               <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/SHADE_teaser.png" border="0">
