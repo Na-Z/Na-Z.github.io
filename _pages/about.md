@@ -94,9 +94,23 @@ ________________________________________________________________________________
                     <td>
                       <b>Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection</b>
                       <br>
-                      Yucheng Han, <strong>Na Zhao*</strong>, Weiling Chen, Keng Teck Ma, Hanwang Zhang <i style="color:#e74d3c">* indicates corresponding author</i>
+                      Yucheng Han, <strong>Na Zhao*</strong>, Weiling Chen, Keng-Teck Ma, Hanwang Zhang<i style="color:#e74d3c">* indicates corresponding author</i>
                       <br>
                       <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GRL_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding</b>
+                      <br>
+                      Yunsong Wang, <strong>Na Zhao</strong>, Gim Hee Lee <i style="color:#e74d3c">Oral Presentation</i>
+                      <br>
+                      <em>International Conference on 3D Vision (3DV), 2024 </em> 
                       <br>
                       [<a href="">Paper</a>] [<a href="">Code</a>]
                     </td>
