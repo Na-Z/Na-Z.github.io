@@ -31,6 +31,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
+  <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the Principal Investigator!</li>
+  <li> <strong>[Dec 2023]</strong> Two papers about semi-supervised 3D object detection and robust visual recognition are accepted by AAAI 2024!</li>
   <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted by 3DV 2024 as an oral paper!</li>
   <li> <strong>[Sep 2023]</strong> One paper about visual domain generalization is accepted by IJCV 2023!</li>
   <li> <strong>[Aug 2023]</strong> One paper about robust few-shot point cloud segmentation is accepted by BMVC 2023!</li>
@@ -73,7 +75,35 @@ ________________________________________________________________________________
            <tbody>
               <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/Shade2_framework.png" border="0">
+                        <img width="320" src="../images/rltr_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>Robust Visual Recognition with Class-Imbalanced Open-World Noisy Data</b>
+                      <br>
+                      <strong>Na Zhao</strong>, Gim Hee Lee
+                      <br>
+                      <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/DPKE_results.png" border="0">
+                    </td>
+                    <td>
+                      <b>Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection</b>
+                      <br>
+                      Yucheng Han, <strong>Na Zhao*</strong>, Weiling Chen, Keng Teck Ma, Hanwang Zhang <i style="color:#e74d3c">* indicates corresponding author</i>
+                      <br>
+                      <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Shade2_framework.png" border="4px">
                     </td>
                     <td>
                       <b>Style-Hallucinated Dual Consistency Learning: A Unified Framework for Visual Domain Generalization</b>
@@ -87,7 +117,7 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/R3DFSSeg_framework.png" border="0">
+                        <img width="320" src="../images/R3DFSSeg_framework.png" border="4px">
                     </td>
                     <td>
                       <b>Towards Robust Few-shot Point Cloud Semantic Segmentation</b>
@@ -101,7 +131,7 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/GFS3DSeg_framework.png" border="0">
+                        <img width="320" src="../images/GFS3DSeg_framework.png" border="4px">
                     </td>
                     <td>
                       <b>Generalized Few-Shot Point Cloud Segmentation Via Geometric Words</b>
