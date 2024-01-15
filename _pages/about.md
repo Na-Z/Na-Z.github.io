@@ -22,7 +22,7 @@ ________________________________________________________________________________
   <li>I am recruiting <strong>research fellow</strong> (holds a doctoral degree) with relevant research experience on computer vision.</li>
   <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>  
   </ul>
-  <i>Please check [here](https://impl2023.github.io/joinus) for more information, and feel free to reach out via email if you are interested in working with me.</i>
+  <i>Please check <a href="https://impl2023.github.io/joinus">here</a> for more information, and feel free to reach out via email if you are interested in working with me.</i>
 </div>  
 
 _______________________________________________________________________________________________________
