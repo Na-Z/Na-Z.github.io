@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
+  <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted by ICRA 2024!</li>
   <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the Principal Investigator!</li>
   <li> <strong>[Dec 2023]</strong> Two papers about semi-supervised 3D object detection and robust visual recognition are accepted by AAAI 2024!</li>
   <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted by 3DV 2024 as an oral paper!</li>
@@ -69,10 +70,25 @@ ________________________________________________________________________________
   <a name="Publications"></a> Selected Publications
 </h3>
 <i>Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.</i>
+<i style="color:#0000FF">* indicates corresponding author</i>
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/pcteacher_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>End-to-End Semi-Supervised 3D Instance Segmentation with PCTeacher</b>
+                      <br>
+                      Linfeng Li, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>IEEE International Conference on Robotics and Automation (ICRA), 2024 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+              </tr>
               <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/rltr_teaser.png" border="0">
@@ -95,11 +111,10 @@ ________________________________________________________________________________
                       <b>Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection</b>
                       <br>
                       Yucheng Han, <strong>Na Zhao*</strong>, Weiling Chen, Keng-Teck Ma, Hanwang Zhang   
-                       <i style="color:#0000FF">* indicates corresponding author</i>
                       <br>
                       <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2401.05011.pdf">Paper</a>] [<a href="https://github.com/tingxueronghua/DPKE">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -211,7 +226,6 @@ ________________________________________________________________________________
                       <b>Rethinking IoU-based Optimization for Single-stage 3D Object Detection </b>
                       <br>
                       Hualian Sheng, Sijia Cai, <strong>Na Zhao*</strong>, Bing Deng, Jianqiang Huang, Xian-Sheng Hua, Min-Jian Zhao, Gim Hee Lee 
-                      <i style="color:#0000FF">* indicates corresponding author</i>
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
@@ -311,6 +325,29 @@ ________________________________________________________________________________
             </table>
 </font>
 
+
+_______________________________________________________________________________________________________
+
+<h3>
+  <a name="intership"></a> Research Grants
+</h3>
+<div class="mini">
+      <ul>
+       <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$998,000</span>. Dec 2023 - Dec 2026.
+       <span><br></span>Topic: <i>Cross-modality Resiliency against Real-world Attacks</i>
+       </li>
+       <li>Co-Investigator. A*STAR MTC Programmatic Grant. <span style="color: #3d85c6">S$599,950</span>. Aug 2023 - Jul 2026.
+       <span><br></span>Topic: <i>Towards Realistic Deep Learning for 3D Vision</i>
+       </li>
+       <li>Principal Investigator. SUTD-ZJU Thematic Research Grant. <span style="color: #3d85c6">S$148,187</span>. Dec 2022 - Nov 2024.
+       <span><br></span>Topic: <i>Multi-modal Joint Learning for Scene Understanding</i>
+       </li>
+       <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #3d85c6">S$85,000</span>. Oct 2022 - Apr 2024.
+       <span><br></span>Topic: <i>Data-efficient 3D Object Detection for Robot Perception</i>
+      </li>
+      </ul>
+</div>
+
 _______________________________________________________________________________________________________
 
 <h3>
@@ -318,9 +355,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
-       <li>Research Fellow. <a>Computer Vision and Robotic Perception Laboratory</a>, National University of Singapore. April 2021 - July 2022.</li>
-       <li>Research Associate. <a>Computer Vision and Robotic Perception Laboratory</a>, National University of Singapore. January 2021 - March 2021.</li>
-       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. August 2015 - December 2016.</li>
+       <li>Research Fellow. <a>Computer Vision and Robotic Perception Laboratory</a>, National University of Singapore. Apr 2021 - Jul 2022.</li>
+       <li>Research Associate. <a>Computer Vision and Robotic Perception Laboratory</a>, National University of Singapore. Jan 2021 - Mar 2021.</li>
+       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. Aug 2015 - Dec 2016.</li>
       </ul>
 </div>
 
@@ -331,7 +368,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: ICML 2024, CVPR 2021-2024, ICLR 2024, NeurIPS 2023, ICCV 2023, IJCAI 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>: ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, NeurIPS 2023, ICCV 2023, IJCAI 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: TKDE, TIP, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   </ul>
