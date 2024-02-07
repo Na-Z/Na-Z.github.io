@@ -69,8 +69,8 @@ ________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
-<i>Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.</i>
-<i style="color:#0000FF">* indicates corresponding author</i>
+<span style="font-size:15px">Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.</span>
+<span><br></span><i style="color:#0000FF; font-size:13.5px">* indicates corresponding author</i>
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
@@ -355,9 +355,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
-       <li>Research Fellow. <a>Computer Vision and Robotic Perception Laboratory</a>, National University of Singapore. Apr 2021 - Jul 2022.</li>
-       <li>Research Associate. <a>Computer Vision and Robotic Perception Laboratory</a>, National University of Singapore. Jan 2021 - Mar 2021.</li>
-       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. Aug 2015 - Dec 2016.</li>
+       <li>Research Fellow. <a>Computer Vision and Robotic Perception Laboratory</a>, NUS. Apr 2021 - Jul 2022.</li>
+       <li>Research Associate. <a>Computer Vision and Robotic Perception Laboratory</a>, NUS. Jan 2021 - Mar 2021.</li>
+       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, NUS. Aug 2015 - Dec 2016.</li>
       </ul>
 </div>
 
