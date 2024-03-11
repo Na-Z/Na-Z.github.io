@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
+  <li> <strong>[Jan 2024]</strong> One paper language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted by ICRA 2024!</li>
   <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the Principal Investigator!</li>
   <li> <strong>[Dec 2023]</strong> Two papers about semi-supervised 3D object detection and robust visual recognition are accepted by AAAI 2024!</li>
@@ -75,6 +76,20 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+            <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/laso_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>LASO: Language-guided Affordance Segmentation on 3D Object</b>
+                      <br>
+                      Yicong Li, <strong>Na Zhao</strong>, Junbin Xiao, Chun Feng, Xiang Wang, Tat-seng Chua
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2024 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+              </tr>
               <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/pcteacher_framework.png" border="0">
@@ -96,7 +111,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Robust Visual Recognition with Class-Imbalanced Open-World Noisy Data</b>
                       <br>
-                      <strong>Na Zhao</strong>, Gim Hee Lee
+                      <strong>Na Zhao*</strong>, Gim Hee Lee
                       <br>
                       <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
                       <br>
