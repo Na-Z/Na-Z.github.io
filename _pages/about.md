@@ -31,7 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
-  <li> <strong>[Jan 2024]</strong> One paper language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
+  <li> <strong>[Jan 2024]</strong> One paper about language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted by ICRA 2024!</li>
   <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the Principal Investigator!</li>
   <li> <strong>[Dec 2023]</strong> Two papers about semi-supervised 3D object detection and robust visual recognition are accepted by AAAI 2024!</li>
@@ -83,7 +83,7 @@ ________________________________________________________________________________
                     <td>
                       <b>LASO: Language-guided Affordance Segmentation on 3D Object</b>
                       <br>
-                      Yicong Li, <strong>Na Zhao</strong>, Junbin Xiao, Chun Feng, Xiang Wang, Tat-seng Chua
+                      Yicong Li, <strong>Na Zhao</strong>, Junbin Xiao, Chun Feng, Xiang Wang, Tat-Seng Chua
                       <br>
                       <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2024 </em> 
                       <br>
