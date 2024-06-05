@@ -83,7 +83,7 @@ ________________________________________________________________________________
                     <td>
                       <b>LASO: Language-guided Affordance Segmentation on 3D Object</b>
                       <br>
-                      Yicong Li, <strong>Na Zhao</strong>, Junbin Xiao, Chun Feng, Xiang Wang, Tat-Seng Chua
+                      Yicong Li, <strong>Na Zhao*</strong>, Junbin Xiao, Chun Feng, Xiang Wang, Tat-Seng Chua
                       <br>
                       <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2024 </em> 
                       <br>
@@ -115,7 +115,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29642">Paper</a>] [<a href="https://github.com/Na-Z/LIOND">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -383,7 +383,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, NeurIPS 2023, ICCV 2023, IJCAI 2021-2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>: NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
   <li> <strong>Journal Reviewer</strong>: TKDE, TIP, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   </ul>
