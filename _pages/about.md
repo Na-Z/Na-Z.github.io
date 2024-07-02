@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
+  <li> <strong>[Jul 2024]</strong> Two papers about open-vocabulary 3D object detection and 3D Gaussain splatting editing are accepted by ECCV 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted by ICRA 2024!</li>
   <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the Principal Investigator!</li>
@@ -87,7 +88,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2024 </em> 
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf">Paper</a>] [<a href="https://github.com/yl3800/LASO">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -143,7 +144,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on 3D Vision (3DV), 2024 </em> <i style="color:#e74d3c"> Oral Presentation </i>
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://ieeexplore.ieee.org/abstract/document/10550664">Paper</a>] [<a href="">Code</a>]
                     </td>
               </tr>
               <tr>
