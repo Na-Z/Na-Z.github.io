@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
+  <li> <strong>[Jul 2024]</strong> Two papers about generalizable neural semantic fields and point cloud representation learning are accepted by MM 2024!</li>
   <li> <strong>[Jul 2024]</strong> Two papers about open-vocabulary 3D object detection and 3D Gaussain splatting editing are accepted by ECCV 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted by ICRA 2024!</li>
@@ -77,6 +78,34 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/INHA_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>Unlocking Textual and Visual Wisdom: Open-Vocabulary 3D Object Detection Enhanced by Comprehensive Guidance from Text and Image</b>
+                      <br>
+                      Pengkun Jiao, <strong>Na Zhao*</strong>, Jingjing Chen, Yu-Gang Jiang
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2024 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2407.05256">Paper</a>] [<a href="">Code</a>]
+                    </td>
+           </tr>
+           <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/VCEdit_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>View-Consistent 3D Editing with Gaussian Splatting</b>
+                      <br>
+                      Yuxuan Wang, Xuanyu Yi, Zike Wu, <strong>Na Zhao</strong>, Long Chen, Hanwang Zhang
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2024 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/abs/2403.11868">Paper</a>] [<a href="https://github.com/Yuxuan-W/vcedit">Code</a>]
+                    </td>
+              </tr>
             <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/laso_teaser.png" border="0">
