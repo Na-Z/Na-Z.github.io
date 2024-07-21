@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
+I am currently a tenure-track Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
 
-I am heading [Intelligent Machine Perception Lab](https://impl2023.github.io) (IMPL) at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision, (3D) scene understanding. (2) **Machine Learning**: data-efficient learning, multi-modal learning, continual learning, out-of-distribution learning, robust learning.
+I am heading [Intelligent Machine Perception Lab](https://impl2023.github.io) (IMPL) at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision, (3D) scene understanding, 3D reconstruction. (2) **Machine Learning**: data-efficient learning, multi-modal learning, continual learning, out-of-distribution learning, robust learning.
 
 _______________________________________________________________________________________________________
 <h3>
@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
+  <li> <strong>[Jul 2024]</strong> Two papers about domain generalized 3D semantic segmentation and UDA for 3D object detection are accepted by BMVC 2024!</li>
   <li> <strong>[Jul 2024]</strong> Two papers about generalizable neural semantic fields and point cloud representation learning are accepted by MM 2024!</li>
   <li> <strong>[Jul 2024]</strong> Two papers about open-vocabulary 3D object detection and 3D Gaussain splatting editing are accepted by ECCV 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
@@ -52,7 +53,7 @@ ________________________________________________________________________________
   <li> <strong>[Jul 2022]</strong> Three papers are accepted by ECCV 2022!</li>
   <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
   <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
-  <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> for my PhD thesis!</li>
+  <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> (best thesis) for my PhD thesis!</li>
   <li> <strong>[Mar 2021]</strong> I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
   <li> <strong>[Mar 2021]</strong> One paper about few-shot 3D semantic segmentation is accepted by CVPR 2021!</li>
   <li> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
@@ -78,6 +79,34 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+           <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GS2-GNeSF_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>GS^2-GNeSF: Geometry-Semantics Synergy for Generalizable Neural Semantic Fields</b>
+                      <br>
+                      Chengshun Wang, <strong>Na Zhao</strong>
+                      <br>
+                      <em>ACM Multimedia (MM), 2024 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+          </tr> 
+           <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/OPFR_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>On-the-fly Point Feature Representation for Point Clouds Analysis</b>
+                      <br>
+                      Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao</strong>, Jun Cheng, Xulei Yang
+                      <br>
+                      <em>ACM Multimedia (MM), 2024 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+          </tr> 
           <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/INHA_teaser.png" border="0">
@@ -413,7 +442,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018</li>
+  <li> <strong>Conference Reviewer</strong>:CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, MM, BMVC, etc</li>
+  <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TKDE, TIP, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   </ul>
@@ -426,6 +456,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> Mentor, 01.400 Capstone, Fall 2024. </li>
   <li> Instructor, 50.007 Machine Learning, Spring 2023 & Spring 2024. </li>
   <li> Mentor, 01.400 Capstone, Fall 2023 & Spring 2024. </li>
   <li> Instructor, 10.020 Data Driven World, Fall 2023. </li>
