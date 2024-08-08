@@ -86,7 +86,7 @@ ________________________________________________________________________________
                     <td>
                       <b>GS^2-GNeSF: Geometry-Semantics Synergy for Generalizable Neural Semantic Fields</b>
                       <br>
-                      Chengshun Wang, <strong>Na Zhao</strong>
+                      Chengshun Wang, <strong>Na Zhao*</strong>
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
@@ -100,11 +100,12 @@ ________________________________________________________________________________
                     <td>
                       <b>On-the-fly Point Feature Representation for Point Clouds Analysis</b>
                       <br>
-                      Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao</strong>, Jun Cheng, Xulei Yang
+                      Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao#</strong>, Jun Cheng, Xulei Yang#
+                      <i style="color:#0000FF"># indicates co-corresponding author</i>
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2407.21335">Paper</a>] [<a href="">Code</a>]
                     </td>
           </tr> 
           <tr>
@@ -442,7 +443,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>:CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, MM, BMVC, etc</li>
+  <li> <strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, MM, BMVC, etc</li>
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TKDE, TIP, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
