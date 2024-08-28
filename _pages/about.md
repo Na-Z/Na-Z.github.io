@@ -31,12 +31,14 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul> 
+  <li> <strong>[Aug 2024]</strong> I am awarded a MoE Tier 2 grant titled "<i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>" as the sole Principal Investigator!</li>
+  <li> <strong>[Aug 2024]</strong> I am appointed as a Technical Committee member for IEEE-CAS Multimedia Systems and Applications!</li>
   <li> <strong>[Jul 2024]</strong> Two papers about domain generalized 3D semantic segmentation and UDA for 3D object detection are accepted by BMVC 2024!</li>
   <li> <strong>[Jul 2024]</strong> Two papers about generalizable neural semantic fields and point cloud representation learning are accepted by MM 2024!</li>
   <li> <strong>[Jul 2024]</strong> Two papers about open-vocabulary 3D object detection and 3D Gaussain splatting editing are accepted by ECCV 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
   <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted by ICRA 2024!</li>
-  <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the Principal Investigator!</li>
+  <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the sole Principal Investigator!</li>
   <li> <strong>[Dec 2023]</strong> Two papers about semi-supervised 3D object detection and robust visual recognition are accepted by AAAI 2024!</li>
   <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted by 3DV 2024 as an oral paper!</li>
   <li> <strong>[Sep 2023]</strong> One paper about visual domain generalization is accepted by IJCV 2023!</li>
@@ -356,7 +358,7 @@ ________________________________________________________________________________
 	                    <br>
             			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
-            			    [<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]
+            			    <!---[<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]-->
                       <br>
                     </td>
               </tr>
@@ -374,7 +376,7 @@ ________________________________________________________________________________
 	                    <br>
 			                [<a href="https://arxiv.org/pdf/1912.11803.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/sess">Code</a>]
-            			    [<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]
+            			    <!---[<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]-->
                       <br>
                     </td>
               </tr>
@@ -392,7 +394,7 @@ ________________________________________________________________________________
                         <br>
                   			[<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] 
                   			[<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
-                  			[<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]
+                  			<!---[<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]-->
                         <br>
                     </td>
                </tr>  
@@ -408,6 +410,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
+       <li>Principal Investigator. MoE Tier 2 Research Grant. <span style="color: #3d85c6">S$994,411</span>. 2024 - 2027.
+       <span><br></span>Topic: <i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>
+       </li>      
        <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$998,000</span>. Dec 2023 - Dec 2026.
        <span><br></span>Topic: <i>Cross-modality Resiliency against Real-world Attacks</i>
        </li>
@@ -447,6 +452,8 @@ ________________________________________________________________________________
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TKDE, TIP, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
+  <li> <strong>Organizer</strong>: The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)
+  <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)
   </ul>
 </div>
 
