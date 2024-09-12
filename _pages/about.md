@@ -30,7 +30,8 @@ ________________________________________________________________________________
   <a name="news"></a> News
 </h3>
 <div class="mini">
-  <ul> 
+  <ul>
+  <li> <strong>[Sep 2024]</strong> I will serve as an Area Chair for ICLR 2025!</li> 
   <li> <strong>[Aug 2024]</strong> I am awarded a MoE Tier 2 grant titled "<i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>" as the sole Principal Investigator!</li>
   <li> <strong>[Aug 2024]</strong> I am appointed as a Technical Committee member for IEEE-CAS Multimedia Systems and Applications!</li>
   <li> <strong>[Jul 2024]</strong> Two papers about domain generalized 3D semantic segmentation and UDA for 3D object detection are accepted by BMVC 2024!</li>
@@ -454,6 +455,7 @@ ________________________________________________________________________________
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizer</strong>: The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
+  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025</li>
   </ul>
 </div>
 
