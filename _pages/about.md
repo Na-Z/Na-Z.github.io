@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Sep 2024]</strong> I am awarded a joint SMU-SUTD grant titled "<i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>" as the co-Principal Investigator!</li>
   <li> <strong>[Sep 2024]</strong> I will serve as an Area Chair for ICLR 2025!</li> 
   <li> <strong>[Aug 2024]</strong> I am awarded a MoE Tier 2 grant titled "<i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>" as the sole Principal Investigator!</li>
   <li> <strong>[Aug 2024]</strong> I am appointed as a Technical Committee member for IEEE-CAS Multimedia Systems and Applications!</li>
@@ -411,9 +412,13 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
-       <li>Principal Investigator. MoE Tier 2 Research Grant. <span style="color: #3d85c6">S$994,411</span>. 2024 - 2027.
+       <li>Principal Investigator. MoE Tier 2 Research Grant. <span style="color: #3d85c6">S$994,411</span>. Feb 2025 - Feb 2028.
        <span><br></span>Topic: <i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>
-       </li>      
+       </li>   
+       <li>Co-Principal Investigator. SMU-SUTD Joint Research Grant. <span style="color: #3d85c6">S$125,000</span>. Nov 2024 - Oct 2026.
+       <span><br></span>Topic: <i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>
+       <span><br></span>Principal Investigator: <a href="https://panzhous.github.io">Prof. Zhou Pan</a>, Singapore Management University (SMU)
+       </li>   
        <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$998,000</span>. Dec 2023 - Dec 2026.
        <span><br></span>Topic: <i>Cross-modality Resiliency against Real-world Attacks</i>
        </li>
@@ -422,6 +427,7 @@ ________________________________________________________________________________
        </li>
        <li>Principal Investigator. SUTD-ZJU Thematic Research Grant. <span style="color: #3d85c6">S$148,187</span>. Dec 2022 - Nov 2024.
        <span><br></span>Topic: <i>Multi-modal Joint Learning for Scene Understanding</i>
+       <span><br></span>Collaborator: <a href="https://yiyiliao.github.io">Prof. Liao Yiyi</a>, Zhejiang University (ZJU)
        </li>
        <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #3d85c6">S$85,000</span>. Oct 2022 - Apr 2024.
        <span><br></span>Topic: <i>Data-efficient 3D Object Detection for Robot Perception</i>
@@ -451,7 +457,7 @@ ________________________________________________________________________________
   <ul>
   <li> <strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, MM, BMVC, etc</li>
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
-  <li> <strong>Journal Reviewer</strong>: TKDE, TIP, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
+  <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizer</strong>: The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
