@@ -198,6 +198,34 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
+                        <img width="320" src="../images/OHDA_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection</b>
+                      <br>
+                      Yunsong Wang, <strong>Na Zhao</strong>, Gim Hee Lee 
+                      <br>
+                      <em>The British Machine Vision Conference (BMVC), 2024 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2406.11311">Paper</a>] [<a href="https://github.com/wangys16/OHDA">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/CINMix_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Synthetic-to-Real Domain Generalized Semantic Segmentation for 3D Indoor Point Clouds</b>
+                      <br>
+                      Yuyang Zhao, <strong>Na Zhao</strong>, Gim Hee Lee 
+                      <br>
+                      <em>The British Machine Vision Conference (BMVC), 2024 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2212.04668">Paper</a>] [<a href="">Code</a>]
+              </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/GRL_framework.png" border="0">
                     </td>
                     <td>
