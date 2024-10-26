@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Jan 2024]</strong> One paper about open-set single-source domain generalization is accepted by TMM 2024!</li>
   <li> <strong>[Sep 2024]</strong> I am awarded a joint SMU-SUTD grant titled "<i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>" as the co-Principal Investigator!</li>
   <li> <strong>[Sep 2024]</strong> I will serve as an Area Chair for ICLR 2025!</li> 
   <li> <strong>[Aug 2024]</strong> I am awarded a MoE Tier 2 grant titled "<i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>" as the sole Principal Investigator!</li>
@@ -149,7 +150,7 @@ ________________________________________________________________________________
                       <br>
                       Yicong Li, <strong>Na Zhao*</strong>, Junbin Xiao, Chun Feng, Xiang Wang, Tat-Seng Chua
                       <br>
-                      <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2024 </em> 
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </em> 
                       <br>
                       [<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf">Paper</a>] [<a href="https://github.com/yl3800/LASO">Code</a>]
                     </td>
@@ -384,7 +385,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
 	                    <br>
-	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2021 </em>
+	                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 </em>
 	                    <br>
             			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
@@ -402,7 +403,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
 	                    <br>
-	                    <em>IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
+	                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
 	                    <br>
 			                [<a href="https://arxiv.org/pdf/1912.11803.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/sess">Code</a>]
