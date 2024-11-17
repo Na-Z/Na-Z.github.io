@@ -31,7 +31,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Jan 2024]</strong> One paper about open-set single-source domain generalization is accepted by TMM 2024!</li>
+  <li> <strong>[Nov 2024]</strong> I am awarded a grant titled "<i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>" from TL@SUTD as the sole Principal Investigator!</li>
+  <li> <strong>[Oct 2024]</strong> One paper about open-set single-source domain generalization is accepted by TMM 2024!</li>
   <li> <strong>[Sep 2024]</strong> I am awarded a joint SMU-SUTD grant titled "<i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>" as the co-Principal Investigator!</li>
   <li> <strong>[Sep 2024]</strong> I will serve as an Area Chair for ICLR 2025!</li> 
   <li> <strong>[Aug 2024]</strong> I am awarded a MoE Tier 2 grant titled "<i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>" as the sole Principal Investigator!</li>
@@ -441,6 +442,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
+      <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #3d85c6">S$200,000</span>. Mar 2025 - Mar 2027.
+       <span><br></span>Topic: <i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>
+       </li> 
        <li>Principal Investigator. MoE Tier 2 Research Grant. <span style="color: #3d85c6">S$994,411</span>. Feb 2025 - Feb 2028.
        <span><br></span>Topic: <i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>
        </li>   
