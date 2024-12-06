@@ -31,6 +31,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Dec 2024]</strong> One paper about class-incremental 3D object detection is accepted by TIP 2024!</li> 
+  <li> <strong>[Nov 2024]</strong> I will serve as a senior PC for IJCAI 2025!</li> 
   <li> <strong>[Nov 2024]</strong> I am awarded a grant titled "<i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>" from TL@SUTD as the sole Principal Investigator!</li>
   <li> <strong>[Oct 2024]</strong> One paper about open-set single-source domain generalization is accepted by TMM 2024!</li>
   <li> <strong>[Sep 2024]</strong> I am awarded a joint SMU-SUTD grant titled "<i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>" as the co-Principal Investigator!</li>
@@ -80,11 +82,25 @@ ________________________________________________________________________________
   <a name="Publications"></a> Selected Publications
 </h3>
 <span style="font-size:15px">Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.</span>
-<span><br></span><i style="color:#0000FF; font-size:13.5px">* indicates corresponding author</i>
+<span><br></span><i style="color:#0000FF; font-size:13.5px">* indicates corresponding author, and # indicates co-corresponding author</i>
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+           <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/DEBUG_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization</b>
+                      <br>
+                      Pengkun Jiao, <strong>Na Zhao#</strong>, Jingjing Chen#, Yu-Gang Jiang
+                      <br>
+                      <em>IEEE Transactions on Multimedia (TMM), 2024 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/abs/2411.02920">Paper</a>] [<a href="">Code</a>]
+                    </td>
+          </tr> 
            <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/GS2-GNeSF_framework.png" border="0">
@@ -96,7 +112,7 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://dl.acm.org/doi/abs/10.1145/3664647.3681156">Paper</a>] [<a href="">Code</a>]
                     </td>
           </tr> 
            <tr>
@@ -107,7 +123,6 @@ ________________________________________________________________________________
                       <b>On-the-fly Point Feature Representation for Point Clouds Analysis</b>
                       <br>
                       Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao#</strong>, Jun Cheng, Xulei Yang#
-                      <i style="color:#0000FF"># indicates co-corresponding author</i>
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
@@ -304,7 +319,6 @@ ________________________________________________________________________________
                       <b>PDR: Progressive Depth Regularization for Monocular 3D Object Detection </b>
                       <br>
                       Hualian Sheng, Sijia Cai, <strong>Na Zhao</strong><sup>#</sup>, Bing Deng, Min-Jian Zhao<sup>#</sup>, Gim Hee Lee
-                      <i style="color:#0000FF"># indicates co-corresponding author</i>
                       <br>
                       <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023 </em>
                       <br>
@@ -495,6 +509,7 @@ ________________________________________________________________________________
   <li> <strong>Organizer</strong>: The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025</li>
+  <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
 </div>
 
