@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Dec 2024]</strong> One paper about 3D visual grounding is accepted by AAAI 2025!</li> 
   <li> <strong>[Dec 2024]</strong> One paper about class-incremental 3D object detection is accepted by TIP 2024!</li> 
   <li> <strong>[Nov 2024]</strong> I will serve as a senior PC for IJCAI 2025!</li> 
   <li> <strong>[Nov 2024]</strong> I am awarded a grant titled "<i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>" from TL@SUTD as the sole Principal Investigator!</li>
@@ -87,6 +88,20 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/AugRefer_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>AugRefer: Advancing 3D Visual Grounding via Cross-Modal Augmentation and Spatial Relation-based Referring</b>
+                      <br>
+                      Xinyi Wang, <strong>Na Zhao*</strong>, Zhiyuan Han, Dan Guo, Xun Yang
+                      <br>
+                      <em>Thirty-Ninth AAAI Conference on Artificial Intelligence, 2025 </em> 
+                      <br>
+                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                    </td>
+           </tr> 
            <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/DEBUG_teaser.png" border="0">
@@ -100,7 +115,7 @@ ________________________________________________________________________________
                       <br>
                       [<a href="https://arxiv.org/abs/2411.02920">Paper</a>] [<a href="">Code</a>]
                     </td>
-          </tr> 
+           </tr> 
            <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/GS2-GNeSF_framework.png" border="0">
@@ -187,6 +202,20 @@ ________________________________________________________________________________
               </tr>
               <tr>
                     <td class="noBorder" width="40%">
+                        <img width="320" src="../images/DPKE_results.png" border="0">
+                    </td>
+                    <td>
+                      <b>Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection</b>
+                      <br>
+                      Yucheng Han, <strong>Na Zhao*</strong>, Weiling Chen, Keng-Teck Ma, Hanwang Zhang   
+                      <br>
+                      <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2401.05011.pdf">Paper</a>] [<a href="https://github.com/tingxueronghua/DPKE">Code</a>]
+                    </td>
+              </tr>
+              <tr>
+                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/rltr_teaser.png" border="0">
                     </td>
                     <td>
@@ -200,19 +229,19 @@ ________________________________________________________________________________
                     </td>
               </tr>
               <tr>
-                    <td class="noBorder" width="40%">
-                        <img width="320" src="../images/DPKE_results.png" border="0">
-                    </td>
-                    <td>
-                      <b>Dual-Perspective Knowledge Enrichment for Semi-Supervised 3D Object Detection</b>
-                      <br>
-                      Yucheng Han, <strong>Na Zhao*</strong>, Weiling Chen, Keng-Teck Ma, Hanwang Zhang   
-                      <br>
-                      <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
-                      <br>
-                      [<a href="https://arxiv.org/pdf/2401.05011.pdf">Paper</a>] [<a href="https://github.com/tingxueronghua/DPKE">Code</a>]
-                    </td>
-              </tr>
+                        <td class="noBorder" width="40%">
+                            <img width="320" src="../images/SDCoT++_framework.png" border="0">
+                        </td>
+                        <td>
+                          <b>SDCoT++: Improved Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection</b>
+                          <br>
+                          <strong>Na Zhao</strong>, Peisheng Qian, Fang Wu, Xun Xu, Xulei Yang, Gim Hee Lee
+                          <br>
+                          <em>IEEE Transactions on Image Processing (TIP), 2024 </em> 
+                          <br>
+                          [<a href="">Paper</a>] [<a href="">Code</a>]
+                        </td>
+               </tr> 
               <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/OHDA_framework.png" border="0">
