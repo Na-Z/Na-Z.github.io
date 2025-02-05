@@ -31,10 +31,13 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted by TMM 2025!</li> 
+  <li> <strong>[Jan 2025]</strong> One paper about 3D reconstruction and editing is accepted by ICLR 2025!</li> 
   <li> <strong>[Dec 2024]</strong> One paper about 3D visual grounding is accepted by AAAI 2025!</li> 
   <li> <strong>[Dec 2024]</strong> One paper about class-incremental 3D object detection is accepted by TIP 2024!</li> 
   <li> <strong>[Nov 2024]</strong> I will serve as a senior PC for IJCAI 2025!</li> 
   <li> <strong>[Nov 2024]</strong> I am awarded a grant titled "<i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>" from TL@SUTD as the sole Principal Investigator!</li>
+  <li> <strong>[Oct 2024]</strong> I am invited to serve as Demo Chair at ACM Multimedia 2025!</li> 
   <li> <strong>[Oct 2024]</strong> One paper about open-set single-source domain generalization is accepted by TMM 2024!</li>
   <li> <strong>[Sep 2024]</strong> I am awarded a joint SMU-SUTD grant titled "<i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>" as the co-Principal Investigator!</li>
   <li> <strong>[Sep 2024]</strong> I will serve as an Area Chair for ICLR 2025!</li> 
@@ -90,6 +93,20 @@ ________________________________________________________________________________
            <tbody>
           <tr>
                     <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GaussianBlock_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians</b>
+                      <br>
+                      Shuyi Jiang, Qihao Zhao, Hossein Rahmani, De Wen Soh, Jun Liu, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>International Conference on Learning Representations (ICLR), 2025 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/abs/2410.01535">Paper</a>] [<a href="">Code</a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/AugRefer_framework.png" border="0">
                     </td>
                     <td>
@@ -99,7 +116,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Ninth AAAI Conference on Artificial Intelligence, 2025 </em> 
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2501.09428">Paper</a>] [<a href="">Code</a>]
                     </td>
            </tr> 
            <tr>
@@ -141,7 +158,7 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2407.21335">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://dl.acm.org/doi/pdf/10.1145/3664647.36807005">Paper</a>] [<a href="">Code</a>]
                     </td>
           </tr> 
           <tr>
@@ -197,7 +214,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE International Conference on Robotics and Automation (ICRA), 2024 </em> 
                       <br>
-                      [<a href="">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://ieeexplore.ieee.org/abstract/document/10610145">Paper</a>] [<a href="">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -229,18 +246,18 @@ ________________________________________________________________________________
                     </td>
               </tr>
               <tr>
-                        <td class="noBorder" width="40%">
-                            <img width="320" src="../images/SDCoT++_framework.png" border="0">
-                        </td>
-                        <td>
-                          <b>SDCoT++: Improved Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection</b>
-                          <br>
-                          <strong>Na Zhao</strong>, Peisheng Qian, Fang Wu, Xun Xu, Xulei Yang, Gim Hee Lee
-                          <br>
-                          <em>IEEE Transactions on Image Processing (TIP), 2024 </em> 
-                          <br>
-                          [<a href="">Paper</a>] [<a href="">Code</a>]
-                        </td>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/SDCoT++_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>SDCoT++: Improved Static-Dynamic Co-Teaching for Class-Incremental 3D Object Detection</b>
+                      <br>
+                      <strong>Na Zhao</strong>, Peisheng Qian, Fang Wu, Xun Xu, Xulei Yang, Gim Hee Lee
+                      <br>
+                      <em>IEEE Transactions on Image Processing (TIP), 2024 </em> 
+                      <br>
+                      [<a href="https://ieeexplore.ieee.org/document/10819355">Paper</a>] [<a href="">Code</a>]
+                    </td>
                </tr> 
               <tr>
                     <td class="noBorder" width="40%">
@@ -535,7 +552,7 @@ ________________________________________________________________________________
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
-  <li> <strong>Organizer</strong>: The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
+  <li> <strong>Organizer</strong>: The 34th ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025</li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
@@ -549,9 +566,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> Mentor, 01.400 Capstone, Fall 2024. </li>
-  <li> Instructor, 50.007 Machine Learning, Spring 2023 & Spring 2024. </li>
-  <li> Mentor, 01.400 Capstone, Fall 2023 & Spring 2024. </li>
+  <li> Mentor, 01.400 Capstone (2), Fall 2024 & Spring 2025 </li>
+  <li> Instructor, 50.007 Machine Learning, Spring 2023 & Spring 2024 & Spring 2025. </li>
+  <li> Mentor, 01.400 Capstone (11), Fall 2023 & Spring 2024. </li>
   <li> Instructor, 10.020 Data Driven World, Fall 2023. </li>
   <li> Teaching Assistant, CS4242 Social Media Computing, Spring 2018 & Spring 2019.</li>
   <li> Teaching Assistant, CS5340 Uncertainty Modeling in AI, Fall 2018.  </li>
