@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Feb 2025]</strong> I am honored to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.2)!</li> 
   <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted by TMM 2025!</li> 
   <li> <strong>[Jan 2025]</strong> One paper about 3D reconstruction and editing is accepted by ICLR 2025!</li> 
   <li> <strong>[Dec 2024]</strong> One paper about 3D visual grounding is accepted by AAAI 2025!</li> 
@@ -554,6 +555,7 @@ ________________________________________________________________________________
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizer</strong>: The 34th ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
+  <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (2024-)</li>
   <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025</li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
