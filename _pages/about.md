@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted by CVPR 2025! </li> 
   <li> <strong>[Feb 2025]</strong> One paper about 3D object detection for autonomous driving is accepted by IJCV 2025! </li> 
   <li> <strong>[Feb 2025]</strong> I am honored to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.2)!</li> 
   <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted by TMM 2025!</li> 
@@ -93,6 +94,34 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/CT3D_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer</b>
+                      <br>
+                      Hualian Sheng, Sijia Cai, <strong>Na Zhao</strong>, Bing Deng, Qiao Liang, Min-Jian Zhao, Jieping Ye 
+                      <br>
+                      <em>International Journal on Computer Vision (IJCV), 2025</em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2406.08152">Preprint</a>] 
+                    </td>
+          </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/DAC_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>Dual-supervised Asymmetric Co-training for Semi-supervised Medical Domain Generalization</b>
+                      <br>
+                      Jincai Song, Haipeng Chen, Jun Qin, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>IEEE Transactions on Multimedia (TMM), 2025</em> 
+                      <br>
+                      [<a href="">Preprint</a>] 
+                    </td>
+           </tr> 
           <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/GaussianBlock_framework.png" border="0">
