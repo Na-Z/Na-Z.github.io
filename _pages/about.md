@@ -96,6 +96,34 @@ ________________________________________________________________________________
            <tbody>
           <tr>
                     <td class="noBorder" width="40%">
+                        <img width="320" src="../images/UMD_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Uncertainty Meets Diversity: A Comprehensive Active Learning Framework for Indoor 3D Object Detection</b>
+                      <br>
+                      Jiangyi Wang, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> 
+                      <br>
+                      [<a>Paper (coming soon)</a>] 
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/CoTS_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration</b>
+                      <br>
+                      Lizheng Zu, Lin Lin, Song Fu, <strong>Na Zhao</strong>, Pan Zhou
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> 
+                      <br>
+                      [<a>Paper (coming soon)</a>] 
+                    </td>
+           </tr>  
+          <tr>
+                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/CT3D_framework.png" border="0">
                     </td>
                     <td>
@@ -115,11 +143,11 @@ ________________________________________________________________________________
                     <td>
                       <b>Dual-supervised Asymmetric Co-training for Semi-supervised Medical Domain Generalization</b>
                       <br>
-                      Jincai Song, Haipeng Chen, Jun Qin, <strong>Na Zhao*</strong>
+                      Jincai Song, Haipeng Chen, Jun Qin#, <strong>Na Zhao#</strong>
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2025</em> 
                       <br>
-                      [<a href="">Preprint</a>] 
+                      [<a>Paper (coming soon)</a>] 
                     </td>
            </tr> 
           <tr>
@@ -133,7 +161,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Learning Representations (ICLR), 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/abs/2410.01535">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/abs/2410.01535">Paper</a>] [<a>Code (Coming soon) </a>]
                     </td>
            </tr> 
           <tr>
@@ -147,7 +175,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Ninth AAAI Conference on Artificial Intelligence, 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2501.09428">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2501.09428">Paper</a>] [<a>Code (Coming soon) </a>]
                     </td>
            </tr> 
            <tr>
@@ -161,7 +189,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/abs/2411.02920">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/abs/2411.02920">Paper</a>] 
                     </td>
            </tr> 
            <tr>
@@ -175,7 +203,7 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
-                      [<a href="https://dl.acm.org/doi/abs/10.1145/3664647.3681156">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://dl.acm.org/doi/abs/10.1145/3664647.3681156">Paper</a>] 
                     </td>
           </tr> 
            <tr>
@@ -189,7 +217,7 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
-                      [<a href="https://dl.acm.org/doi/pdf/10.1145/3664647.36807005">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://dl.acm.org/doi/pdf/10.1145/3664647.36807005">Paper</a>] 
                     </td>
           </tr> 
           <tr>
@@ -203,7 +231,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2407.05256">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2407.05256">Paper</a>] 
                     </td>
            </tr>
            <tr>
@@ -227,7 +255,7 @@ ________________________________________________________________________________
                     <td>
                       <b>LASO: Language-guided Affordance Segmentation on 3D Object</b>
                       <br>
-                      Yicong Li, <strong>Na Zhao*</strong>, Junbin Xiao, Chun Feng, Xiang Wang, Tat-Seng Chua
+                      Yicong Li, <strong>Na Zhao#</strong>, Junbin Xiao, Chun Feng, Xiang Wang#, Tat-Seng Chua
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </em> 
                       <br>
@@ -245,7 +273,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE International Conference on Robotics and Automation (ICRA), 2024 </em> 
                       <br>
-                      [<a href="https://ieeexplore.ieee.org/abstract/document/10610145">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://ieeexplore.ieee.org/abstract/document/10610145">Paper</a>] 
                     </td>
               </tr>
               <tr>
@@ -287,7 +315,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Image Processing (TIP), 2024 </em> 
                       <br>
-                      [<a href="https://ieeexplore.ieee.org/document/10819355">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://ieeexplore.ieee.org/document/10819355">Paper</a>] [<a>Code (Coming soon) </a>]
                     </td>
                </tr> 
               <tr>
@@ -315,7 +343,7 @@ ________________________________________________________________________________
                       <br>
                       <em>The British Machine Vision Conference (BMVC), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2212.04668">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2212.04668">Paper</a>] 
               </td>
               </tr>
               <tr>
@@ -329,7 +357,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on 3D Vision (3DV), 2024 </em> <i style="color:#e74d3c"> Oral Presentation </i>
                       <br>
-                      [<a href="https://ieeexplore.ieee.org/abstract/document/10550664">Paper</a>] [<a href="">Code</a>]
+                      [<a href="https://ieeexplore.ieee.org/abstract/document/10550664">Paper</a>] 
                     </td>
               </tr>
               <tr>
@@ -539,14 +567,18 @@ ________________________________________________________________________________
        <li>Principal Investigator. MoE Tier 2 Research Grant. <span style="color: #3d85c6">S$994,411</span>. Feb 2025 - Feb 2028.
        <span><br></span>Topic: <i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>
        </li>   
-       <li>Co-Principal Investigator. SMU-SUTD Joint Research Grant. <span style="color: #3d85c6">S$125,000</span>. Nov 2024 - Oct 2026.
+       <li>co-Principal Investigator. AISG Research Grant. <span style="color: #3d85c6">S$999,999</span>. Jan 2025 - Jan 2028.
+       <span><br></span>Topic: <i>Sequential Deepfake Model Attribution</i>
+       </li>  
+       <li>SUTD Principal Investigator. SMU-SUTD Joint Research Grant. <span style="color: #3d85c6">S$275,000</span>. Nov 2024 - Oct 2026.
        <span><br></span>Topic: <i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>
        <span><br></span>Principal Investigator: <a href="https://panzhous.github.io">Prof. Zhou Pan</a>, Singapore Management University (SMU)
        </li>   
        <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$998,000</span>. Dec 2023 - Dec 2026.
        <span><br></span>Topic: <i>Cross-modality Resiliency against Real-world Attacks</i>
        </li>
-       <li>Co-Investigator. A*STAR MTC Programmatic Grant. <span style="color: #3d85c6">S$599,950</span>. Aug 2023 - Jul 2026.
+       <li>Co-Investigator. A*STAR MTC Programmatic Grant. <span style="color: #3d85c6">S$9,773,400</span>. Aug 2023 - Jul 2026.
+        <!---S$599,950-->
        <span><br></span>Topic: <i>Towards Realistic Deep Learning for 3D Vision</i>
        </li>
        <li>Principal Investigator. SUTD-ZJU Thematic Research Grant. <span style="color: #3d85c6">S$148,187</span>. Dec 2022 - Nov 2024.
@@ -585,7 +617,7 @@ ________________________________________________________________________________
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
-  <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (2024-)</li>
+  <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (2025-)</li>
   <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025</li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
