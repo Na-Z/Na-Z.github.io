@@ -572,7 +572,7 @@ ________________________________________________________________________________
        </li>  
        <li>SUTD Principal Investigator. SMU-SUTD Joint Research Grant. <span style="color: #3d85c6">S$275,000</span>. Nov 2024 - Oct 2026.
        <span><br></span>Topic: <i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>
-       <span><br></span>Principal Investigator: <a href="https://panzhous.github.io">Prof. Zhou Pan</a>, Singapore Management University (SMU)
+       <!---<span><br></span>Principal Investigator: <a href="https://panzhous.github.io">Prof. Zhou Pan</a>, Singapore Management University (SMU)-->
        </li>   
        <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$998,000</span>. Dec 2023 - Dec 2026.
        <span><br></span>Topic: <i>Cross-modality Resiliency against Real-world Attacks</i>
@@ -583,7 +583,7 @@ ________________________________________________________________________________
        </li>
        <li>Principal Investigator. SUTD-ZJU Thematic Research Grant. <span style="color: #3d85c6">S$148,187</span>. Dec 2022 - Nov 2024.
        <span><br></span>Topic: <i>Multi-modal Joint Learning for Scene Understanding</i>
-       <span><br></span>Collaborator: <a href="https://yiyiliao.github.io">Prof. Liao Yiyi</a>, Zhejiang University (ZJU)
+       <!---<span><br></span>Collaborator: <a href="https://yiyiliao.github.io">Prof. Liao Yiyi</a>, Zhejiang University (ZJU)-->
        </li>
        <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #3d85c6">S$85,000</span>. Oct 2022 - Apr 2024.
        <span><br></span>Topic: <i>Data-efficient 3D Object Detection for Robot Perception</i>
