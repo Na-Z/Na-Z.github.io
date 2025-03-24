@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Mar 2025]</strong> One paper about occluded human reconstruction is accepted by ICME 2025! </li>  
   <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted by CVPR 2025! </li> 
   <li> <strong>[Feb 2025]</strong> One paper about 3D object detection for autonomous driving is accepted by IJCV 2025! </li> 
   <li> <strong>[Feb 2025]</strong> I am honored to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.2)!</li> 
@@ -105,7 +106,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> 
                       <br>
-                      [<a>Paper (coming soon)</a>] 
+                      [<a href="https://arxiv.org/pdf/2503.16125">Preprint</a>] 
                     </td>
            </tr> 
           <tr>
@@ -133,7 +134,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Journal on Computer Vision (IJCV), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2406.08152">Preprint</a>] 
+                      [<a href="https://arxiv.org/pdf/2406.08152">Preprint</a>] [<a href="https://link.springer.com/article/10.1007/s11263-025-02404-8">Paper</a>] [<a href="https://github.com/hlsheng1/CT3D-plusplus">Code</a>]
                     </td>
           </tr> 
           <tr>
@@ -161,7 +162,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Learning Representations (ICLR), 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/abs/2410.01535">Paper</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://arxiv.org/abs/2410.01535">Preprint</a>] [<a>Code (Coming soon) </a>]
                     </td>
            </tr> 
           <tr>
@@ -175,7 +176,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Ninth AAAI Conference on Artificial Intelligence, 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2501.09428">Paper</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://arxiv.org/pdf/2501.09428">Preprint</a>] [<a>Code (Coming soon) </a>]
                     </td>
            </tr> 
            <tr>
@@ -189,7 +190,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/abs/2411.02920">Paper</a>] 
+                      [<a href="https://arxiv.org/abs/2411.02920">Preprint</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10855521">Paper</a>] 
                     </td>
            </tr> 
            <tr>
@@ -217,7 +218,7 @@ ________________________________________________________________________________
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
-                      [<a href="https://dl.acm.org/doi/pdf/10.1145/3664647.36807005">Paper</a>] 
+                      [<a href="https://arxiv.org/pdf/2407.21335">Preprint</a>] [<a href="https://dl.acm.org/doi/pdf/10.1145/3664647.36807005">Paper</a>] 
                     </td>
           </tr> 
           <tr>
@@ -231,7 +232,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2407.05256">Paper</a>] 
+                      [<a href="https://arxiv.org/pdf/2407.05256">Preprint</a>] [<a href="https://link.springer.com/chapter/10.1007/978-3-031-73195-2_22">Paper</a>] 
                     </td>
            </tr>
            <tr>
@@ -245,7 +246,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/abs/2403.11868">Paper</a>] [<a href="https://github.com/Yuxuan-W/vcedit">Code</a>]
+                      [<a href="https://arxiv.org/abs/2403.11868">Preprint</a>] [<a href="https://link.springer.com/chapter/10.1007/978-3-031-72761-0_23">Paper</a>]  [<a href="https://github.com/Yuxuan-W/vcedit">Code</a>]
                     </td>
               </tr>
             <tr>
@@ -287,7 +288,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Eighth AAAI Conference on Artificial Intelligence, 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2401.05011.pdf">Paper</a>] [<a href="https://github.com/tingxueronghua/DPKE">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2401.05011.pdf">Preprint</a>] [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27976">Paper</a>] [<a href="https://github.com/tingxueronghua/DPKE">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -329,7 +330,7 @@ ________________________________________________________________________________
                       <br>
                       <em>The British Machine Vision Conference (BMVC), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2406.11311">Paper</a>] [<a href="https://github.com/wangys16/OHDA">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2406.11311">Preprint</a>] [<a href="https://github.com/wangys16/OHDA">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -343,7 +344,7 @@ ________________________________________________________________________________
                       <br>
                       <em>The British Machine Vision Conference (BMVC), 2024 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2212.04668">Paper</a>] 
+                      [<a href="https://arxiv.org/pdf/2212.04668">Preprint</a>] 
               </td>
               </tr>
               <tr>
@@ -357,7 +358,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on 3D Vision (3DV), 2024 </em> <i style="color:#e74d3c"> Oral Presentation </i>
                       <br>
-                      [<a href="https://ieeexplore.ieee.org/abstract/document/10550664">Paper</a>] 
+                      [<a href="https://arxiv.org/pdf/2406.11283">Preprint</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10550664">Paper</a>] 
                     </td>
               </tr>
               <tr>
@@ -371,7 +372,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Journal on Computer Vision (IJCV), 2023 </em>
                       <br>
-                      [<a href="https://arxiv.org/pdf/2212.09068.pdf">Paper</a>] [<a href="https://github.com/HeliosZhao/SHADE-VisualDG">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2212.09068.pdf">Preprint</a>] [<a href="https://link.springer.com/article/10.1007/s11263-023-01911-w">Paper</a>]  [<a href="https://github.com/HeliosZhao/SHADE-VisualDG">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -385,7 +386,7 @@ ________________________________________________________________________________
                       <br>
                       <em>The British Machine Vision Conference (BMVC), 2023 </em>
                       <br>
-                      [<a href="https://arxiv.org/pdf/2309.11228.pdf">Paper</a>] [<a href="https://github.com/Pixie8888/R3DFSSeg">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2309.11228.pdf">Preprint</a>] [<a href="https://papers.bmvc2023.org/0081.pdf">Paper</a>] [<a href="https://github.com/Pixie8888/R3DFSSeg">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -399,7 +400,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2023 </em>
                       <br>
-                      [<a href="https://arxiv.org/pdf/2309.11222.pdf">Paper</a>] [<a href="https://github.com/Pixie8888/GFS-3DSeg_GWs">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2309.11222.pdf">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Generalized_Few-Shot_Point_Cloud_Segmentation_via_Geometric_Words_ICCV_2023_paper.pdf">Paper</a>]  [<a href="https://github.com/Pixie8888/GFS-3DSeg_GWs">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -413,7 +414,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Intelligent Robots and Systems (IROS), 2023 </em>
                       <br>
-                      [<a href="https://arxiv.org/pdf/2308.06928.pdf">Paper</a>] [<a href="https://github.com/tasbolat1/graspflow">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2308.06928.pdf">Preprint</a>] [<a href="https://github.com/tasbolat1/graspflow">Code</a>]
                     </td>
               </tr>
               <tr>
@@ -457,7 +458,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
-                      [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690536.pdf">Paper</a>]
+                      [<a href="https://arxiv.org/pdf/2207.09332">Preprint</a>] [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690536.pdf">Paper</a>]
                       [<a href="https://github.com/hlsheng1/RDIoU">Code</a>]
                     </td>
               </tr>
@@ -473,7 +474,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2022 </em>
                       <br>
-                      [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880530.pdf">Paper</a>]
+                      [<a href="https://arxiv.org/pdf/2204.02548">Preprint</a>] [<a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880530.pdf">Paper</a>]
                       [<a href="https://github.com/HeliosZhao/SHADE">Code</a>]
                       <br>
                     </td>
@@ -490,7 +491,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022 </em><i style="color:#e74d3c">Oral Presentation</i>
                       <br>
-                      [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20254">Paper</a>]
+                      [<a href="https://arxiv.org/abs/2112.07241">Preprint</a>] [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/20254">Paper</a>]
                       [<a href="https://github.com/Na-Z/SDCoT">Code</a>]
                       <br>
                     </td>
@@ -507,7 +508,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 </em>
 	                    <br>
-            			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Paper</a>]
+            			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
             			    <!---[<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]-->
                       <br>
@@ -525,7 +526,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
 	                    <br>
-			                [<a href="https://arxiv.org/pdf/1912.11803.pdf">Paper</a>]
+			                [<a href="https://arxiv.org/pdf/1912.11803.pdf">Preprint</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf">Paper</a>]
             			    [<a href="https://github.com/Na-Z/sess">Code</a>]
             			    <!---[<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]-->
                       <br>
@@ -543,7 +544,7 @@ ________________________________________________________________________________
                         <br>
                         <em>25th International Conference on Pattern Recognition (ICPR), 2020 </em>
                         <br>
-                  			[<a href="https://arxiv.org/pdf/1908.05425.pdf">Paper</a>] 
+                  			[<a href="https://arxiv.org/pdf/1908.05425.pdf">Preprint</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9412875">Paper</a>] 
                   			[<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
                   			<!---[<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]-->
                         <br>
