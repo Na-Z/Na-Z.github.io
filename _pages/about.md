@@ -31,6 +31,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[May 2025]</strong> One paper about multi-modal 3D panoptic segmentation is accepted by ICML 2025!</li> 
+  <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted by IJCAI 2025!</li> 
+  <li> <strong>[Apr 2025]</strong> I will serve as an Area Chair for MM 2025!</li> 
   <li> <strong>[Mar 2025]</strong> One paper about occluded human reconstruction is accepted by ICME 2025! </li>  
   <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted by CVPR 2025! </li> 
   <li> <strong>[Feb 2025]</strong> One paper about 3D object detection for autonomous driving is accepted by IJCV 2025! </li> 
@@ -95,6 +98,34 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/IAL_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>How Do Images Align and Complement LiDAR? \\ Towards a Harmonized Multi-modal 3D Panoptic Segmentation</b>
+                      <br>
+                      Yining Pan, Qiongjie Cui, Xulei Yang, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2025</em> 
+                      <br>
+                      [<a>Paper (coming soon)</a>]
+                    </td>
+           </tr>
+           <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/OcSplats_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>OcSplats: Rendering Occluded Humans with Prior Knowledge</b>
+                      <br>
+                      Jie Zhang, Qiongjie Cui, Xulei Yang, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>IEEE International Conference on Multimedia & Expo (ICME), 2025</em> 
+                      <br>
+                      [<a>Paper (coming soon)</a>]
+                    </td>
+           </tr>  
           <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/UMD_framework.png" border="0">
@@ -619,7 +650,7 @@ ________________________________________________________________________________
   <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (2025-)</li>
-  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025</li>
+  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025, MM 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
 </div>
