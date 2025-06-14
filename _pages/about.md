@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[May 2025]</strong> One paper about consistent video customization is accepted by EGSR 2025!</li> 
   <li> <strong>[May 2025]</strong> One paper about multi-modal 3D panoptic segmentation is accepted by ICML 2025!</li> 
   <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted by IJCAI 2025!</li> 
   <li> <strong>[Apr 2025]</strong> I will serve as an Area Chair for MM 2025!</li> 
@@ -40,6 +41,7 @@ ________________________________________________________________________________
   <li> <strong>[Feb 2025]</strong> I am honored to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.2)!</li> 
   <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted by TMM 2025!</li> 
   <li> <strong>[Jan 2025]</strong> One paper about 3D reconstruction and editing is accepted by ICLR 2025!</li> 
+  <li> <strong>[Dec 2024]</strong> I will serve as an Area Chair for NLPCC 2025!</li> 
   <li> <strong>[Dec 2024]</strong> One paper about 3D visual grounding is accepted by AAAI 2025!</li> 
   <li> <strong>[Dec 2024]</strong> One paper about class-incremental 3D object detection is accepted by TIP 2024!</li> 
   <li> <strong>[Nov 2024]</strong> I will serve as a senior PC for IJCAI 2025!</li> 
@@ -103,13 +105,13 @@ ________________________________________________________________________________
                         <img width="320" src="../images/IAL_framework.png" border="0">
                     </td>
                     <td>
-                      <b>How Do Images Align and Complement LiDAR? \\ Towards a Harmonized Multi-modal 3D Panoptic Segmentation</b>
+                      <b>How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation</b>
                       <br>
                       Yining Pan, Qiongjie Cui, Xulei Yang, <strong>Na Zhao*</strong>
                       <br>
                       <em>International Conference on Machine Learning (ICML), 2025</em> 
                       <br>
-                      [<a>Paper (coming soon)</a>]
+                      [<a href="https://arxiv.org/pdf/2505.18956">Preprint</a>] [<a href="https://github.com/IMPL-Lab/IAL">Code</a>]
                     </td>
            </tr>
            <tr>
@@ -137,7 +139,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2503.16125">Preprint</a>] 
+                      [<a href="https://arxiv.org/pdf/2503.16125">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Uncertainty_Meets_Diversity_A_Comprehensive_Active_Learning_Framework_for_Indoor_CVPR_2025_paper.pdf">Paper</a>] 
                     </td>
            </tr> 
           <tr>
@@ -151,7 +153,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> 
                       <br>
-                      [<a>Paper (coming soon)</a>] 
+                      [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.pdf">Paper</a>] 
                     </td>
            </tr>  
           <tr>
@@ -165,8 +167,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Journal on Computer Vision (IJCV), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2406.08152">Preprint</a>] [<a href="https://link.springer.com/article/10.1007/s11263-025-02404-8">Paper</a>] [<a href="https://github.com/hlsheng1/CT3D-plusplus">Code</a>]
-                    </td>
+                      [<a href="https://arxiv.org/pdf/2406.08152">Preprint</a>] [<a href="https://link.springer.com/article/10.1007/s11263-025-02404-8">Paper</a>] 
           </tr> 
           <tr>
                     <td class="noBorder" width="40%">
@@ -647,10 +648,10 @@ ________________________________________________________________________________
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
-  <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation (Chair), The 22nd international conference on Multimedia Modeling (Publication Chair)</li>
+  <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (2025-)</li>
-  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025, MM 2025 </li>
+  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025, MM 2025, NLPCC 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
 </div>
