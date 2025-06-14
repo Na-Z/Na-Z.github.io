@@ -153,7 +153,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> 
                       <br>
-                      [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.pdf">Paper</a>] 
+                      [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.pdf">Paper</a>]
                     </td>
            </tr>  
           <tr>
@@ -167,7 +167,8 @@ ________________________________________________________________________________
                       <br>
                       <em>International Journal on Computer Vision (IJCV), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2406.08152">Preprint</a>] [<a href="https://link.springer.com/article/10.1007/s11263-025-02404-8">Paper</a>] 
+                      [<a href="https://arxiv.org/pdf/2406.08152">Preprint</a>] [<a href="https://link.springer.com/article/10.1007/s11263-025-02404-8">Paper</a>] [<a href="https://github.com/hlsheng1/CT3D-plusplus">Code</a>]
+                    </td>
           </tr> 
           <tr>
                     <td class="noBorder" width="40%">
