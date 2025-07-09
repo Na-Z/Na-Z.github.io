@@ -31,6 +31,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Jul 2025]</strong> One paper about multimodal large language models’ assumptive reasoning is accepted by MM 2025!</li>
+  <li> <strong>[Jun 2025]</strong> Four papers are accepted by ICCV 2025! Stay tuned for details.</li> 
   <li> <strong>[May 2025]</strong> One paper about consistent video customization is accepted by EGSR 2025!</li> 
   <li> <strong>[May 2025]</strong> One paper about multi-modal 3D panoptic segmentation is accepted by ICML 2025!</li> 
   <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted by IJCAI 2025!</li> 
@@ -221,7 +223,7 @@ ________________________________________________________________________________
                       <br>
                       Pengkun Jiao, <strong>Na Zhao#</strong>, Jingjing Chen#, Yu-Gang Jiang
                       <br>
-                      <em>IEEE Transactions on Multimedia (TMM), 2024 </em> 
+                      <em>IEEE Transactions on Multimedia (TMM), 2025 </em> 
                       <br>
                       [<a href="https://arxiv.org/abs/2411.02920">Preprint</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10855521">Paper</a>] 
                     </td>
