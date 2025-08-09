@@ -31,9 +31,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Jul 2025]</strong> One paper about multimodal large language models’ assumptive reasoning is accepted by MM 2025!</li>
-  <li> <strong>[Jun 2025]</strong> Four papers are accepted by ICCV 2025! Stay tuned for details.</li> 
-  <li> <strong>[May 2025]</strong> One paper about consistent video customization is accepted by EGSR 2025!</li> 
+  <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in multimodal large language models is accepted by MM 2025!</li>
+  <li> <strong>[Jun 2025]</strong> Four papers are accepted by ICCV 2025! </li> 
   <li> <strong>[May 2025]</strong> One paper about multi-modal 3D panoptic segmentation is accepted by ICML 2025!</li> 
   <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted by IJCAI 2025!</li> 
   <li> <strong>[Apr 2025]</strong> I will serve as an Area Chair for MM 2025!</li> 
@@ -101,7 +100,77 @@ ________________________________________________________________________________
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
-           <tbody>
+          <tbody>
+           <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Motionlab_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm</b>
+                      <br>
+                      Ziyan Guo, Zeyu HU, De Wen Soh, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>International Conference on Computer Vision (ICCV), 2025</em> 
+                      <br>
+                      [<a href="https://diouo.github.io/motionlab.github.io/">Project</a>][<a href="https://arxiv.org/pdf/2502.02358">Preprint</a>] [<a href="https://github.com/Diouo/MotionLab">Code</a>]
+                    </td>
+          </tr>
+           <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/H3R_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>H3R: Hybrid Multi-view Correspondence for Generalizable 3D Reconstruction</b>
+                      <br>
+                      Heng Jia, Linchao Zhu, <strong>Na Zhao</strong>
+                      <br>
+                      <em>International Conference on Computer Vision (ICCV), 2025</em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2508.03118">Preprint</a>] [<a href="https://github.com/JiaHeng-DLUT/H3R">Code</a>]
+                    </td>
+          </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/RML_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation</b>
+                      <br>
+                      Jie Xu, <strong>Na Zhao#</strong>, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu#
+                      <br>
+                      <em>International Conference on Computer Vision (ICCV), 2025</em> 
+                      <br>
+                      [<a href="https://www.arxiv.org/pdf/2503.04151">Preprint</a>] [<a href="https://github.com/SubmissionsIn/RML">Code</a>]
+                    </td>
+          </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/VGPCC_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Geometric Alignment and Prior Modulation for View-Guided Point Cloud Completion on Unseen Categories</b>
+                      <br>
+                      Jingqiao Xiu, Yicong Li, <strong>Na Zhao</strong>, Han Fang, Xiang Wang, Angela Yao
+                      <br>
+                      <em>International Conference on Computer Vision (ICCV), 2025</em> 
+                      <br>
+                      [<a>Paper (coming soon)</a>]
+                    </td>
+          </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/MARS_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning</b>
+                      <br>
+                      Yian Li, Wentao Tian, Yang Jiao, Jingjing Chen, Tianwen Qian, Bin Zhu, <strong>Na Zhao</strong>, Yu-Gang Jiang
+                      <br>
+                      <em>ACM Multimedia (MM), 2025</em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2404.12966">Preprint</a>]
+                    </td>
+          </tr>
           <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/IAL_framework.png" border="0">
@@ -141,7 +210,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2503.16125">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Uncertainty_Meets_Diversity_A_Comprehensive_Active_Learning_Framework_for_Indoor_CVPR_2025_paper.pdf">Paper</a>] 
+                      [<a href="https://arxiv.org/pdf/2503.16125">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Uncertainty_Meets_Diversity_A_Comprehensive_Active_Learning_Framework_for_Indoor_CVPR_2025_paper.pdf">Paper</a>] [<a href="https://github.com/JoeWang-0519/CVPR25_UMD">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -211,7 +280,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Ninth AAAI Conference on Artificial Intelligence, 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2501.09428">Preprint</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://arxiv.org/pdf/2501.09428">Preprint</a>] [<a href="https://dl.acm.org/doi/10.1609/aaai.v39i8.32863">Paper</a>] [<a>Code (Coming soon) </a>]
                     </td>
            </tr> 
            <tr>
