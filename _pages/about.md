@@ -31,7 +31,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in multimodal large language models is accepted by MM 2025!</li>
+  <li> <strong>[Aug 2025]</strong> I will serve as an Area Chair for ICLR 2026!</li> 
+  <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in MLLMs is accepted by MM 2025!</li>
   <li> <strong>[Jun 2025]</strong> Four papers are accepted by ICCV 2025! </li> 
   <li> <strong>[May 2025]</strong> One paper about multi-modal 3D panoptic segmentation is accepted by ICML 2025!</li> 
   <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted by IJCAI 2025!</li> 
@@ -716,14 +717,14 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, SIGGRAPH, AAAI, IJCAI, MM, BMVC, etc</li>
+  <li> <strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, SIGGRAPH, AAAI, IJCAI, MM, etc</li>
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
-  <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
+  <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, RAL, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (2025-)</li>
-  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025, MM 2025, NLPCC 2025 </li>
+  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2026, MM 2025, ICLR 2025, NLPCC 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
 </div>
