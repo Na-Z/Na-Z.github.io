@@ -31,6 +31,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Sep 2025]</strong> One paper about 3D Fine-grained Embodied Reasoning is accepted by NeurIPS 2025!</li>
   <li> <strong>[Aug 2025]</strong> I will serve as an Area Chair for ICLR 2026!</li> 
   <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in MLLMs is accepted by MM 2025!</li>
   <li> <strong>[Jun 2025]</strong> Four papers are accepted by ICCV 2025! </li> 
@@ -253,7 +254,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2025</em> 
                       <br>
-                      [<a>Paper (coming soon)</a>] 
+                      [<a href="https://ieeexplore.ieee.org/document/11175547">Paper</a>] 
                     </td>
            </tr> 
           <tr>
