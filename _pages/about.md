@@ -103,6 +103,20 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
           <tbody>
+          <tr>
+                   <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Affordbot_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models</b>
+                      <br>
+                      Xinyi Wang, Xun Yang#, Yanlong Xu, Yuchen Wu, Zhen Li, <strong>Na Zhao#</strong>
+                      <br>
+                      <em>39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</em> 
+                      <br>
+                      [<a>Paper (coming soon)</a>]
+                    </td>
+          </tr>
            <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/Motionlab_teaser.png" border="0">
@@ -737,6 +751,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> Mentor, 01.400 Capstone (3), Fall 2025 & Spring 2026 </li>
   <li> Mentor, 01.400 Capstone (2), Fall 2024 & Spring 2025 </li>
   <li> Instructor, 50.007 Machine Learning, Spring 2023 & Spring 2024 & Spring 2025. </li>
   <li> Mentor, 01.400 Capstone (11), Fall 2023 & Spring 2024. </li>
