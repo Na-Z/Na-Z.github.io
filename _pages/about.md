@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a tenure-track Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
 
-I am heading [Intelligent Machine Perception Lab](https://impl2023.github.io) (IMPL) at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision, (3D) scene understanding, 3D reconstruction. (2) **Machine Learning**: data-efficient learning, multi-modal learning, continual learning, out-of-distribution learning, robust learning.
+I am heading [Intelligent Machine Perception Lab](https://impl2023.github.io) (IMPL) at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision, (3D) scene understanding, 3D reconstruction, 3D generation, 3D spatial intelligence. (2) **Machine Learning**: data-efficient learning, multi-modal learning, continual learning, out-of-distribution learning, robust learning.
 
 _______________________________________________________________________________________________________
 <h3>
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 </h3>
 <div class="highlight"> 
   <ul>
-  <li>I am looking for <strong>PhD applicants</strong> with strong background in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/<a href="https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa">SINGA</a>/industry scholarship.</li>
+  <li>I am looking for <strong>PhD applicants</strong> with strong background in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/industry scholarship.</li>
   <li>I am recruiting <strong>research fellow</strong> (holds a doctoral degree) with relevant research experience on computer vision.</li>
   <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>  
   </ul>
@@ -31,6 +31,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted by AAAI 2026, for oral and poster presentations, respectively!</li>
+  <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on Multimodal Foundation Models for Spatial Intelligence at ACM Multimedia 2025!</li>
+  <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 8.4)!</li> 
   <li> <strong>[Sep 2025]</strong> One paper about 3D Fine-grained Embodied Reasoning is accepted by NeurIPS 2025!</li>
   <li> <strong>[Aug 2025]</strong> I will serve as an Area Chair for ICLR 2026!</li> 
   <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in MLLMs is accepted by MM 2025!</li>
@@ -41,7 +44,7 @@ ________________________________________________________________________________
   <li> <strong>[Mar 2025]</strong> One paper about occluded human reconstruction is accepted by ICME 2025! </li>  
   <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted by CVPR 2025! </li> 
   <li> <strong>[Feb 2025]</strong> One paper about 3D object detection for autonomous driving is accepted by IJCV 2025! </li> 
-  <li> <strong>[Feb 2025]</strong> I am honored to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.2)!</li> 
+  <li> <strong>[Feb 2025]</strong> I am invitated to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.6)!</li> 
   <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted by TMM 2025!</li> 
   <li> <strong>[Jan 2025]</strong> One paper about 3D reconstruction and editing is accepted by ICLR 2025!</li> 
   <li> <strong>[Dec 2024]</strong> I will serve as an Area Chair for NLPCC 2025!</li> 
@@ -105,6 +108,34 @@ ________________________________________________________________________________
           <tbody>
           <tr>
                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/RaLiFlow_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>RaLiFlow: Scene Flow Estimation with 4D Radar and LiDAR Point Clouds</b>
+                      <br>
+                      Jingyun Fu, Zhiyu Xiang#, <strong>Na Zhao#</strong>
+                      <br>
+                      <em>40th AAAI Conference on Artificial Intelligence, 2026</em> 
+                      <br>
+                      [<a>Paper (Coming soon)</a>] [<a href="https://github.com/FuJingyun/RaLiFlow">Code</a>]
+                    </td>
+          </tr>
+          <tr>
+                   <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GPS_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis</b>
+                      <br>
+                      Shangbo Yuan, Jie Xu, <strong>Na Zhao#</strong>, Ping Hu, Xiaofeng Zhu 
+                      <br>
+                      <em>40th AAAI Conference on Artificial Intelligence, 2026</em> 
+                      <br>
+                      [<a>Paper (Coming soon)</a>] 
+                    </td>
+          </tr>
+          <tr>
+                   <td class="noBorder" width="40%">
                         <img width="320" src="../images/Affordbot_teaser.png" border="0">
                     </td>
                     <td>
@@ -114,7 +145,7 @@ ________________________________________________________________________________
                       <br>
                       <em>39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</em> 
                       <br>
-                      [<a>Paper (coming soon)</a>]
+                      [<a href="https://arxiv.org/pdf/2511.10017">Preprint</a>] [<a href="https://github.com/hannahwxy/AffordBot">Code</a>]
                     </td>
           </tr>
            <tr>
@@ -128,7 +159,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2025</em> 
                       <br>
-                      [<a href="https://diouo.github.io/motionlab.github.io/">Project</a>][<a href="https://arxiv.org/pdf/2502.02358">Preprint</a>] [<a href="https://github.com/Diouo/MotionLab">Code</a>]
+                      [<a href="https://diouo.github.io/motionlab.github.io/">Project</a>][<a href="https://arxiv.org/pdf/2502.02358">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Guo_MotionLab_Unified_Human_Motion_Generation_and_Editing_via_the_Motion-Condition-Motion_ICCV_2025_paper.pdf">Paper</a>] [<a href="https://github.com/Diouo/MotionLab">Code</a>]
                     </td>
           </tr>
            <tr>
@@ -142,7 +173,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2508.03118">Preprint</a>] [<a href="https://github.com/JiaHeng-DLUT/H3R">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2508.03118">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jia_H3R_Hybrid_Multi-view_Correspondence_for_Generalizable_3D_Reconstruction_ICCV_2025_paper.pdf">Paper</a>] [<a href="https://github.com/JiaHeng-DLUT/H3R">Code</a>]
                     </td>
           </tr>
           <tr>
@@ -156,7 +187,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2025</em> 
                       <br>
-                      [<a href="https://www.arxiv.org/pdf/2503.04151">Preprint</a>] [<a href="https://github.com/SubmissionsIn/RML">Code</a>]
+                      [<a href="https://www.arxiv.org/pdf/2503.04151">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Robust_Multi-View_Learning_via_Representation_Fusion_of_Sample-Level_Attention_and_ICCV_2025_paper.pdf">Paper</a>] [<a href="https://github.com/SubmissionsIn/RML">Code</a>]
                     </td>
           </tr>
           <tr>
@@ -170,7 +201,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2025</em> 
                       <br>
-                      [<a>Paper (coming soon)</a>]
+                      [<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Xiu_Geometric_Alignment_and_Prior_Modulation_for_View-Guided_Point_Cloud_Completion_ICCV_2025_paper.pdf">Paper</a>]
                     </td>
           </tr>
           <tr>
@@ -180,11 +211,11 @@ ________________________________________________________________________________
                     <td>
                       <b>Look Before You Decide: Prompting Active Deduction of MLLMs for Assumptive Reasoning</b>
                       <br>
-                      Yian Li, Wentao Tian, Yang Jiao, Jingjing Chen, Tianwen Qian, Bin Zhu, <strong>Na Zhao</strong>, Yu-Gang Jiang
+                      Yian Li, Wentao Tian, Yang Jiao, Tianwen Qian, <strong>Na Zhao</strong>,  Bin Zhu, Jingjing Chen, Yu-Gang Jiang
                       <br>
                       <em>ACM Multimedia (MM), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2404.12966">Preprint</a>]
+                      [<a href="https://dl.acm.org/doi/10.1145/3746027.3754720">Paper</a>]
                     </td>
           </tr>
           <tr>
@@ -198,7 +229,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Machine Learning (ICML), 2025</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2505.18956">Preprint</a>] [<a href="https://github.com/IMPL-Lab/IAL">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2505.18956">Preprint</a>] [<a href="https://openreview.net/pdf/ea38ded40d57a840cbde86fb7bfa9588256ea489.pdf">Paper</a>] [<a href="https://github.com/IMPL-Lab/IAL">Code</a>]
                     </td>
            </tr>
            <tr>
@@ -268,7 +299,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2025</em> 
                       <br>
-                      [<a href="https://ieeexplore.ieee.org/document/11175547">Paper</a>] 
+                      [<a href="https://arxiv.org/pdf/2509.20785">Preprint</a>]  [<a href="https://ieeexplore.ieee.org/document/11175547">Paper</a>] 
                     </td>
            </tr> 
           <tr>
@@ -282,7 +313,7 @@ ________________________________________________________________________________
                       <br>
                       <em>International Conference on Learning Representations (ICLR), 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/abs/2410.01535">Preprint</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://arxiv.org/abs/2410.01535">Preprint</a>] [<a href="https://github.com/Jiangshuyi0V0/GaussianBlock">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -734,11 +765,11 @@ ________________________________________________________________________________
   <ul>
   <li> <strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, SIGGRAPH, AAAI, IJCAI, MM, etc</li>
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
-  <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, RAL, TCSVT, TOMM, TMM, Multimedia Systems, Neurocomputing, etc</li>
+  <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, RAL, TCSVT, TOMM, TMM, RAL, Multimedia Systems, Neurocomputing, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
-  <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (2025-)</li>
+  <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Jan 2026-)</li>
   <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2026, MM 2025, ICLR 2025, NLPCC 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
