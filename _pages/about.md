@@ -127,7 +127,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis</b>
                       <br>
-                      Shangbo Yuan, Jie Xu, <strong>Na Zhao#</strong>, Ping Hu, Xiaofeng Zhu 
+                      Shangbo Yuan, Jie Xu, <strong>Na Zhao</strong>, Ping Hu, Xiaofeng Zhu 
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> <i style="color:#e74d3c">Oral Presentation</i>
                       <br>
