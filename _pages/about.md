@@ -33,8 +33,9 @@ ________________________________________________________________________________
   <ul>
   <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted by AAAI 2026, for oral and poster presentations, respectively!</li>
   <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on <i>Multimodal Foundation Models for Spatial Intelligence</i> at ACM Multimedia 2025!</li>
-  <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 8.4)!</li> 
+  <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 11.1)!</li> 
   <li> <strong>[Sep 2025]</strong> One paper about 3D fine-grained embodied reasoning is accepted by NeurIPS 2025!</li>
+  <li> <strong>[Sep 2025]</strong> I am invited to give a talk at NEXUS Japan–Singapore Joint Workshop 2025!</li>
   <li> <strong>[Aug 2025]</strong> I will serve as an Area Chair for ICLR 2026!</li> 
   <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in MLLMs is accepted by MM 2025!</li>
   <li> <strong>[Jun 2025]</strong> Four papers are accepted by ICCV 2025! </li> 
@@ -42,7 +43,7 @@ ________________________________________________________________________________
   <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted by IJCAI 2025!</li> 
   <li> <strong>[Apr 2025]</strong> I will serve as an Area Chair for MM 2025!</li> 
   <li> <strong>[Mar 2025]</strong> One paper about occluded human reconstruction is accepted by ICME 2025! </li>  
-  <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted by CVPR 2025! </li> 
+  <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted by CVPR 2025!</li> 
   <li> <strong>[Feb 2025]</strong> One paper about 3D object detection for autonomous driving is accepted by IJCV 2025! </li> 
   <li> <strong>[Feb 2025]</strong> I am invitated to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.6)!</li> 
   <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted by TMM 2025!</li> 
@@ -127,7 +128,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis</b>
                       <br>
-                      Shangbo Yuan, Jie Xu, <strong>Na Zhao</strong>, Ping Hu, Xiaofeng Zhu 
+                      Shangbo Yuan, Jie Xu, Ping Hu, Xiaofeng Zhu, <strong>Na Zhao</strong> 
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> <i style="color:#e74d3c">Oral Presentation</i>
                       <br>
@@ -769,7 +770,7 @@ ________________________________________________________________________________
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
-  <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Jan 2026-)</li>
+  <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
   <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2026, MM 2025, ICLR 2025, NLPCC 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
