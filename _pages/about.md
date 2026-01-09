@@ -31,6 +31,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
+  <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted by TIP 2026!</li> 
+  <li> <strong>[Oct 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
   <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted by AAAI 2026, for oral and poster presentations, respectively!</li>
   <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on <i>Multimodal Foundation Models for Spatial Intelligence</i> at ACM Multimedia 2025!</li>
   <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 11.1)!</li> 
@@ -118,7 +121,7 @@ ________________________________________________________________________________
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> 
                       <br>
-                      [<a>Paper (Coming soon)</a>] [<a href="https://github.com/FuJingyun/RaLiFlow">Code</a>]
+                      [<a href="https://github.com/FuJingyun/RaLiFlow">Preprint</a>] [<a href="https://github.com/FuJingyun/RaLiFlow">Code</a>]
                     </td>
           </tr>
           <tr>
@@ -132,7 +135,7 @@ ________________________________________________________________________________
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> <i style="color:#e74d3c">Oral Presentation</i>
                       <br>
-                      [<a>Paper (Coming soon)</a>] 
+                      [<a>Paper (Coming soon)</a>] [<a href="https://github.com/shangboyuan/GSPoint">Code</a>]
                     </td>
           </tr>
           <tr>
@@ -244,7 +247,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE International Conference on Multimedia & Expo (ICME), 2025</em> 
                       <br>
-                      [<a>Paper (coming soon)</a>]
+                      [<a href="https://ieeexplore.ieee.org/document/11210056">Paper</a>]
                     </td>
            </tr>  
           <tr>
@@ -768,9 +771,10 @@ ________________________________________________________________________________
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, RAL, TCSVT, TOMM, TMM, RAL, Multimedia Systems, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
-  <li> <strong>Organizer</strong>: The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
+  <li> <strong>Organizer</strong>: The 16th ACM International Conference on Multimedia Retrieval (Publicity Chair), The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
+  <li> <strong>Conference Senior Area Chair (SAC)</strong>: ICME 2026 </li>
   <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2026, MM 2025, ICLR 2025, NLPCC 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
@@ -785,7 +789,7 @@ ________________________________________________________________________________
   <ul>
   <li> Mentor, 01.400 Capstone (3), Fall 2025 & Spring 2026 </li>
   <li> Mentor, 01.400 Capstone (2), Fall 2024 & Spring 2025 </li>
-  <li> Instructor, 50.007 Machine Learning, Spring 2023 & Spring 2024 & Spring 2025. </li>
+  <li> Instructor, 50.007 Machine Learning, Spring 2023/2024/2025/2026. </li>
   <li> Mentor, 01.400 Capstone (11), Fall 2023 & Spring 2024. </li>
   <li> Instructor, 10.020 Data Driven World, Fall 2023. </li>
   <li> Teaching Assistant, CS4242 Social Media Computing, Spring 2018 & Spring 2019.</li>
