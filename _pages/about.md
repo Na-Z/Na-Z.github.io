@@ -10,7 +10,11 @@ redirect_from:
 
 I am currently a tenure-track Assistant Professor in the Information Systems Technology and Design (ISTD) Pillar at [Singapore University of Technology and Design](https://www.sutd.edu.sg) (SUTD). Prior to joining SUTD, I was a Research Fellow in Computer Vision and Robot Perception Lab, Department of Computer Science, [National University of Singapore](http://www.nus.edu.sg/) (NUS). I recieved my Ph.D. in Computer Science from NUS in March 2021, supervised by [Professor Tat-Seng Chua](https://www.chuatatseng.com/). 
 
-I am heading [Intelligent Machine Perception Lab](https://impl2023.github.io) (IMPL) at SUTD, with a primary focus on, but not limited to: (1) **Computer Vision**: 3D computer vision, (3D) scene understanding, 3D reconstruction, 3D generation, 3D spatial intelligence. (2) **Machine Learning**: data-efficient learning, multi-modal learning, continual learning, out-of-distribution learning, robust learning.
+I am heading [Intelligent Machine Perception Lab](https://impl2023.github.io) (IMPL) at SUTD, with a primary focus on, but not limited to: 
+<!---(1) **Computer Vision**: 3D computer vision, (3D) scene understanding, 3D reconstruction, 3D generation and editing, spatial intelligence. -->
+(1) **3D Computer Vision**: 3D scene understanding, 3D reconstruction, 3D generation and editing.
+(2) **Machine Learning**: data-efficient learning, multi-modal learning, continual learning, out-of-distribution learning, robust learning.
+(3) **Embodied AI**: multi-modal perception, spatial intelligence, embodied navigation, embodied manipulation.
 
 _______________________________________________________________________________________________________
 <h3>
@@ -33,7 +37,7 @@ ________________________________________________________________________________
   <ul>
   <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
   <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted by TIP 2026!</li> 
-  <li> <strong>[Oct 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
+  <li> <strong>[Dec 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
   <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted by AAAI 2026, for oral and poster presentations, respectively!</li>
   <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on <i>Multimodal Foundation Models for Spatial Intelligence</i> at ACM Multimedia 2025!</li>
   <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 11.1)!</li> 
