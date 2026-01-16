@@ -116,6 +116,20 @@ ________________________________________________________________________________
           <tbody>
           <tr>
                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/ifss-diff.png" border="0">
+                    </td>
+                    <td>
+                      <b>Towards Generative Understanding: Incremental Few-shot Semantic Segmentation with Diffusion Models</b>
+                      <br>
+                      Qun Li, Lu Huang, Fu Xiao, <strong>Na Zhao</strong>, Bir Bhanu 
+                      <br>
+                      <em>IEEE Transactions on Image Processing (TIP), 2026 </em> 
+                      <br>
+                      [<a href="https://ifss-diff.github.io">Project</a>] [<a href="https://ieeexplore.ieee.org/document/11353366">Paper</a>] [<a href="https://github.com/totoropink/iFSS-Diff">Code</a>]
+                    </td>
+          </tr>
+          <tr>
+                   <td class="noBorder" width="40%">
                         <img width="320" src="../images/RaLiFlow_framework.png" border="0">
                     </td>
                     <td>
