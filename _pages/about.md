@@ -139,7 +139,7 @@ ________________________________________________________________________________
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> 
                       <br>
-                      [<a href="https://github.com/FuJingyun/RaLiFlow">Preprint</a>] [<a href="https://github.com/FuJingyun/RaLiFlow">Code</a>]
+                      [<a href="https://arxiv.org/abs/2512.10376">Preprint</a>] [<a href="https://github.com/FuJingyun/RaLiFlow">Code</a>]
                     </td>
           </tr>
           <tr>
@@ -153,7 +153,7 @@ ________________________________________________________________________________
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> <i style="color:#e74d3c">Oral Presentation</i>
                       <br>
-                      [<a>Paper (Coming soon)</a>] [<a href="https://github.com/shangboyuan/GSPoint">Code</a>]
+                      [<a href="https://www.arxiv.org/abs/2601.11102">Preprint</a>] [<a href="https://github.com/shangboyuan/GSPoint">Code</a>]
                     </td>
           </tr>
           <tr>
@@ -789,7 +789,7 @@ ________________________________________________________________________________
   <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, RAL, TCSVT, TOMM, TMM, RAL, Multimedia Systems, etc</li>
   <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
-  <li> <strong>Organizer</strong>: The 16th ACM International Conference on Multimedia Retrieval (Publicity Chair), The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
+  <li> <strong>Organizer</strong>: The 16th ACM International Conference on Multimedia Retrieval 2026 (Publicity Chair), The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Jounral Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
   <li> <strong>Conference Senior Area Chair (SAC)</strong>: ICME 2026 </li>
