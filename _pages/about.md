@@ -35,6 +35,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Jan 2026]</strong> Seven papers are accepted by CVPR'26 main and two papers are accepted by CVPR'26 Findings!</li> 
   <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (MMM 2027)!</li> 
   <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted by ToMM 2026!</li> 
   <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
