@@ -35,67 +35,67 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Jan 2026]</strong> Seven papers are accepted by CVPR'26 main and two papers are accepted by CVPR'26 Findings!</li> 
-  <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (MMM 2027)!</li> 
-  <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted by ToMM 2026!</li> 
+  <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! Stay tuned for more details!</li> 
+  <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (<a href="https://www.mmm2027.net/home">MMM 2027</a>)!</li> 
+  <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted at ToMM 2026!</li> 
   <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
-  <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted by TIP 2026!</li> 
+  <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted at TIP 2026!</li> 
   <li> <strong>[Dec 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
-  <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted by AAAI 2026, for oral and poster presentations, respectively!</li>
+  <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted at AAAI 2026, for oral and poster presentations, respectively!</li>
   <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on <i>Multimodal Foundation Models for Spatial Intelligence</i> at ACM Multimedia 2025!</li>
   <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 11.1)!</li> 
-  <li> <strong>[Sep 2025]</strong> One paper about 3D fine-grained embodied reasoning is accepted by NeurIPS 2025!</li>
+  <li> <strong>[Sep 2025]</strong> One paper about 3D fine-grained embodied reasoning is accepted at NeurIPS 2025!</li>
   <li> <strong>[Sep 2025]</strong> I am invited to give a talk at NEXUS Japan–Singapore Joint Workshop 2025!</li>
   <li> <strong>[Aug 2025]</strong> I will serve as an Area Chair for ICLR 2026!</li> 
-  <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in MLLMs is accepted by MM 2025!</li>
-  <li> <strong>[Jun 2025]</strong> Four papers are accepted by ICCV 2025! </li> 
-  <li> <strong>[May 2025]</strong> One paper about multi-modal 3D panoptic segmentation is accepted by ICML 2025!</li> 
-  <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted by IJCAI 2025!</li> 
+  <li> <strong>[Jul 2025]</strong> One paper about assumptive reasoning in MLLMs is accepted at MM 2025!</li>
+  <li> <strong>[Jun 2025]</strong> Four papers are accepted at ICCV 2025! </li> 
+  <li> <strong>[May 2025]</strong> One paper about multi-modal 3D panoptic segmentation is accepted at ICML 2025!</li> 
+  <li> <strong>[Apr 2025]</strong> One paper about multi-view clutering is accepted at IJCAI 2025!</li> 
   <li> <strong>[Apr 2025]</strong> I will serve as an Area Chair for MM 2025!</li> 
-  <li> <strong>[Mar 2025]</strong> One paper about occluded human reconstruction is accepted by ICME 2025! </li>  
-  <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted by CVPR 2025!</li> 
-  <li> <strong>[Feb 2025]</strong> One paper about 3D object detection for autonomous driving is accepted by IJCV 2025! </li> 
+  <li> <strong>[Mar 2025]</strong> One paper about occluded human reconstruction is accepted at ICME 2025! </li>  
+  <li> <strong>[Feb 2025]</strong> Two papers about active 3D object detection and embodied multi-agent collaboration are accepted at CVPR 2025!</li> 
+  <li> <strong>[Feb 2025]</strong> One paper about 3D object detection for autonomous driving is accepted at IJCV 2025! </li> 
   <li> <strong>[Feb 2025]</strong> I am invitated to serve as an Associate Editor for <i>Knowledge-Based Systems</i> (Impact Factor: 7.6)!</li> 
-  <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted by TMM 2025!</li> 
-  <li> <strong>[Jan 2025]</strong> One paper about 3D reconstruction and editing is accepted by ICLR 2025!</li> 
+  <li> <strong>[Feb 2025]</strong> One paper about semi-supervised medical domain generalization is accepted at TMM 2025!</li> 
+  <li> <strong>[Jan 2025]</strong> One paper about 3D reconstruction and editing is accepted at ICLR 2025!</li> 
   <li> <strong>[Dec 2024]</strong> I will serve as an Area Chair for NLPCC 2025!</li> 
-  <li> <strong>[Dec 2024]</strong> One paper about 3D visual grounding is accepted by AAAI 2025!</li> 
-  <li> <strong>[Dec 2024]</strong> One paper about class-incremental 3D object detection is accepted by TIP 2024!</li> 
+  <li> <strong>[Dec 2024]</strong> One paper about 3D visual grounding is accepted at AAAI 2025!</li> 
+  <li> <strong>[Dec 2024]</strong> One paper about class-incremental 3D object detection is accepted at TIP 2024!</li> 
   <li> <strong>[Nov 2024]</strong> I will serve as a senior PC for IJCAI 2025!</li> 
   <li> <strong>[Nov 2024]</strong> I am awarded a grant titled "<i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>" from TL@SUTD as the sole Principal Investigator!</li>
   <li> <strong>[Oct 2024]</strong> I am invited to serve as Demo Chair at ACM Multimedia 2025!</li> 
-  <li> <strong>[Oct 2024]</strong> One paper about open-set single-source domain generalization is accepted by TMM 2024!</li>
+  <li> <strong>[Oct 2024]</strong> One paper about open-set single-source domain generalization is accepted at TMM 2024!</li>
   <li> <strong>[Sep 2024]</strong> I am awarded a joint SMU-SUTD grant titled "<i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>" as the co-Principal Investigator!</li>
   <li> <strong>[Sep 2024]</strong> I will serve as an Area Chair for ICLR 2025!</li> 
   <li> <strong>[Aug 2024]</strong> I am awarded a MoE Tier 2 grant titled "<i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>" as the sole Principal Investigator!</li>
   <li> <strong>[Aug 2024]</strong> I am appointed as a Technical Committee member for IEEE-CAS Multimedia Systems and Applications!</li>
-  <li> <strong>[Jul 2024]</strong> Two papers about domain generalized 3D semantic segmentation and UDA for 3D object detection are accepted by BMVC 2024!</li>
-  <li> <strong>[Jul 2024]</strong> Two papers about generalizable neural semantic fields and point cloud representation learning are accepted by MM 2024!</li>
-  <li> <strong>[Jul 2024]</strong> Two papers about open-vocabulary 3D object detection and 3D Gaussain splatting editing are accepted by ECCV 2024!</li>
-  <li> <strong>[Jan 2024]</strong> One paper about language-guided 3D affordance segmentation is accepted by CVPR 2024!</li>
-  <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted by ICRA 2024!</li>
+  <li> <strong>[Jul 2024]</strong> Two papers about domain generalized 3D semantic segmentation and UDA for 3D object detection are accepted at BMVC 2024!</li>
+  <li> <strong>[Jul 2024]</strong> Two papers about generalizable neural semantic fields and point cloud representation learning are accepted at MM 2024!</li>
+  <li> <strong>[Jul 2024]</strong> Two papers about open-vocabulary 3D object detection and 3D Gaussain splatting editing are accepted at ECCV 2024!</li>
+  <li> <strong>[Jan 2024]</strong> One paper about language-guided 3D affordance segmentation is accepted at CVPR 2024!</li>
+  <li> <strong>[Jan 2024]</strong> One paper about semi-supervised 3D instance segmentation is accepted at ICRA 2024!</li>
   <li> <strong>[Dec 2023]</strong> I am awarded a grant titled "<i>MANTIS - Cross-modality Resiliency against Real-world Attacks</i>" from DSO as the sole Principal Investigator!</li>
-  <li> <strong>[Dec 2023]</strong> Two papers about semi-supervised 3D object detection and robust visual recognition are accepted by AAAI 2024!</li>
-  <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted by 3DV 2024 as an oral paper!</li>
-  <li> <strong>[Sep 2023]</strong> One paper about visual domain generalization is accepted by IJCV 2023!</li>
-  <li> <strong>[Aug 2023]</strong> One paper about robust few-shot point cloud segmentation is accepted by BMVC 2023!</li>
+  <li> <strong>[Dec 2023]</strong> Two papers about semi-supervised 3D object detection and robust visual recognition are accepted at AAAI 2024!</li>
+  <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted at 3DV 2024 as an oral paper!</li>
+  <li> <strong>[Sep 2023]</strong> One paper about visual domain generalization is accepted at IJCV 2023!</li>
+  <li> <strong>[Aug 2023]</strong> One paper about robust few-shot point cloud segmentation is accepted at BMVC 2023!</li>
   <li> <strong>[Aug 2023]</strong> I am awarded a grant titled "<i>Towards Realistic Deep Learning for 3D Vision</i>" from A*STAR as the co-Investigator!</li>
-  <li> <strong>[Jul 2023]</strong> One paper about generalized few-shot point cloud segmentation is accepted by ICCV 2023!</li>
-  <li> <strong>[Jun 2023]</strong> One paper about 6-DoF grasps synthesis is accepted by IROS 2023!</li>
-  <li> <strong>[May 2023]</strong> One paper about monocular 3D object detection is accepted by TCSVT 2023!</li>
+  <li> <strong>[Jul 2023]</strong> One paper about generalized few-shot point cloud segmentation is accepted at ICCV 2023!</li>
+  <li> <strong>[Jun 2023]</strong> One paper about 6-DoF grasps synthesis is accepted at IROS 2023!</li>
+  <li> <strong>[May 2023]</strong> One paper about monocular 3D object detection is accepted at TCSVT 2023!</li>
   <li> <strong>[Mar 2023]</strong> I am invited to serve as Demo Chair at Sixth IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR 2023)!</li>
   <li> <strong>[Feb 2023]</strong> I am invited to join the Organising Committee of IEEE ICME 2023 Workshop on 3D Multimedia Analytics, Search and Generation!</li>
   <li> <strong>[Oct 2022]</strong> I am awarded a grant titled "<i>Multi-modal Joint Learning for Scene Understanding</i>" from SUTD-ZJU IDEA as the sole Principal Investigator!</li>
   <li> <strong>[Sep 2022]</strong> I am awarded a grant titled "<i>Data-efficient 3D Object Detection for Robot Perception</i>" from TL@SUTD as the sole Principal Investigator!</li>
   <li> <strong>[Aug 2022]</strong> I join the Singapore University of Technology and Design as an Assistant Professor!</li>
-  <li> <strong>[Jul 2022]</strong> Three papers are accepted by ECCV 2022!</li>
-  <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted by AAAI 2022 as an oral paper!</li>
+  <li> <strong>[Jul 2022]</strong> Three papers are accepted at ECCV 2022!</li>
+  <li> <strong>[Dec 2021]</strong> One paper about class-incremental 3D object detection is accepted at AAAI 2022 as an oral paper!</li>
   <li> <strong>[Jun 2021]</strong> I am selected for the CVPR 2021 Doctoral Consortium. My mentor is Prof. Serge Belongie!</li>
   <li> <strong>[May 2021]</strong> I win the <strong>IMDA Excellent Prize</strong> (best thesis) for my PhD thesis!</li>
   <li> <strong>[Mar 2021]</strong> I successfully defended my PhD thesis "Towards Learning Scene Semantics on 3D Point Clouds"!</li>
-  <li> <strong>[Mar 2021]</strong> One paper about few-shot 3D semantic segmentation is accepted by CVPR 2021!</li>
+  <li> <strong>[Mar 2021]</strong> One paper about few-shot 3D semantic segmentation is accepted at CVPR 2021!</li>
   <li> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
-  <li> <strong>[Feb 2020]</strong> One paper about semi-supervised 3D object detection is accepted by CVPR 2020 as an oral paper!</li>
+  <li> <strong>[Feb 2020]</strong> One paper about semi-supervised 3D object detection is accepted at CVPR 2020 as an oral paper!</li>
   </ul>
 </div>
 
