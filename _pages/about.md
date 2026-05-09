@@ -35,13 +35,19 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! Stay tuned for more details!</li> 
+  <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! Stay tuned for more details!</li>
+  <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
+  <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
+  <li> <strong>[Mar 2026]</strong> One paper about language-driven affordance part segmentation in 3D scenes is accepted at ICME 2026! </li> 
+  <li> <strong>[Feb 2026]</strong> I will serve as an Area Chair for MM 2026!</li>
+  <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! </li> 
   <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (<a href="https://www.mmm2027.net/home">MMM 2027</a>)!</li> 
   <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted at ToMM 2026!</li> 
   <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
   <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted at TIP 2026!</li> 
   <li> <strong>[Dec 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
   <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted at AAAI 2026, for oral and poster presentations, respectively!</li>
+  <li> <strong>[Oct 2026]</strong> One paper about consistent video customization is accepted at MMM 2026!</li> 
   <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on <i>Multimodal Foundation Models for Spatial Intelligence</i> at ACM Multimedia 2025!</li>
   <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 11.1)!</li> 
   <li> <strong>[Sep 2025]</strong> One paper about 3D fine-grained embodied reasoning is accepted at NeurIPS 2025!</li>
@@ -116,7 +122,161 @@ ________________________________________________________________________________
 
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
-          <tbody>
+          <tbody> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/CCF_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection</b>
+                      <br>
+                      Yuchen Wu, Kun Wang, Yining Pan, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2603.23276">Preprint</a>]  [<a href="https://github.com/IMPL-Lab/CCF">Code</a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/VGGT360_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation</b>
+                      <br>
+                      Jiayi Yuan, Haobo Jiang, De Wen Soh, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2603.18943">Preprint</a>]  [<a href="https://github.com/Yuanjiayii/VGGT-360">Code</a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/TTHA_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction</b>
+                      <br>
+                      Qiongjie Cui, Pan Zhou, Jingjing Chen, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
+                      <br>
+                      [<a>Paper (Coming soon) </a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/PanDA_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>PanDA: Panoptic Domain Adaptation for Multimodal Perception in Autonomous Driving</b>
+                      <br>
+                      Yining Pan, Shijie Li, Yuchen Wu, Xulei Yang#, <strong>Na Zhao#</strong>
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2604.19379">Preprint</a>] 
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/FI3Det_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments</b>
+                      <br>
+                      Yun Zhu, Jianjun Qian, Jian Yang, Jin Xie#, <strong>Na Zhao#</strong>
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2604.07997">Preprint</a>] [<a href="https://github.com/zyrant/FI3Det">Code</a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/EDC_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Enhancing Descriptive Captions with Visual Attributes for Multimodal Perception</b>
+                      <br>
+                      Yanpeng Sun, Jing Hao, Ke Zhu, Jiang-Jiang Liu, Xiaofan Li, <strong>Na Zhao</strong>, Zechao Li, Jingdong Wang
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2412.14233">Preprint</a>] [<a href="https://github.com/syp2ysy/Cap-Workflow">Code</a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/ViLoMem_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory</b>
+                      <br>
+                      Weihao Bo, Shan Zhang, Yanpeng Sun, Jingjing Wu, Qunyi Xie, Xiao Tan, Kunbin Chen, Wei He, Xiaofan Li, <strong>Na Zhao</strong> , Jingdong Wang, Zechao Li
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
+                      <br>
+                       [<a href="https://weihao-bo.github.io/ViLoMeo-page/">Project</a>] [<a href="https://arxiv.org/pdf/2511.21678">Preprint</a>] [<a href="https://github.com/weihao-bo/ViLoMem">Code</a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Stream3D_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Stream3D: Streaming Zero-Shot 3D Instance Segmentation with Multi-View Noise Mask Filtering and Manifold Refining</b>
+                      <br>
+                      Jie Xu, <strong>Na Zhao*</strong> 
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em> 
+                      <br>
+                      [<a>Paper (Coming soon) </a>]
+                    </td>
+           </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/SCOPE_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation</b>
+                      <br>
+                      Vishal Thengane, Zhaochong An, Tianjin Huang, Son Lam Phung, Abdesselam Bouzerdoum, Lu Yin, <strong>Na Zhao#</strong> Xiatian Zhu# 
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2603.06572">Preprint</a>] [<a href="https://github.com/Surrey-UP-Lab/SCOPE">Code</a>]
+                    </td>
+           </tr> 
+          <tr>
+                   <td class="noBorder" width="40%">
+                    <img width="320" src="../images/Taven_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>TAVEN: Task-driven Adaptive Viewpoint Exploration for Training-Free 3D Spatial Reasoning and Understanding</b>
+                      <br>
+                      Shuyi Jiang, Zhihao Yuan, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>16th ACM International Conference on Multimedia Retrieval (ICMR), 2026 </em> 
+                      <br>
+                      [<a>Paper (Coming soon) </a>]
+                    </td>
+          </tr>
+          <tr>
+                   <td class="noBorder" width="40%">
+                    <img width="320" src="../images/AffordPart3D_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>AffordPart3D: Language-Driven Aﬀordance Part Segmentation in 3D Scenes</b>
+                      <br>
+                      Xinyi Wang, <strong>Na Zhao*</strong>, Yuchen Wu, Lei Wu, Yicong Li, Xun Yang
+                      <br>
+                      <em>IEEE International Conference on Multimedia & Expo (ICME), 2026 </em> 
+                      <br>
+                      [<a>Paper (Coming soon) </a>]
+                    </td>
+          </tr>
           <tr>
                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/ifss-diff.png" border="0">
@@ -129,6 +289,20 @@ ________________________________________________________________________________
                       <em>IEEE Transactions on Image Processing (TIP), 2026 </em> 
                       <br>
                       [<a href="https://ifss-diff.github.io">Project</a>] [<a href="https://ieeexplore.ieee.org/document/11353366">Paper</a>] [<a href="https://github.com/totoropink/iFSS-Diff">Code</a>]
+                    </td>
+          </tr>
+          <tr>
+                   <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GLC-Diffusion.png" border="0">
+                    </td>
+                    <td>
+                      <b>Tuning-Free Long Video Generation via Global-Local Collaborative Diﬀusion</b>
+                      <br>
+                      Yongjia Ma, Junlin Chen, Donglin Di, Qi Xie, Lei Fan, Wei Chen, Xiaofei Gou, <strong>Na Zhao</strong>, Xun Yang
+                      <br>
+                      <em>ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM), 2026 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2501.05484">Preprint</a>] [<a href="https://dl.acm.org/doi/abs/10.1145/3794855">Paper</a>]
                     </td>
           </tr>
           <tr>
@@ -797,7 +971,7 @@ ________________________________________________________________________________
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Journal Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
   <li> <strong>Conference Senior Area Chair (SAC)</strong>: ICME 2026 </li>
-  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2026, MM 2025, ICLR 2025, NLPCC 2025 </li>
+  <li> <strong>Conference Area Chair (AC)</strong>: NeurIPS 2026, ICLR 2025/2026, MM 2025/2026, NLPCC 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
   </ul>
 </div>
