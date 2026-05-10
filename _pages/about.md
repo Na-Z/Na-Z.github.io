@@ -112,8 +112,8 @@ ________________________________________________________________________________
   <li> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
   <li> <strong>[Feb 2020]</strong> One paper about semi-supervised 3D object detection is accepted at CVPR 2020 as an oral paper!</li>
     </ul>
-  </div>
-</details>
+  </details>
+</div>
 
 <style>
 .news-fold summary {
