@@ -33,18 +33,27 @@ ________________________________________________________________________________
 <h3>
   <a name="news"></a> News
 </h3>
+
 <div class="mini">
+  <!-- Always shown: latest 6 news items -->
   <ul>
-  <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! Stay tuned for more details!</li>
-  <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
-  <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
-  <li> <strong>[Mar 2026]</strong> One paper about language-driven affordance part segmentation in 3D scenes is accepted at ICME 2026! </li> 
-  <li> <strong>[Feb 2026]</strong> I will serve as an Area Chair for MM 2026!</li>
-  <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! </li> 
-  <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (<a href="https://www.mmm2027.net/home">MMM 2027</a>)!</li> 
-  <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted at ToMM 2026!</li> 
-  <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
-  <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted at TIP 2026!</li> 
+    <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! Stay tuned for more details!</li>
+    <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
+    <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
+    <li> <strong>[Mar 2026]</strong> One paper about language-driven affordance part segmentation in 3D scenes is accepted at ICME 2026! </li> 
+    <li> <strong>[Feb 2026]</strong> I will serve as an Area Chair for MM 2026!</li>
+    <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! </li> 
+    <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (<a href="https://www.mmm2027.net/home">MMM 2027</a>)!</li> 
+    <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted at ToMM 2026!</li> 
+    <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
+    <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted at TIP 2026!</li> 
+  </ul>
+
+  <!-- Hidden until expanded: older news -->
+  <details class="news-fold">
+    <summary>Show more news</summary>
+
+    <ul>
   <li> <strong>[Dec 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
   <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted at AAAI 2026, for oral and poster presentations, respectively!</li>
   <li> <strong>[Oct 2026]</strong> One paper about consistent video customization is accepted at MMM 2026!</li> 
@@ -102,11 +111,21 @@ ________________________________________________________________________________
   <li> <strong>[Mar 2021]</strong> One paper about few-shot 3D semantic segmentation is accepted at CVPR 2021!</li>
   <li> <strong>[Aug 2020]</strong> I recieve the <strong>Research Achievement Award</strong> from SoC!</li>
   <li> <strong>[Feb 2020]</strong> One paper about semi-supervised 3D object detection is accepted at CVPR 2020 as an oral paper!</li>
-  </ul>
-</div>
-
+    </ul>
+  </div>
+</details>
 
 <style>
+.news-fold summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.news-fold summary:hover {
+  text-decoration: underline;
+}
+
 table, th, td {
   border: none;
   border-collapse: collapse;
@@ -172,7 +191,7 @@ ________________________________________________________________________________
                     <td>
                       <b>PanDA: Panoptic Domain Adaptation for Multimodal Perception in Autonomous Driving</b>
                       <br>
-                      Yining Pan, Shijie Li, Yuchen Wu, Xulei Yang#, <strong>Na Zhao#</strong>
+                      Yining Pan, Shijie Li, Yuchen Wu, Xulei Yang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
@@ -186,7 +205,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments</b>
                       <br>
-                      Yun Zhu, Jianjun Qian, Jian Yang, Jin Xie#, <strong>Na Zhao#</strong>
+                      Yun Zhu, Jianjun Qian, Jian Yang, Jin Xie<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
@@ -214,7 +233,7 @@ ________________________________________________________________________________
                     <td>
                       <b>ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory</b>
                       <br>
-                      Weihao Bo, Shan Zhang, Yanpeng Sun, Jingjing Wu, Qunyi Xie, Xiao Tan, Kunbin Chen, Wei He, Xiaofan Li, <strong>Na Zhao</strong> , Jingdong Wang, Zechao Li
+                      Weihao Bo, Shan Zhang, Yanpeng Sun, Jingjing Wu, Qunyi Xie, Xiao Tan, Kunbin Chen, Wei He, Xiaofan Li, <strong>Na Zhao</strong>, Jingdong Wang, Zechao Li
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
@@ -242,7 +261,7 @@ ________________________________________________________________________________
                     <td>
                       <b>SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation</b>
                       <br>
-                      Vishal Thengane, Zhaochong An, Tianjin Huang, Son Lam Phung, Abdesselam Bouzerdoum, Lu Yin, <strong>Na Zhao#</strong> Xiatian Zhu# 
+                      Vishal Thengane, Zhaochong An, Tianjin Huang, Son Lam Phung, Abdesselam Bouzerdoum, Lu Yin, <strong>Na Zhao</strong><sup>#</sup>, Xiatian Zhu<sup>#</sup> 
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em> 
                       <br>
@@ -312,7 +331,7 @@ ________________________________________________________________________________
                     <td>
                       <b>RaLiFlow: Scene Flow Estimation with 4D Radar and LiDAR Point Clouds</b>
                       <br>
-                      Jingyun Fu, Zhiyu Xiang#, <strong>Na Zhao#</strong>
+                      Jingyun Fu, Zhiyu Xiang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> 
                       <br>
@@ -340,7 +359,7 @@ ________________________________________________________________________________
                     <td>
                       <b>AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models</b>
                       <br>
-                      Xinyi Wang, Xun Yang#, Yanlong Xu, Yuchen Wu, Zhen Li, <strong>Na Zhao#</strong>
+                      Xinyi Wang, Xun Yang<sup>#</sup>, Yanlong Xu, Yuchen Wu, Zhen Li, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</em> 
                       <br>
@@ -382,7 +401,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation</b>
                       <br>
-                      Jie Xu, <strong>Na Zhao#</strong>, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu#
+                      Jie Xu, <strong>Na Zhao</strong><sup>#</sup>, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu<sup>#</sup>
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2025</em> 
                       <br>
@@ -494,7 +513,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Dual-supervised Asymmetric Co-training for Semi-supervised Medical Domain Generalization</b>
                       <br>
-                      Jincai Song, Haipeng Chen, Jun Qin#, <strong>Na Zhao#</strong>
+                      Jincai Song, Haipeng Chen, Jun Qin<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2025</em> 
                       <br>
@@ -536,7 +555,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization</b>
                       <br>
-                      Pengkun Jiao, <strong>Na Zhao#</strong>, Jingjing Chen#, Yu-Gang Jiang
+                      Pengkun Jiao, <strong>Na Zhao</strong><sup>#</sup>, Jingjing Chen<sup>#</sup>, Yu-Gang Jiang
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2025 </em> 
                       <br>
@@ -564,7 +583,7 @@ ________________________________________________________________________________
                     <td>
                       <b>On-the-fly Point Feature Representation for Point Clouds Analysis</b>
                       <br>
-                      Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao#</strong>, Jun Cheng, Xulei Yang#
+                      Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao</strong><sup>#</sup>, Jun Cheng, Xulei Yang<sup>#</sup>
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
@@ -606,7 +625,7 @@ ________________________________________________________________________________
                     <td>
                       <b>LASO: Language-guided Affordance Segmentation on 3D Object</b>
                       <br>
-                      Yicong Li, <strong>Na Zhao#</strong>, Junbin Xiao, Chun Feng, Xiang Wang#, Tat-Seng Chua
+                      Yicong Li, <strong>Na Zhao</strong><sup>#</sup>, Junbin Xiao, Chun Feng, Xiang Wang<sup>#</sup>, Tat-Seng Chua
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </em> 
                       <br>
