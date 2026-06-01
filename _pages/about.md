@@ -37,6 +37,7 @@ ________________________________________________________________________________
 <div class="mini">
   <!-- Always shown: latest 6 news items -->
   <ul>
+    <li> <strong>[May 2026]</strong> I am awarded a grant titled "<i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>" from DSO as the sole Principal Investigator! Thanks to DSO for the continued support!</li>
     <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! Stay tuned for more details!</li>
     <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
     <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
@@ -153,7 +154,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2603.23276">Preprint</a>]  [<a href="https://github.com/IMPL-Lab/CCF">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2603.23276">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_CCF_Complementary_Collaborative_Fusion_for_Domain_Generalized_Multi-Modal_3D_Object_CVPR_2026_paper.pdf">Paper</a>] [<a href="https://github.com/IMPL-Lab/CCF">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -167,7 +168,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2603.18943">Preprint</a>]  [<a href="https://github.com/Yuanjiayii/VGGT-360">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2603.18943">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Yuan_VGGT-360_Geometry-Consistent_Zero-Shot_Panoramic_Depth_Estimation_CVPR_2026_paper.html">Paper</a>] [<a href="https://github.com/Yuanjiayii/VGGT-360">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -181,7 +182,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                      [<a>Paper (Coming soon) </a>]
+                      [<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cui_Anatomical_Domain_Shifts_Test-time_Heterogeneous_Adaptation_for_3D_Human_Pose_CVPR_2026_paper.pdf">Paper</a>]
                     </td>
            </tr> 
           <tr>
@@ -195,7 +196,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2604.19379">Preprint</a>] 
+                       [<a href="https://arxiv.org/pdf/2604.19379">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Pan_PanDA_Unsupervised_Domain_Adaptation_for_Multimodal_3D_Panoptic_Segmentation_in_CVPR_2026_paper.html">Paper</a>]
                     </td>
            </tr> 
           <tr>
@@ -209,7 +210,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2604.07997">Preprint</a>] [<a href="https://github.com/zyrant/FI3Det">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2604.07997">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Few-Shot_Incremental_3D_Object_Detection_in_Dynamic_Indoor_Environments_CVPR_2026_paper.html">Paper</a>] [<a href="https://github.com/zyrant/FI3Det">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -223,7 +224,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2412.14233">Preprint</a>] [<a href="https://github.com/syp2ysy/Cap-Workflow">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2412.14233">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Enhancing_Descriptive_Captions_with_Visual_Attributes_for_Multimodal_Perception_CVPR_2026_paper.html">Paper</a>] [<a href="https://github.com/syp2ysy/Cap-Workflow">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -237,7 +238,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://weihao-bo.github.io/ViLoMeo-page/">Project</a>] [<a href="https://arxiv.org/pdf/2511.21678">Preprint</a>] [<a href="https://github.com/weihao-bo/ViLoMem">Code</a>]
+                       [<a href="https://weihao-bo.github.io/ViLoMeo-page/">Project</a>] [<a href="https://arxiv.org/pdf/2511.21678">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bo_ViLoMem_Agentic_Learner_with_Grow-and-Refine_Multimodal_Semantic_Memory_CVPR_2026_paper.html">Paper</a>]  [<a href="https://github.com/weihao-bo/ViLoMem">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -251,7 +252,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em> 
                       <br>
-                      [<a>Paper (Coming soon) </a>]
+                      [<a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Xu_Stream3D_Streaming_Zero-Shot_3D_Instance_Segmentation_with_Multi-View_Noise_Mask_CVPRF_2026_paper.html">Paper</a>] [<a href="https://github.com/SubmissionsIn/Stream3D">Code</a>] 
                     </td>
            </tr> 
           <tr>
@@ -265,7 +266,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2603.06572">Preprint</a>] [<a href="https://github.com/Surrey-UP-Lab/SCOPE">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2603.06572">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Thengane_SCOPE_Scene-Contextualized_Incremental_Few-Shot_3D_Segmentation_CVPRF_2026_paper.html">Paper</a>] [<a href="https://github.com/Surrey-UP-Lab/SCOPE">Code</a>] 
                     </td>
            </tr> 
           <tr>
@@ -931,6 +932,9 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
+    <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$1,200,000</span>. May 2026 - May 2029.
+       <span><br></span>Topic: <i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>
+       </li> 
       <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #3d85c6">S$200,000</span>. Mar 2025 - Mar 2027.
        <span><br></span>Topic: <i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>
        </li> 
