@@ -37,8 +37,9 @@ ________________________________________________________________________________
 <div class="mini">
   <!-- Always shown: latest 6 news items -->
   <ul>
+    <li> <strong>[Jun 2026]</strong> Three papers are accepted at ECCV 2026! Stay tuned for more details!</li>
     <li> <strong>[May 2026]</strong> I am awarded a grant titled "<i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>" from DSO as the sole Principal Investigator! Thanks to DSO for the continued support!</li>
-    <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! Stay tuned for more details!</li>
+    <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! </li>
     <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
     <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
     <li> <strong>[Mar 2026]</strong> One paper about language-driven affordance part segmentation in 3D scenes is accepted at ICME 2026! </li> 
@@ -143,6 +144,118 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
           <tbody> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/LDMR_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection</b>
+                      <br>
+                      Peisheng Qian, Jie Xu, Xulei Yang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2026</em> 
+                      <br>
+                       [<a>Paper (Coming Soon)</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Co-3DGT_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training</b>
+                      <br>
+                      Shangbo Yuan, Jie Xu, Xiaofeng Zhu, <strong>Na Zhao</strong>
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2026</em> 
+                      <br>
+                       [<a>Paper (Coming Soon)</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/AirZoo_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision</b>
+                      <br>
+                      Xiaoya Cheng<sup>+</sup>, Rouwan Wu<sup>+</sup>, Xinyi Liu<sup>+</sup>, Zeyu Cui<sup>+</sup>, Yan Liu<sup>+</sup>, <strong>Na Zhao*</strong>, Yu Liu, Maojun Zhang, Shen Yan (<sup>+</sup> indicates equal contribution)
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2604.26567">Preprint</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/HieraScaffold_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>HieraScaﬀold: Learning Compact Hierarchical Representations for Scalable 4D LiDAR Generation</b>
+                      <br>
+                      Zijie Wu, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                       [<a href="https://openreview.net/pdf?id=oMBzHJvUta">Paper</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/IterFlow_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation</b>
+                      <br>
+                      Jingyun Fu, Zhiyu Xiang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2605.18507">Preprint</a>] [<a href="https://openreview.net/pdf?id=MCu8SOjPad">Paper</a>] [<a href="https://github.com/FuJingyun/IterFlow">Code</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/ML3DHS_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation</b>
+                      <br>
+                      Shuyu Cao, Chongshou Li, Jie Xu, Tianrui Li, <strong>Na Zhao</strong>
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                      [<a href="https://openreview.net/pdf?id=hexseuWYzC">Paper</a>] 
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Artemis_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Artemis: Structured Visual Reasoning for Perception Policy Learning</b>
+                      <br>
+                      Wei Tang, Yanpeng Sun, Shan Zhang, Weihao Bo, Xiaofan Li, Piotr Koniusz, Wei Li, <strong>Na Zhao</strong>, Zechao Li
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                      [<a href="https://vi-ocean.github.io/projects/artemis/">Project</a>] [<a href="https://openreview.net/pdf?id=XtIRCAEYoJ">Paper</a>] [<a href="https://github.com/WayneTomas/Artemis">Code</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/TokenSwap_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models</b>
+                      <br>
+                      Zhifang Zhang, Qiqi Tao, Jiaqi Lv, <strong>Na Zhao</strong>, Lei Feng, Joey Tianyi Zhou
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                      [<a href="https://openreview.net/pdf?id=v0o0mofTr6">Paper</a>]
+                    </td>
+           </tr>
           <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/CCF_framework.png" border="0">
