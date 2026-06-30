@@ -179,7 +179,7 @@ ________________________________________________________________________________
                     <td>
                       <b>AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision</b>
                       <br>
-                      Xiaoya Cheng<sup>+</sup>, Rouwan Wu<sup>+</sup>, Xinyi Liu<sup>+</sup>, Zeyu Cui<sup>+</sup>, Yan Liu<sup>+</sup>, <strong>Na Zhao*</strong>, Yu Liu, Maojun Zhang, Shen Yan (<sup>+</sup> indicates equal contribution)
+                      Xiaoya Cheng<sup>+</sup>, Rouwan Wu<sup>+</sup>, Xinyi Liu<sup>+</sup>, Zeyu Cui<sup>+</sup>, Yan Liu<sup>+</sup>, <strong>Na Zhao</strong>, Yu Liu, Maojun Zhang, Shen Yan (<sup>+</sup> indicates equal contribution)
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2026</em> 
                       <br>
@@ -393,7 +393,7 @@ ________________________________________________________________________________
                       <br>
                       <em>16th ACM International Conference on Multimedia Retrieval (ICMR), 2026 </em> 
                       <br>
-                      [<a>Paper (Coming soon) </a>]
+                      [<a href="https://dl.acm.org/doi/full/10.1145/3805622.3810869">Paper</a>] 
                     </td>
           </tr>
           <tr>
@@ -659,7 +659,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Ninth AAAI Conference on Artificial Intelligence, 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2501.09428">Preprint</a>] [<a href="https://dl.acm.org/doi/10.1609/aaai.v39i8.32863">Paper</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://arxiv.org/pdf/2501.09428">Preprint</a>] [<a href="https://dl.acm.org/doi/10.1609/aaai.v39i8.32863">Paper</a>]
                     </td>
            </tr> 
            <tr>
@@ -799,7 +799,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Image Processing (TIP), 2024 </em> 
                       <br>
-                      [<a href="https://ieeexplore.ieee.org/document/10819355">Paper</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://ieeexplore.ieee.org/document/10819355">Paper</a>]
                     </td>
                </tr> 
               <tr>
