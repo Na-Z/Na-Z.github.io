@@ -116,6 +116,15 @@ a {
     @extend %tab-focus;
   }
 
+  &:focus:not(:focus-visible) {
+    outline: 0;
+  }
+
+  &:focus-visible {
+    outline: 2px solid mix(#fff, $primary-color, 35%);
+    outline-offset: 2px;
+  }
+
   &:hover,
   &:active {
     outline: 0;

@@ -1,7 +1,25 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Home"
+    url: /#top
+
+  - title: "IMPL Lab"
+    url: https://impl2023.github.io/
+
+  - title: "News"
+    url: /#news
+
+  - title: "Publications"
+    url: /#Publications
+
+  - title: "Grants"
+    url: /#grants
+
+  - title: "Services"
+    url: /#services
+
+  - title: "Teaching"
+    url: /#teaching
 
  # - title: "Talks"
  #   url: /talks/    

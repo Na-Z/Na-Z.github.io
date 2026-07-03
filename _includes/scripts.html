@@ -1,4 +1,133 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+(function () {
+  var nav = document.querySelector(".top-nav");
+
+  if (!nav) {
+    return;
+  }
+
+  function getMastheadOffset() {
+    var masthead = document.querySelector(".masthead");
+    return masthead ? masthead.offsetHeight + 12 : 12;
+  }
+
+  function getHash(link) {
+    var url;
+
+    try {
+      url = new URL(link.getAttribute("href"), window.location.href);
+    } catch (error) {
+      return "";
+    }
+
+    if (url.origin !== window.location.origin || url.pathname !== window.location.pathname) {
+      return "";
+    }
+
+    return url.hash;
+  }
+
+  function getTarget(hash) {
+    var id = hash ? decodeURIComponent(hash.slice(1)) : "";
+    var escapedId;
+
+    if (!id) {
+      return null;
+    }
+
+    if (id === "top") {
+      return document.body;
+    }
+
+    escapedId = window.CSS && CSS.escape ? CSS.escape(id) : id.replace(/'/g, "\\'");
+
+    return document.getElementById(id) || document.querySelector("[name='" + escapedId + "']");
+  }
+
+  function getTargetTop(target, hash) {
+    if (hash === "#top") {
+      return 0;
+    }
+
+    return Math.max(0, target.getBoundingClientRect().top + window.pageYOffset - getMastheadOffset());
+  }
+
+  var navLinks = Array.prototype.slice.call(nav.querySelectorAll("a"));
+  var sectionLinks = navLinks.filter(function (link) {
+    return Boolean(getHash(link));
+  });
+
+  nav.addEventListener("click", function (event) {
+    var link = event.target.closest("a");
+    var hash = link ? getHash(link) : "";
+    var target = hash ? getTarget(hash) : null;
+
+    if (!target) {
+      return;
+    }
+
+    event.preventDefault();
+    event.stopImmediatePropagation();
+
+    window.scrollTo({
+      top: getTargetTop(target, hash),
+      behavior: "smooth"
+    });
+
+    if (history.pushState) {
+      history.pushState(null, "", hash);
+    }
+  }, true);
+
+  function updateActiveNav() {
+    var marker = window.pageYOffset + getMastheadOffset() + 24;
+    var activeLink = sectionLinks[0] || null;
+
+    sectionLinks.forEach(function (link) {
+      var hash = getHash(link);
+      var target = getTarget(hash);
+      var sectionTop;
+
+      if (!target) {
+        return;
+      }
+
+      sectionTop = hash === "#top" ? 0 : target.getBoundingClientRect().top + window.pageYOffset;
+
+      if (sectionTop <= marker) {
+        activeLink = link;
+      }
+    });
+
+    navLinks.forEach(function (link) {
+      var isActive = link === activeLink;
+      link.classList.toggle("is-active", isActive);
+
+      if (isActive) {
+        link.setAttribute("aria-current", "true");
+      } else {
+        link.removeAttribute("aria-current");
+      }
+    });
+  }
+
+  updateActiveNav();
+  window.addEventListener("scroll", updateActiveNav, { passive: true });
+  window.addEventListener("resize", updateActiveNav);
+
+  if (window.location.hash) {
+    window.setTimeout(function () {
+      var target = getTarget(window.location.hash);
+
+      if (target) {
+        window.scrollTo(0, getTargetTop(target, window.location.hash));
+        updateActiveNav();
+      }
+    }, 0);
+  }
+})();
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

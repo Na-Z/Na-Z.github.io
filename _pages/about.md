@@ -16,40 +16,49 @@ I am heading [Intelligent Machine Perception Lab](https://impl2023.github.io) (I
 (2) **Machine Learning**: data-efficient learning, multi-modal learning, continual learning, out-of-distribution learning, robust learning.
 (3) **Embodied AI**: multi-modal perception, spatial intelligence, embodied navigation, embodied manipulation.
 
-_______________________________________________________________________________________________________
-<h3>
-  <a name="positions"></a> Open Positions
-</h3>
-<div class="highlight"> 
-  <ul>
-  <li>I am looking for <strong>PhD applicants</strong> with strong background in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/industry scholarship.</li>
-  <li>I am recruiting <strong>research fellow</strong> (holds a doctoral degree) with relevant research experience on computer vision.</li>
-  <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>  
-  </ul>
-  <i>Please check <a href="https://impl2023.github.io/joinus">here</a> for more information, and feel free to reach out via email if you are interested in working with me.</i>
-</div>  
+<div class="positions-inline">
+  <span class="positions-inline__icon" aria-hidden="true">📣</span>
+  I have several <strong class="positions-inline__default-strong">open positions</strong> for PhDs, Post-Docs, and visiting students.
+  <details>
+    <summary>
+      <span class="positions-inline__summary-show">Show more details</span>
+      <span class="positions-inline__summary-hide">Hide details</span>
+    </summary>
+    <div class="positions-inline__details">
+      <ul>
+      <li>I am looking for <strong>PhD applicants</strong> with strong background in computer science, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships">SUTD</a>/<a href="https://aisingapore.org/research/phd-fellowship-programme/">AISG</a>/industry scholarship.</li>
+      <li>I am recruiting <strong>research fellow</strong> (holds a doctoral degree) with relevant research experience on computer vision.</li>
+      <li>I am welcoming self-fund or <a href="https://www.csc.edu.cn/chuguo/">CSC-fund</a> <strong>visiting PhD/Master students</strong> and <strong>local MComp/BComp students</strong> with interests in the area of (3D) computer vision and machine learning.</li>
+      </ul>
+      <i>Please check <a href="https://impl2023.github.io/joinus">here</a> for more information, and feel free to reach out via email if you are interested in working with me.</i>
+    </div>
+  </details>
+</div>
 
 _______________________________________________________________________________________________________
 <h3>
   <a name="news"></a> News
 </h3>
-<div class="mini">
+
+<div class="mini news-scrollbox">
   <ul>
-  <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! Stay tuned for more details!</li>
-  <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
-  <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
-  <li> <strong>[Mar 2026]</strong> One paper about language-driven affordance part segmentation in 3D scenes is accepted at ICME 2026! </li> 
-  <li> <strong>[Feb 2026]</strong> I will serve as an Area Chair for MM 2026!</li>
-  <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! </li> 
-  <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (<a href="https://www.mmm2027.net/home">MMM 2027</a>)!</li> 
-  <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted at ToMM 2026!</li> 
-  <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
-  <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted at TIP 2026!</li> 
-  <li> <strong>[Dec 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
-  <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted at AAAI 2026, for oral and poster presentations, respectively!</li>
-  <li> <strong>[Oct 2026]</strong> One paper about consistent video customization is accepted at MMM 2026!</li> 
-  <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on <i>Multimodal Foundation Models for Spatial Intelligence</i> at ACM Multimedia 2025!</li>
-  <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 11.1)!</li> 
+    <li> <strong>[Jun 2026]</strong> Three papers are accepted at ECCV 2026! Stay tuned for more details!</li>
+    <li> <strong>[May 2026]</strong> I am awarded a grant titled "<i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>" from DSO as the sole Principal Investigator! Thanks to DSO for the continued support!</li>
+    <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! </li>
+    <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
+    <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
+    <li> <strong>[Mar 2026]</strong> One paper about language-driven affordance part segmentation in 3D scenes is accepted at ICME 2026! </li> 
+    <li> <strong>[Feb 2026]</strong> I will serve as an Area Chair for MM 2026!</li>
+    <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! </li> 
+    <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (<a href="https://www.mmm2027.net/home">MMM 2027</a>)!</li> 
+    <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted at ToMM 2026!</li> 
+    <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
+    <li> <strong>[Jan 2026]</strong> One paper about incremental few-shot semantic segmentation is accepted at TIP 2026!</li> 
+    <li> <strong>[Dec 2025]</strong> I am invited to serve as Publicity Chair at ACM ICMR 2026!</li> 
+    <li> <strong>[Nov 2025]</strong> Two papers about point cloud representation learning and radar-LiDAR scene flow estimation are accepted at AAAI 2026, for oral and poster presentations, respectively!</li>
+    <li> <strong>[Oct 2026]</strong> One paper about consistent video customization is accepted at MMM 2026!</li> 
+    <li> <strong>[Oct 2025]</strong> I am invited to give a keynote talk at the workshop on <i>Multimodal Foundation Models for Spatial Intelligence</i> at ACM Multimedia 2025!</li>
+    <li> <strong>[Oct 2025]</strong> I am invited serve as an Associate Editor for <i>IEEE Transactions on Circuits and Systems for Video Technology</i> (Impact Factor: 11.1)!</li> 
   <li> <strong>[Sep 2025]</strong> One paper about 3D fine-grained embodied reasoning is accepted at NeurIPS 2025!</li>
   <li> <strong>[Sep 2025]</strong> I am invited to give a talk at NEXUS Japan–Singapore Joint Workshop 2025!</li>
   <li> <strong>[Aug 2025]</strong> I will serve as an Area Chair for ICLR 2026!</li> 
@@ -105,24 +114,331 @@ ________________________________________________________________________________
   </ul>
 </div>
 
-
 <style>
+.news-scrollbox {
+  max-height: 320px;
+  overflow-y: auto;
+  padding: 12px;
+  border: 1px solid #d9e2ec;
+  border-radius: 6px;
+  background: #fbfdff;
+}
+
+.news-scrollbox ul {
+  margin: 0;
+  padding-left: 0;
+}
+
+.news-scrollbox li {
+  margin: 0 0 8px;
+  padding: 9px 12px;
+  list-style: none;
+  background: #fff;
+}
+
+.news-scrollbox li:last-child {
+  margin-bottom: 0;
+}
+
 table, th, td {
   border: none;
   border-collapse: collapse;
+}
+
+.positions-inline {
+  margin: 1em 0;
+  font-size: 1em;
+  color: inherit;
+}
+
+.positions-inline__icon {
+  margin-right: 0.25em;
+}
+
+.positions-inline details {
+  display: inline;
+}
+
+.positions-inline summary {
+  display: inline-block;
+  margin-left: 0.35em;
+  padding: 2px 8px;
+  border: 1px solid #52adc8;
+  border-radius: 4px;
+  background: #fff;
+  color: inherit;
+  font-size: 13px;
+  line-height: 1.4;
+  cursor: pointer;
+}
+
+.positions-inline summary::-webkit-details-marker {
+  display: none;
+}
+
+.positions-inline__summary-hide,
+.positions-inline details[open] .positions-inline__summary-show {
+  display: none;
+}
+
+.positions-inline details[open] .positions-inline__summary-hide {
+  display: inline;
+}
+
+.positions-inline summary:hover {
+  background: #f6f8fb;
+}
+
+.positions-inline__details {
+  display: block;
+  margin-top: 0.75em;
+  font-size: 1em;
+}
+
+.positions-inline strong {
+  color: #52adc8;
+}
+
+.positions-inline__details strong {
+  color: inherit;
+}
+
+.positions-inline .positions-inline__default-strong {
+  color: inherit;
+}
+
+.publication-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 12px 0 14px;
+}
+
+.publication-filter__button {
+  padding: 4px 10px;
+  border: 1px solid #cfd8e3;
+  border-radius: 4px;
+  background: #fff;
+  color: #2f3b4a;
+  font-size: 13px;
+  line-height: 1.4;
+  cursor: pointer;
+}
+
+.publication-filter__button:hover,
+.publication-filter__button.is-active {
+  border-color: #4f7fbf;
+  background: #edf4ff;
+  color: #174a8b;
+}
+
+.publication-filter__empty {
+  display: none;
+  margin: 0.75em 0;
+  color: #666;
+  font-size: 14px;
+}
+
+#selected-publications {
+  width: 100%;
+}
+
+#selected-publications tr {
+  vertical-align: top;
+}
+
+#selected-publications td:first-child {
+  width: 40%;
+  min-width: 220px;
+  padding: 0 16px 18px 0;
+}
+
+#selected-publications td:nth-child(2) {
+  padding-bottom: 18px;
+}
+
+.publication-thumb {
+  position: relative;
+  display: block;
+  width: 320px;
+  max-width: 100%;
+  height: 170px;
+  overflow: hidden;
+  border: 1px solid #d8e0ea;
+  border-radius: 4px;
+  background: #f6f8fb;
+}
+
+.publication-thumb img {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain;
+  border: 0 !important;
+}
+
+.publication-thumb__label {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  padding: 2px 7px;
+  border-radius: 3px;
+  background: rgba(20, 43, 73, 0.88);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+@media (max-width: 640px) {
+  #selected-publications,
+  #selected-publications tbody,
+  #selected-publications tr,
+  #selected-publications td {
+    display: block;
+    width: 100% !important;
+  }
+
+  #selected-publications td:first-child {
+    min-width: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+  }
+
+  .publication-thumb {
+    width: 100%;
+    height: 180px;
+  }
 }
 </style>
 
 _______________________________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
+  (<a href="https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao">Full Publications</a>)
 </h3>
-<span style="font-size:15px">Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.</span>
-<span><br></span><i style="color:#0000FF; font-size:13.5px">* indicates corresponding author, and # indicates co-corresponding author</i>
+<i style="font-size:13.5px">* indicates corresponding author, and # indicates co-corresponding author</i>
 
- <font face="helvetica, ariel, &#39;sans serif&#39;">
-        <table cellspacing="0" cellpadding="0" class="noBorder">
+<div class="publication-filter" aria-label="Filter publications by year"></div>
+<p class="publication-filter__empty">No publications found for this year.</p>
+
+<table cellspacing="0" cellpadding="0" class="noBorder" id="selected-publications">
           <tbody> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/LDMR_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection</b>
+                      <br>
+                      Peisheng Qian, Jie Xu, Xulei Yang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2026</em> 
+                      <br>
+                       [<a>Paper (Coming Soon)</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Co-3DGT_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training</b>
+                      <br>
+                      Shangbo Yuan, Jie Xu, Xiaofeng Zhu, <strong>Na Zhao</strong>
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2026</em> 
+                      <br>
+                       [<a>Paper (Coming Soon)</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/AirZoo_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision</b>
+                      <br>
+                      Xiaoya Cheng<sup>+</sup>, Rouwan Wu<sup>+</sup>, Xinyi Liu<sup>+</sup>, Zeyu Cui<sup>+</sup>, Yan Liu<sup>+</sup>, <strong>Na Zhao</strong>, Yu Liu, Maojun Zhang, Shen Yan (<sup>+</sup> indicates equal contribution)
+                      <br>
+                      <em>European Conference on Computer Vision (ECCV), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2604.26567">Preprint</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/HieraScaffold_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>HieraScaﬀold: Learning Compact Hierarchical Representations for Scalable 4D LiDAR Generation</b>
+                      <br>
+                      Zijie Wu, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                       [<a href="https://openreview.net/pdf?id=oMBzHJvUta">Paper</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/IterFlow_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Weakly Supervised Cross-Modal Learning for 4D Radar Scene Flow Estimation</b>
+                      <br>
+                      Jingyun Fu, Zhiyu Xiang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                       [<a href="https://arxiv.org/pdf/2605.18507">Preprint</a>] [<a href="https://openreview.net/pdf?id=MCu8SOjPad">Paper</a>] [<a href="https://github.com/FuJingyun/IterFlow">Code</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/ML3DHS_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Multi-Label Learning with Contrastive Cluster Self-Supervision for 3D Hierarchical Semantic Segmentation</b>
+                      <br>
+                      Shuyu Cao, Chongshou Li, Jie Xu, Tianrui Li, <strong>Na Zhao</strong>
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                      [<a href="https://openreview.net/pdf?id=hexseuWYzC">Paper</a>] 
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/Artemis_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Artemis: Structured Visual Reasoning for Perception Policy Learning</b>
+                      <br>
+                      Wei Tang, Yanpeng Sun, Shan Zhang, Weihao Bo, Xiaofan Li, Piotr Koniusz, Wei Li, <strong>Na Zhao</strong>, Zechao Li
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                      [<a href="https://vi-ocean.github.io/projects/artemis/">Project</a>] [<a href="https://openreview.net/pdf?id=XtIRCAEYoJ">Paper</a>] [<a href="https://github.com/WayneTomas/Artemis">Code</a>]
+                    </td>
+           </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/TokenSwap_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models</b>
+                      <br>
+                      Zhifang Zhang, Qiqi Tao, Jiaqi Lv, <strong>Na Zhao</strong>, Lei Feng, Joey Tianyi Zhou
+                      <br>
+                      <em>International Conference on Machine Learning (ICML), 2026</em> 
+                      <br>
+                      [<a href="https://openreview.net/pdf?id=v0o0mofTr6">Paper</a>]
+                    </td>
+           </tr>
           <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/CCF_framework.png" border="0">
@@ -134,7 +450,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2603.23276">Preprint</a>]  [<a href="https://github.com/IMPL-Lab/CCF">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2603.23276">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_CCF_Complementary_Collaborative_Fusion_for_Domain_Generalized_Multi-Modal_3D_Object_CVPR_2026_paper.pdf">Paper</a>] [<a href="https://github.com/IMPL-Lab/CCF">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -148,7 +464,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2603.18943">Preprint</a>]  [<a href="https://github.com/Yuanjiayii/VGGT-360">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2603.18943">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Yuan_VGGT-360_Geometry-Consistent_Zero-Shot_Panoramic_Depth_Estimation_CVPR_2026_paper.html">Paper</a>] [<a href="https://github.com/Yuanjiayii/VGGT-360">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -162,7 +478,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                      [<a>Paper (Coming soon) </a>]
+                      [<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cui_Anatomical_Domain_Shifts_Test-time_Heterogeneous_Adaptation_for_3D_Human_Pose_CVPR_2026_paper.pdf">Paper</a>]
                     </td>
            </tr> 
           <tr>
@@ -172,11 +488,11 @@ ________________________________________________________________________________
                     <td>
                       <b>PanDA: Panoptic Domain Adaptation for Multimodal Perception in Autonomous Driving</b>
                       <br>
-                      Yining Pan, Shijie Li, Yuchen Wu, Xulei Yang#, <strong>Na Zhao#</strong>
+                      Yining Pan, Shijie Li, Yuchen Wu, Xulei Yang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2604.19379">Preprint</a>] 
+                       [<a href="https://arxiv.org/pdf/2604.19379">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Pan_PanDA_Unsupervised_Domain_Adaptation_for_Multimodal_3D_Panoptic_Segmentation_in_CVPR_2026_paper.html">Paper</a>]
                     </td>
            </tr> 
           <tr>
@@ -186,11 +502,11 @@ ________________________________________________________________________________
                     <td>
                       <b>Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments</b>
                       <br>
-                      Yun Zhu, Jianjun Qian, Jian Yang, Jin Xie#, <strong>Na Zhao#</strong>
+                      Yun Zhu, Jianjun Qian, Jian Yang, Jin Xie<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2604.07997">Preprint</a>] [<a href="https://github.com/zyrant/FI3Det">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2604.07997">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Few-Shot_Incremental_3D_Object_Detection_in_Dynamic_Indoor_Environments_CVPR_2026_paper.html">Paper</a>] [<a href="https://github.com/zyrant/FI3Det">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -204,7 +520,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2412.14233">Preprint</a>] [<a href="https://github.com/syp2ysy/Cap-Workflow">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2412.14233">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Enhancing_Descriptive_Captions_with_Visual_Attributes_for_Multimodal_Perception_CVPR_2026_paper.html">Paper</a>] [<a href="https://github.com/syp2ysy/Cap-Workflow">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -214,11 +530,11 @@ ________________________________________________________________________________
                     <td>
                       <b>ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory</b>
                       <br>
-                      Weihao Bo, Shan Zhang, Yanpeng Sun, Jingjing Wu, Qunyi Xie, Xiao Tan, Kunbin Chen, Wei He, Xiaofan Li, <strong>Na Zhao</strong> , Jingdong Wang, Zechao Li
+                      Weihao Bo, Shan Zhang, Yanpeng Sun, Jingjing Wu, Qunyi Xie, Xiao Tan, Kunbin Chen, Wei He, Xiaofan Li, <strong>Na Zhao</strong>, Jingdong Wang, Zechao Li
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</em> 
                       <br>
-                       [<a href="https://weihao-bo.github.io/ViLoMeo-page/">Project</a>] [<a href="https://arxiv.org/pdf/2511.21678">Preprint</a>] [<a href="https://github.com/weihao-bo/ViLoMem">Code</a>]
+                       [<a href="https://weihao-bo.github.io/ViLoMeo-page/">Project</a>] [<a href="https://arxiv.org/pdf/2511.21678">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026/html/Bo_ViLoMem_Agentic_Learner_with_Grow-and-Refine_Multimodal_Semantic_Memory_CVPR_2026_paper.html">Paper</a>]  [<a href="https://github.com/weihao-bo/ViLoMem">Code</a>]
                     </td>
            </tr> 
           <tr>
@@ -232,7 +548,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em> 
                       <br>
-                      [<a>Paper (Coming soon) </a>]
+                      [<a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Xu_Stream3D_Streaming_Zero-Shot_3D_Instance_Segmentation_with_Multi-View_Noise_Mask_CVPRF_2026_paper.html">Paper</a>] [<a href="https://github.com/SubmissionsIn/Stream3D">Code</a>] 
                     </td>
            </tr> 
           <tr>
@@ -242,11 +558,11 @@ ________________________________________________________________________________
                     <td>
                       <b>SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation</b>
                       <br>
-                      Vishal Thengane, Zhaochong An, Tianjin Huang, Son Lam Phung, Abdesselam Bouzerdoum, Lu Yin, <strong>Na Zhao#</strong> Xiatian Zhu# 
+                      Vishal Thengane, Zhaochong An, Tianjin Huang, Son Lam Phung, Abdesselam Bouzerdoum, Lu Yin, <strong>Na Zhao</strong><sup>#</sup>, Xiatian Zhu<sup>#</sup> 
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026</em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2603.06572">Preprint</a>] [<a href="https://github.com/Surrey-UP-Lab/SCOPE">Code</a>]
+                      [<a href="https://arxiv.org/pdf/2603.06572">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Thengane_SCOPE_Scene-Contextualized_Incremental_Few-Shot_3D_Segmentation_CVPRF_2026_paper.html">Paper</a>] [<a href="https://github.com/Surrey-UP-Lab/SCOPE">Code</a>] 
                     </td>
            </tr> 
           <tr>
@@ -260,7 +576,7 @@ ________________________________________________________________________________
                       <br>
                       <em>16th ACM International Conference on Multimedia Retrieval (ICMR), 2026 </em> 
                       <br>
-                      [<a>Paper (Coming soon) </a>]
+                      [<a href="https://dl.acm.org/doi/full/10.1145/3805622.3810869">Paper</a>] 
                     </td>
           </tr>
           <tr>
@@ -312,7 +628,7 @@ ________________________________________________________________________________
                     <td>
                       <b>RaLiFlow: Scene Flow Estimation with 4D Radar and LiDAR Point Clouds</b>
                       <br>
-                      Jingyun Fu, Zhiyu Xiang#, <strong>Na Zhao#</strong>
+                      Jingyun Fu, Zhiyu Xiang<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>40th AAAI Conference on Artificial Intelligence, 2026</em> 
                       <br>
@@ -340,7 +656,7 @@ ________________________________________________________________________________
                     <td>
                       <b>AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models</b>
                       <br>
-                      Xinyi Wang, Xun Yang#, Yanlong Xu, Yuchen Wu, Zhen Li, <strong>Na Zhao#</strong>
+                      Xinyi Wang, Xun Yang<sup>#</sup>, Yanlong Xu, Yuchen Wu, Zhen Li, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025</em> 
                       <br>
@@ -382,7 +698,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation</b>
                       <br>
-                      Jie Xu, <strong>Na Zhao#</strong>, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu#
+                      Jie Xu, <strong>Na Zhao</strong><sup>#</sup>, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu<sup>#</sup>
                       <br>
                       <em>International Conference on Computer Vision (ICCV), 2025</em> 
                       <br>
@@ -494,7 +810,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Dual-supervised Asymmetric Co-training for Semi-supervised Medical Domain Generalization</b>
                       <br>
-                      Jincai Song, Haipeng Chen, Jun Qin#, <strong>Na Zhao#</strong>
+                      Jincai Song, Haipeng Chen, Jun Qin<sup>#</sup>, <strong>Na Zhao</strong><sup>#</sup>
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2025</em> 
                       <br>
@@ -526,7 +842,7 @@ ________________________________________________________________________________
                       <br>
                       <em>Thirty-Ninth AAAI Conference on Artificial Intelligence, 2025 </em> 
                       <br>
-                      [<a href="https://arxiv.org/pdf/2501.09428">Preprint</a>] [<a href="https://dl.acm.org/doi/10.1609/aaai.v39i8.32863">Paper</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://arxiv.org/pdf/2501.09428">Preprint</a>] [<a href="https://dl.acm.org/doi/10.1609/aaai.v39i8.32863">Paper</a>]
                     </td>
            </tr> 
            <tr>
@@ -536,7 +852,7 @@ ________________________________________________________________________________
                     <td>
                       <b>Domain Expansion and Boundary Growth for Open-Set Single-Source Domain Generalization</b>
                       <br>
-                      Pengkun Jiao, <strong>Na Zhao#</strong>, Jingjing Chen#, Yu-Gang Jiang
+                      Pengkun Jiao, <strong>Na Zhao</strong><sup>#</sup>, Jingjing Chen<sup>#</sup>, Yu-Gang Jiang
                       <br>
                       <em>IEEE Transactions on Multimedia (TMM), 2025 </em> 
                       <br>
@@ -564,7 +880,7 @@ ________________________________________________________________________________
                     <td>
                       <b>On-the-fly Point Feature Representation for Point Clouds Analysis</b>
                       <br>
-                      Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao#</strong>, Jun Cheng, Xulei Yang#
+                      Jiangyi Wang, Zhongyao Cheng, <strong>Na Zhao</strong><sup>#</sup>, Jun Cheng, Xulei Yang<sup>#</sup>
                       <br>
                       <em>ACM Multimedia (MM), 2024 </em> 
                       <br>
@@ -606,7 +922,7 @@ ________________________________________________________________________________
                     <td>
                       <b>LASO: Language-guided Affordance Segmentation on 3D Object</b>
                       <br>
-                      Yicong Li, <strong>Na Zhao#</strong>, Junbin Xiao, Chun Feng, Xiang Wang#, Tat-Seng Chua
+                      Yicong Li, <strong>Na Zhao</strong><sup>#</sup>, Junbin Xiao, Chun Feng, Xiang Wang<sup>#</sup>, Tat-Seng Chua
                       <br>
                       <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024 </em> 
                       <br>
@@ -666,7 +982,7 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Transactions on Image Processing (TIP), 2024 </em> 
                       <br>
-                      [<a href="https://ieeexplore.ieee.org/document/10819355">Paper</a>] [<a>Code (Coming soon) </a>]
+                      [<a href="https://ieeexplore.ieee.org/document/10819355">Paper</a>]
                     </td>
                </tr> 
               <tr>
@@ -846,43 +1162,41 @@ ________________________________________________________________________________
                       <br>
                     </td>
               </tr>
-	            <tr>
+              <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/FS3DSS_framework.png" border="0">
                     </td>
                     <td>
                       <br>
-	                    <b>Few-shot 3D Point Cloud Semantic Segmentation </b>
-	                    <br>
-	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
-	                    <br>
-	                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 </em>
-	                    <br>
-            			    [<a href="https://arxiv.org/pdf/2006.12052.pdf">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf">Paper</a>]
-            			    [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
-            			    <!---[<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]-->
+                      <b>Few-shot 3D Point Cloud Semantic Segmentation </b>
+                      <br>
+                      <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 </em>
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2006.12052.pdf">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf">Paper</a>]
+                      [<a href="https://github.com/Na-Z/attMPTI">Code</a>]
                       <br>
                     </td>
               </tr>
-	            <tr>
+              <tr>
                     <td width="40%">
                         <img width="320" src="../images/SESS_teaser.png" border="0">
                     </td>
                     <td>
                       <br>
-	                    <b>SESS: Self-Ensembling Semi-Supervised 3D Object Detection </b>
-	                    <br>
-	                    <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
-	                    <br>
-	                    <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
-	                    <br>
-			                [<a href="https://arxiv.org/pdf/1912.11803.pdf">Preprint</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf">Paper</a>]
-            			    [<a href="https://github.com/Na-Z/sess">Code</a>]
-            			    <!---[<a href="https://www.youtube.com/watch?v=AGJsp4aksS0">Video</a>]-->
+                      <b>SESS: Self-Ensembling Semi-Supervised 3D Object Detection </b>
+                      <br>
+                      <strong>Na Zhao</strong>, Tat-Seng Chua, Gim Hee Lee
+                      <br>
+                      <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020  </em><i style="color:#e74d3c">Oral Presentation</i>
+                      <br>
+                      [<a href="https://arxiv.org/pdf/1912.11803.pdf">Preprint</a>] [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf">Paper</a>]
+                      [<a href="https://github.com/Na-Z/sess">Code</a>]
                       <br>
                     </td>
               </tr>
-			        <tr>
+              <tr>
                     <td width="40%">
                         <img width="320" src="../images/PS2Net_teaser.png" border="0">
                     </td>
@@ -894,49 +1208,215 @@ ________________________________________________________________________________
                         <br>
                         <em>25th International Conference on Pattern Recognition (ICPR), 2020 </em>
                         <br>
-                  			[<a href="https://arxiv.org/pdf/1908.05425.pdf">Preprint</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9412875">Paper</a>] 
-                  			[<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
-                  			<!---[<a href="https://www.youtube.com/watch?v=IupewGCU0o8">Video</a>]-->
+                        [<a href="https://arxiv.org/pdf/1908.05425.pdf">Preprint</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9412875">Paper</a>] 
+                        [<a href="https://github.com/Na-Z/PS-2Net">Code</a>]
                         <br>
                     </td>
                </tr>  
             	</tbody>
-            </table>
-</font>
+</table>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var table = document.getElementById("selected-publications");
+  var filter = document.querySelector(".publication-filter");
+  var emptyMessage = document.querySelector(".publication-filter__empty");
+
+  if (!table || !filter) {
+    return;
+  }
+
+  var rows = Array.prototype.slice.call(table.querySelectorAll("tbody > tr"));
+  var years = [];
+
+  function getPublicationYear(row) {
+    var venue = row.querySelector("em");
+    var sourceText = venue ? venue.textContent : row.textContent;
+    var match = sourceText.match(/\b(20\d{2}|19\d{2})\b/);
+
+    return match ? match[1] : "";
+  }
+
+  function getVenueLabel(row) {
+    var venue = row.querySelector("em");
+
+    if (!venue) {
+      return "";
+    }
+
+    var venueText = venue.textContent.replace(/\s+/g, " ").trim();
+    var parentheticalMatches = venueText.match(/\(([A-Za-z0-9+&.-]{2,})\)/g);
+
+    if (parentheticalMatches && parentheticalMatches.length) {
+      return parentheticalMatches[parentheticalMatches.length - 1].replace(/[()]/g, "");
+    }
+
+    var knownVenues = [
+      "NeurIPS",
+      "CVPR",
+      "ICCV",
+      "ECCV",
+      "ICML",
+      "ICLR",
+      "ICMR",
+      "ICME",
+      "AAAI",
+      "IJCAI",
+      "BMVC",
+      "3DV",
+      "ICRA",
+      "IROS",
+      "IJCV",
+      "TIP",
+      "TMM",
+      "ToMM",
+      "TCSVT",
+      "ICPR"
+    ];
+
+    for (var i = 0; i < knownVenues.length; i += 1) {
+      if (venueText.indexOf(knownVenues[i]) !== -1) {
+        return knownVenues[i];
+      }
+    }
+
+    return "";
+  }
+
+  function labelPublicationImage(row) {
+    var imageCell = row.querySelector("td:first-child");
+    var image = imageCell ? imageCell.querySelector("img") : null;
+    var label = getVenueLabel(row);
+    var wrapper;
+    var labelElement;
+
+    if (!imageCell || !image) {
+      return;
+    }
+
+    wrapper = image.closest(".publication-thumb");
+
+    if (!wrapper) {
+      wrapper = document.createElement("span");
+      wrapper.className = "publication-thumb";
+      image.parentNode.insertBefore(wrapper, image);
+      wrapper.appendChild(image);
+    }
+
+    if (label) {
+      labelElement = document.createElement("span");
+      labelElement.className = "publication-thumb__label";
+      labelElement.textContent = label;
+      wrapper.appendChild(labelElement);
+    }
+  }
+
+  rows.forEach(function (row) {
+    var year = getPublicationYear(row);
+    var yearGroup = year && Number(year) <= 2022 ? "earlier" : year;
+
+    labelPublicationImage(row);
+
+    if (yearGroup) {
+      row.setAttribute("data-year", yearGroup);
+
+      if (years.indexOf(yearGroup) === -1) {
+        years.push(yearGroup);
+      }
+    }
+  });
+
+  years.sort(function (a, b) {
+    if (a === "earlier") {
+      return 1;
+    }
+
+    if (b === "earlier") {
+      return -1;
+    }
+
+    return Number(b) - Number(a);
+  });
+
+  var allButton = document.createElement("button");
+  allButton.type = "button";
+  allButton.className = "publication-filter__button is-active";
+  allButton.setAttribute("data-year", "all");
+  allButton.textContent = "All";
+  filter.appendChild(allButton);
+
+  years.forEach(function (year) {
+    var button = document.createElement("button");
+    button.type = "button";
+    button.className = "publication-filter__button";
+    button.setAttribute("data-year", year);
+    button.textContent = year === "earlier" ? "Earlier" : year;
+    filter.appendChild(button);
+  });
+
+  filter.addEventListener("click", function (event) {
+    var button = event.target.closest(".publication-filter__button");
+
+    if (!button) {
+      return;
+    }
+
+    var selectedYear = button.getAttribute("data-year");
+    var visibleCount = 0;
+
+    filter.querySelectorAll(".publication-filter__button").forEach(function (filterButton) {
+      filterButton.classList.toggle("is-active", filterButton === button);
+    });
+
+    rows.forEach(function (row) {
+      var showRow = selectedYear === "all" || row.getAttribute("data-year") === selectedYear;
+      row.style.display = showRow ? "" : "none";
+
+      if (showRow) {
+        visibleCount += 1;
+      }
+    });
+
+    if (emptyMessage) {
+      emptyMessage.style.display = visibleCount ? "none" : "block";
+    }
+  });
+});
+</script>
 
 
 _______________________________________________________________________________________________________
 
 <h3>
-  <a name="intership"></a> Research Grants
+  <a name="grants"></a> Research Grants
 </h3>
 <div class="mini">
       <ul>
-      <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #3d85c6">S$200,000</span>. Mar 2025 - Mar 2027.
+      <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$1,200,000</span>. May 2026 - May 2029.
+       <span><br></span>Topic: <i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>
+       </li> 
+      <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #52adc8">S$200,000</span>. Mar 2025 - Mar 2027.
        <span><br></span>Topic: <i>Bridging Language and Physical Real-world for 3D Reasoning and Object Manipulation</i>
        </li> 
-       <li>Principal Investigator. MoE Tier 2 Research Grant. <span style="color: #3d85c6">S$994,411</span>. Feb 2025 - Feb 2028.
+       <li>Principal Investigator. MoE Tier 2 Research Grant. <span style="color: #52adc8">S$994,411</span>. Feb 2025 - Feb 2028.
        <span><br></span>Topic: <i>Empowering Real-World 3D Scene Understanding: Navigating Noise, Distribution Shifts, and Incremental Learning</i>
        </li>   
-       <li>co-Principal Investigator. AISG Research Grant. <span style="color: #3d85c6">S$999,999</span>. Jan 2025 - Jan 2028.
+       <li>co-Principal Investigator. AISG Research Grant. <span style="color: #52adc8">S$999,999</span>. Jan 2025 - Jan 2028.
        <span><br></span>Topic: <i>Sequential Deepfake Model Attribution</i>
        </li>  
-       <li>SUTD Principal Investigator. SMU-SUTD Joint Research Grant. <span style="color: #3d85c6">S$275,000</span>. Nov 2024 - Oct 2026.
+       <li>SUTD Principal Investigator. SMU-SUTD Joint Research Grant. <span style="color: #52adc8">S$275,000</span>. Nov 2024 - Oct 2026.
        <span><br></span>Topic: <i>Synthesis and Resilience: Generative Models for Generalizable 3D World Understanding</i>
-       <!---<span><br></span>Principal Investigator: <a href="https://panzhous.github.io">Prof. Zhou Pan</a>, Singapore Management University (SMU)-->
        </li>   
-       <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$998,000</span>. Dec 2023 - Dec 2026.
+       <li>Principal Investigator. DSO Research Grant. <span style="color: #52adc8">S$998,000</span>. Dec 2023 - Dec 2026.
        <span><br></span>Topic: <i>Cross-modality Resiliency against Real-world Attacks</i>
        </li>
-       <li>Co-Investigator. A*STAR MTC Programmatic Grant. <span style="color: #3d85c6">S$9,773,400</span>. Aug 2023 - Jul 2026.
-        <!---S$599,950-->
+       <li>Co-Investigator. A*STAR MTC Programmatic Grant. <span style="color: #52adc8">S$9,773,400</span>. Aug 2023 - Jul 2026.
        <span><br></span>Topic: <i>Towards Realistic Deep Learning for 3D Vision</i>
        </li>
-       <li>Principal Investigator. SUTD-ZJU Thematic Research Grant. <span style="color: #3d85c6">S$148,187</span>. Dec 2022 - Nov 2024.
+       <li>Principal Investigator. SUTD-ZJU Thematic Research Grant. <span style="color: #52adc8">S$148,187</span>. Dec 2022 - Nov 2024.
        <span><br></span>Topic: <i>Multi-modal Joint Learning for Scene Understanding</i>
-       <!---<span><br></span>Collaborator: <a href="https://yiyiliao.github.io">Prof. Liao Yiyi</a>, Zhejiang University (ZJU)-->
        </li>
-       <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #3d85c6">S$85,000</span>. Oct 2022 - Apr 2024.
+       <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #52adc8">S$85,000</span>. Oct 2022 - Apr 2024.
        <span><br></span>Topic: <i>Data-efficient 3D Object Detection for Robot Perception</i>
       </li>
       </ul>
@@ -963,11 +1443,8 @@ ________________________________________________________________________________
 <div class="mini">
   <ul>
   <li> <strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, SIGGRAPH, AAAI, IJCAI, MM, etc</li>
-  <!---NeurIPS 2023-2024, ECCV 2024, ICML 2024, CVPR 2021-2024, ICLR 2024, IJCAI 2021-2024, ICCV 2023, AAAI 2021-2023, BMVC 2022, ECCV 2022, ICCV 2021, MM 2019-2020, PCM 2018-->
   <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, RAL, TCSVT, TOMM, TMM, RAL, Multimedia Systems, etc</li>
-  <!---Transactions on Knowledge and Data Engineering, Transactions on Image Processing, Transactions on Circuits and Systems for Video Technology, Pattern Recognition, Transactions on Multimedia Computing, Communications, and Applications, Journal of Photogrammetry and Remote Sensing, Transactions on Multimedia, Multimedia Systems, Neurocomputing, Journal of Visual Communication and Image Representation-->
   <li> <strong>Organizing Committee</strong>: General Chair (MMM 2027), Publicity Chair (ICMR 2026), Demo Chair (MM 2025), Demo Chair (MIPR 2023), Publication Chair (MMM 2016)</li>
-  <!---The 16th ACM International Conference on Multimedia Retrieval 2026 (Publicity Chair), The 33rd ACM International Conference on Multimedia 2025 (Demo Chair), The 6th IEEE International Conference on Multimedia Information Processing and Retrieval 2023 (Demo Chair), The 2nd ICME Workshop on 3D Multimedia Analytics, Search and Generation 2023 (Chair), The 22nd international conference on Multimedia Modeling 2016 (Publication Chair)-->
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Journal Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
   <li> <strong>Conference Senior Area Chair (SAC)</strong>: ICME 2026 </li>
