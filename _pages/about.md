@@ -42,6 +42,8 @@ ________________________________________________________________________________
 
 <div class="mini news-scrollbox">
   <ul>
+    <li> <strong>[Jul 2026]</strong> I will serve as a Senior Program Committee (SPC) for AAAI 2027!</li>
+    <li> <strong>[Jul 2026]</strong> One paper about source-free domain adaptation for indoor 3D object detection is accepted at MM 2026!</li>
     <li> <strong>[Jun 2026]</strong> Three papers are accepted at ECCV 2026! Stay tuned for more details!</li>
     <li> <strong>[May 2026]</strong> I am awarded a grant titled "<i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>" from DSO as the sole Principal Investigator! Thanks to DSO for the continued support!</li>
     <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! </li>
@@ -327,6 +329,20 @@ ________________________________________________________________________________
 
 <table cellspacing="0" cellpadding="0" class="noBorder" id="selected-publications">
           <tbody> 
+         <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/SFUDA_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Crossing Modalities, Closing Domains: Source-Free Indoor 3D Object Detection from Synthetic to Real Adaptation</b>
+                      <br>
+                      Shangbo Yuan, Jie Xu, Xiaofeng Zhu, <strong>Na Zhao</strong>
+                      <br>
+                      <em>ACM Multimedia (MM), 2026</em> 
+                      <br>
+                       [<a>Paper (Coming Soon)</a>]
+                    </td>
+           </tr>
           <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/LDMR_framework.png" border="0">
@@ -338,7 +354,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2026</em> 
                       <br>
-                       [<a>Paper (Coming Soon)</a>]
+                       [<a href="https://arxiv.org/pdf/2607.14560">Preprint</a>] [<a href="https://github.com/qianpeisheng/LDMR">Code</a>]
                     </td>
            </tr>
           <tr>
@@ -366,7 +382,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2604.26567">Preprint</a>]
+                       [<a href="https://nudt-sawlab.github.io/AirZoo/">Project</a>][<a href="https://arxiv.org/pdf/2604.26567">Preprint</a>] [<a href="https://github.com/nudt-sawlab/AirZoo">Code</a>]
                     </td>
            </tr>
           <tr>
@@ -1449,7 +1465,7 @@ ________________________________________________________________________________
   <li> <strong>Journal Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
   <li> <strong>Conference Senior Area Chair (SAC)</strong>: ICME 2026 </li>
   <li> <strong>Conference Area Chair (AC)</strong>: NeurIPS 2026, ICLR 2025/2026, MM 2025/2026, NLPCC 2025 </li>
-  <li> <strong>Conference Senior Program Committee (PC) Member</strong>: IJCAI 2025</li>
+  <li> <strong>Conference Senior Program Committee (PC) Member</strong>: AAAI 2027, IJCAI 2025</li>
   </ul>
 </div>
 
