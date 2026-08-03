@@ -44,6 +44,7 @@ ________________________________________________________________________________
   <ul>
     <li> <strong>[Jul 2026]</strong> I will serve as a Senior Program Committee (SPC) for AAAI 2027!</li>
     <li> <strong>[Jul 2026]</strong> One paper about source-free domain adaptation for indoor 3D object detection is accepted at MM 2026!</li>
+    <li> <strong>[Jul 2026]</strong> I will serve as the Diversity, Equity, and Inclusion Chair of the <a href="https://acmweb2027.org">36th ACM Web Conference</a> (formerly known as WWW) 2027!</li>
     <li> <strong>[Jun 2026]</strong> Three papers are accepted at ECCV 2026! Stay tuned for more details!</li>
     <li> <strong>[May 2026]</strong> I am awarded a grant titled "<i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>" from DSO as the sole Principal Investigator! Thanks to DSO for the continued support!</li>
     <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! </li>
@@ -1460,7 +1461,7 @@ ________________________________________________________________________________
   <ul>
   <li> <strong>Conference Reviewer</strong>: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, SIGGRAPH, AAAI, IJCAI, MM, etc</li>
   <li> <strong>Journal Reviewer</strong>: TPAMI, TIP, TKDE, RAL, TCSVT, TOMM, TMM, RAL, Multimedia Systems, etc</li>
-  <li> <strong>Organizing Committee</strong>: General Chair (MMM 2027), Publicity Chair (ICMR 2026), Demo Chair (MM 2025), Demo Chair (MIPR 2023), Publication Chair (MMM 2016)</li>
+  <li> <strong>Organizing Committee</strong>: General Chair (MMM 2027), Diversity, Equity, and Inclusion Chair (ACM Web Conference 2027), Publicity Chair (ICMR 2026), Demo Chair (MM 2025), Demo Chair (MIPR 2023), Publication Chair (MMM 2016)</li>
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Journal Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
   <li> <strong>Conference Senior Area Chair (SAC)</strong>: ICME 2026 </li>
