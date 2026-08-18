@@ -42,17 +42,19 @@ ________________________________________________________________________________
 
 <div class="mini news-scrollbox">
   <ul>
+    <li> <strong>[Aug 2026]</strong> I will serve as an Area Chair for ICLR 2027!</li>
+    <li> <strong>[Aug 2026]</strong> Two papers about unguided depth completion and weakly supervised affordance grounding are accepted at BMVC 2026!</li>
     <li> <strong>[Jul 2026]</strong> I will serve as a Senior Program Committee (SPC) for AAAI 2027!</li>
     <li> <strong>[Jul 2026]</strong> One paper about source-free domain adaptation for indoor 3D object detection is accepted at MM 2026!</li>
     <li> <strong>[Jul 2026]</strong> I will serve as the Diversity, Equity, and Inclusion Chair of the <a href="https://acmweb2027.org">36th ACM Web Conference</a> (formerly known as WWW) 2027!</li>
-    <li> <strong>[Jun 2026]</strong> Three papers are accepted at ECCV 2026! Stay tuned for more details!</li>
+    <li> <strong>[Jun 2026]</strong> Three papers are accepted at ECCV 2026! Two tackle real-world challenges in 3D object detection, while the third introduces a million-scale UAV dataset AirZoo!</li>
     <li> <strong>[May 2026]</strong> I am awarded a grant titled "<i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>" from DSO as the sole Principal Investigator! Thanks to DSO for the continued support!</li>
-    <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! </li>
+    <li> <strong>[Apr 2026]</strong> Five papers are accepted at ICML 2026! Check out the details below.</li>
     <li> <strong>[Apr 2026]</strong> One paper about training-free 3D spatial reasoning and understanding is accepted at ICMR 2026!</li>
     <li> <strong>[Mar 2026]</strong> I will serve as an Area Chair for NeurIPS 2026!</li>
     <li> <strong>[Mar 2026]</strong> One paper about language-driven affordance part segmentation in 3D scenes is accepted at ICME 2026! </li> 
     <li> <strong>[Feb 2026]</strong> I will serve as an Area Chair for MM 2026!</li>
-    <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! </li> 
+    <li> <strong>[Feb 2026]</strong> Nine papers are accepted at CVPR 2026 (seven Main papers and two Findings papers)! Check out the details below!</li> 
     <li> <strong>[Jan 2026]</strong> I will serve as the General Chair for the 33rd International Conference on Multimedia Modeling (<a href="https://www.mmm2027.net/home">MMM 2027</a>)!</li> 
     <li> <strong>[Jan 2026]</strong> One paper about tuning-free long video generation is accepted at ToMM 2026!</li> 
     <li> <strong>[Jan 2026]</strong> I am invited to serve as senior Area Chair at IEEE ICME 2026!</li> 
@@ -1465,7 +1467,7 @@ ________________________________________________________________________________
   <li> <strong>Technical Committee Member</strong>: IEEE-CAS Multimedia Systems & Applications (2024-2028)</li>
   <li> <strong>Journal Associate Editor (AE)</strong>: Knowledge-Based Systems (Feb 2025-), IEEE TCSVT (Nov 2025-)</li>
   <li> <strong>Conference Senior Area Chair (SAC)</strong>: ICME 2026 </li>
-  <li> <strong>Conference Area Chair (AC)</strong>: NeurIPS 2026, ICLR 2025/2026, MM 2025/2026, NLPCC 2025 </li>
+  <li> <strong>Conference Area Chair (AC)</strong>: ICLR 2025/2026/2027, NeurIPS 2026, MM 2025/2026, NLPCC 2025 </li>
   <li> <strong>Conference Senior Program Committee (PC) Member</strong>: AAAI 2027, IJCAI 2025</li>
   </ul>
 </div>
