@@ -371,7 +371,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2026</em> 
                       <br>
-                       [<a>Paper (Coming Soon)</a>]
+                       [<a href="https://arxiv.org/pdf/2608.19973">Preprint</a>] [<a href="https://github.com/shangboyuan/Co-3DGT">Code</a>]
                     </td>
            </tr>
           <tr>
@@ -1411,7 +1411,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
       <ul>
-      <li>Principal Investigator. DSO Research Grant. <span style="color: #3d85c6">S$1,200,000</span>. May 2026 - May 2029.
+      <li>Principal Investigator. DSO Research Grant. <span style="color: #52adc8">S$1,200,000</span>. May 2026 - May 2029.
        <span><br></span>Topic: <i>X-Modal 3D Panoptic Segmentation Against Universal Distribution Shifts</i>
        </li> 
       <li>Principal Investigator. TL@SUTD Seed Grant. <span style="color: #52adc8">S$200,000</span>. Mar 2025 - Mar 2027.
