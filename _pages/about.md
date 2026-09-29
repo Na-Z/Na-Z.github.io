@@ -42,6 +42,7 @@ ________________________________________________________________________________
 
 <div class="mini news-scrollbox">
   <ul>
+    <li> <strong>[Sep 2026]</strong> Two papers about generalized object pose estimation and metric depth estimation are accepted at NeurIPS 2026!</li>
     <li> <strong>[Aug 2026]</strong> I will serve as an Area Chair for ICLR 2027!</li>
     <li> <strong>[Aug 2026]</strong> Two papers about unguided depth completion and weakly supervised affordance grounding are accepted at BMVC 2026!</li>
     <li> <strong>[Jul 2026]</strong> I will serve as a Senior Program Committee (SPC) for AAAI 2027!</li>
@@ -332,7 +333,35 @@ ________________________________________________________________________________
 
 <table cellspacing="0" cellpadding="0" class="noBorder" id="selected-publications">
           <tbody> 
-         <tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GenCOPE_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking</b>
+                      <br>
+                      Jian Liu, Wei Sun, Zhenqi Dai, Hui Yang, Jian Xiao, Nicu Sebe, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</em> 
+                      <br>
+                       [<a>Paper (Coming Soon)</a>]
+                    </td>
+          </tr>
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/AdaDS_teaser.png" border="0">
+                    </td>
+                    <td>
+                      <b>Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts</b>
+                      <br>
+                      Kun Wang, Yun Zhu, Pan Zhou, <strong>Na Zhao*</strong>
+                      <br>
+                      <em>40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</em> 
+                      <br>
+                       [<a>Paper (Coming Soon)</a>]
+                    </td>
+           </tr>
+          <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/SFUDA_framework.png" border="0">
                     </td>
@@ -357,7 +386,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2607.14560">Preprint</a>] [<a href="https://github.com/qianpeisheng/LDMR">Code</a>]
+                       [<a href="https://qianpeisheng.github.io/LDMR-project-page/">Project</a>] [<a href="https://arxiv.org/pdf/2607.14560">Preprint</a>] [<a href="https://github.com/qianpeisheng/LDMR">Code</a>] [<a href="https://www.youtube.com/watch?v=zj82dCjhQiU">Video</a>]
                     </td>
            </tr>
           <tr>
@@ -371,7 +400,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2026</em> 
                       <br>
-                       [<a href="https://arxiv.org/pdf/2608.19973">Preprint</a>] [<a href="https://github.com/shangboyuan/Co-3DGT">Code</a>]
+                       [<a href="https://arxiv.org/pdf/2608.19973">Preprint</a>] [<a href="https://github.com/shangboyuan/Co-3DGT">Code</a>] 
                     </td>
            </tr>
           <tr>
@@ -385,7 +414,7 @@ ________________________________________________________________________________
                       <br>
                       <em>European Conference on Computer Vision (ECCV), 2026</em> 
                       <br>
-                       [<a href="https://nudt-sawlab.github.io/AirZoo/">Project</a>][<a href="https://arxiv.org/pdf/2604.26567">Preprint</a>] [<a href="https://github.com/nudt-sawlab/AirZoo">Code</a>]
+                       [<a href="https://nudt-sawlab.github.io/AirZoo/">Project</a>][<a href="https://arxiv.org/pdf/2604.26567">Preprint</a>] [<a href="https://github.com/nudt-sawlab/AirZoo">Code</a>] 
                     </td>
            </tr>
           <tr>
@@ -584,6 +613,34 @@ ________________________________________________________________________________
                       [<a href="https://arxiv.org/pdf/2603.06572">Preprint</a>] [<a href="https://openaccess.thecvf.com/content/CVPR2026F/html/Thengane_SCOPE_Scene-Contextualized_Incremental_Few-Shot_3D_Segmentation_CVPRF_2026_paper.html">Paper</a>] [<a href="https://github.com/Surrey-UP-Lab/SCOPE">Code</a>] 
                     </td>
            </tr> 
+          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/GUDC_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Depth-to-Image Synthesis-Driven Generative Unguided Depth Completion</b>
+                      <br>
+                      Jiayi Yuan, <strong>Na Zhao*</strong>, De Wen Soh
+                      <br>
+                      <em>The British Machine Vision Conference (BMVC), 2026 </em> 
+                      <br>
+                      [<a href="https://arxiv.org/pdf/2609.06007">Preprint</a>] 
+                    </td>
+              </tr>
+            <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/WAGDS_framework.png" border="0">
+                    </td>
+                    <td>
+                      <b>Weakly Supervised Affordance Grounding via Semantic Affordance Anchoring</b>
+                      <br>
+                      Lei Wu, Yuanxing Liu, Ruiyu Xiao, Xinyi Wang, <strong>Na Zhao</strong>, Weinan Zhang, Ting Liu
+                      <br>
+                      <em>The British Machine Vision Conference (BMVC), 2026 </em> 
+                      <br>
+                      [<a>Paper (Coming Soon)</a>]
+                    </td>
+              </tr>
           <tr>
                    <td class="noBorder" width="40%">
                     <img width="320" src="../images/Taven_framework.png" border="0">
@@ -1479,6 +1536,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> Mentor, 01.400 Capstone (5), Fall 2026 & Spring 2027 </li>
   <li> Mentor, 01.400 Capstone (3), Fall 2025 & Spring 2026 </li>
   <li> Mentor, 01.400 Capstone (2), Fall 2024 & Spring 2025 </li>
   <li> Instructor, 50.007 Machine Learning, Spring 2023/2024/2025/2026. </li>
